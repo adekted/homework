@@ -105,21 +105,86 @@ AND language_id IN (
 );
 
 # Q7B - Use subqueries to display all actors who appear in the film Alone Trip.
-
+SELECT *
+FROM actor
+WHERE actor_id IN (
+	SELECT actor_id
+    FROM film_actor
+    WHERE film_id IN (
+		SELECT film_id
+        FROM film
+        WHERE title = 'Alone Trip'
+        )
+);
 # Q7C - You want to run an email marketing campaign in Canada, for which you will need the names and email addresses of all Canadian customers. Use joins to retrieve this information.
+SELECT concat(c.first_name, ' ', c.last_name), c.email
+FROM customer c INNER JOIN address a
+ON c.address_id = a.address_id
+WHERE a.city_id in (
+	SELECT city_id
+    FROM city
+    WHERE country_id IN (
+		SELECT country_id
+        FROM country
+        WHERE country = 'Canada'
+    )
+);
 
 # Q7D - Sales have been lagging among young families, and you wish to target all family movies for a promotion. Identify all movies categorized as famiy films.
+SELECT title
+FROM film
+WHERE film_id IN (
+	SELECT film_id
+    FROM film_category
+    WHERE category_id IN (
+		SELECT category_id
+        FROM category
+        WHERE name = 'family'
+    )
+);
 
 # Q7E - Display the most frequently rented movies in descending order.
+SELECT f.title, COUNT(r.rental_id) 
+FROM film f 
+INNER JOIN inventory i ON f.film_id = i.film_id
+INNER JOIN rental r on i.inventory_id = r.inventory_id
+GROUP BY f.title
+ORDER BY COUNT(r.rental_id) DESC;
 
 # Q7F - Write a query to display how much business, in dollars, each store brought in.
+SELECT s.store_id, SUM(p.amount) AS 'Store Sales'
+FROM payment p INNER JOIN staff s ON p.staff_id = s.staff_id
+GROUP BY s.store_id;
 
 # Q7G - Write a query to display for each store its store ID, city, and country.
+SELECT s.store_id, ci.city, co.country 
+FROM store s
+INNER JOIN address a ON s.address_id = a.address_id
+INNER JOIN city ci ON a.city_id = ci.city_id
+INNER JOIN country co ON ci.country_id = co.country_id;
 
 # Q7H - List the top five genres in gross revenue in descending order. (Hint: you may need to use the following tables: category, film_category, inventory, payment, and rental.)
+SELECT c.name, SUM(p.amount) AS 'Gross Revenue'
+FROM category c 
+INNER JOIN film_category fc ON c.category_id = fc.category_id
+INNER JOIN inventory i ON fc.film_id = i.film_id
+INNER JOIN rental r ON r.inventory_id = i.inventory_id
+INNER JOIN payment p ON p.rental_id = r.rental_id
+GROUP BY name;
 
 # Q8A - In your new role as an executive, you would like to have an easy way of viewing the Top five genres by gross revenue. Use the solution from the problem above to create a view. If you haven't solved 7h, you can substitute another query to create a view.
+CREATE VIEW top_five_genres AS
+SELECT c.name, SUM(p.amount) AS 'Gross Revenue'
+FROM category c 
+INNER JOIN film_category fc ON c.category_id = fc.category_id
+INNER JOIN inventory i ON fc.film_id = i.film_id
+INNER JOIN rental r ON r.inventory_id = i.inventory_id
+INNER JOIN payment p ON p.rental_id = r.rental_id
+GROUP BY name;
 
 # Q8B - How would you display the view that you created in 8a?
+SELECT *
+FROM top_five_genres;
 
 # Q8C -You find that you no longer need the view top_five_genres. Write a query to delete it.
+DROP VIEW top_five_genres;
