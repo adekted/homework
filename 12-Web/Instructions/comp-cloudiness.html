@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Weather - Latitude Visualizations</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="resources/styles.css">
+</head>
+<body>
+
+    <!-- Navbar !-->
+    <nav class = "navbar navbar-default">
+        <div class = "container-fluid">
+            <div class = "navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"
+                aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="index.html" id = "nav-latitude" style="color: white">
+                    <span class="nav-color">Latitude</span>
+                </a>
+                <a class="navbar-brand" href="index.html" id="navbar-title">Weather Analysis</a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="dropdown" id = "right-drop">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Plots<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="comp-max_temp.html">Temperature</a></li>
+                            <li><a href="comp-humidity.html">Humidity</a></li>
+                            <li><a href="comp-cloudiness.html">Cloudiness</a></li>
+                            <li><a href="comp-wind_speed.html">Wind Speed</a></li>
+                        </ul>
+                    </li>
+                    <li id = "right-drop"><a href="graphs.html">Comparisons</a></li>
+                    <li id = "right-drop"><a href="data.html">Dataset</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Body !-->
+    <div class = "container-fluid">
+        <div class="col-md-1"></div>
+            <div class="col-md-7">
+                <div class="panel panel-default">
+                    <div class="panel-body">
+                        <h1>Latitude Factors</h1>
+                        <hr>
+                        <img class = "img-responsive" src="Resources/assets/images/Fig3.png" style="width:67%; float: left;" alt="first image">
+                        <p style = "padding: 10px;"> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                                when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into 
+                                electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
+                                and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+                        <br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="col-md-3">
+                    <div class="panel panel-default">
+                        <div class="panel-body"> 
+                            <h1>Visualizations</h1>
+                            <hr>
+                            <div class="row" style = "padding: 10px">
+                                <div class="col-md-12"><a href="comp-max_temp.html"><img class = "img img-responsive" src="Resources/assets/images/Fig1.png" style="width:100%" alt=""></a></div>
+                                <div class="col-md-12"><a href="comp-humidity.html"><img class = "img img-responsive" src="Resources/assets/images/Fig2.png" style="width:100%" alt=""></a></div>
+                                <div class="col-md-12"><a href="comp-cloudiness.html"><img class = "img img-responsive" src="Resources/assets/images/Fig3.png" style="width:100%" alt=""></a></div>
+                                <div class="col-md-12"><a href="comp-wind_speed.html"><img class = "img img-responsive" src="Resources/assets/images/Fig4.png" style="width:100%" alt=""></a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        
+            <div class="col-md-1"></div>
+            
+        </div>    
+
+    <!-- Footer !-->
+    <div class="footer-copyright text-center py-3"><i>© 2018 Copyright:</i>
+        <a href="https://github.com/Adekted"> Adrian Mercado</a>
+    </div>
+  
+</body>
+</html>

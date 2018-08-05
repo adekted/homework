@@ -1,0 +1,43 @@
+body {
+    background-color: darkgray;
+    margin-bottom: 60px;
+}
+
+.navbar-brand{
+    margin: 7px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+}
+
+#nav-latitude{
+    background-color: olive;
+    margin: 7px
+}
+
+html{
+    position: relative;
+    min-height: 100%;
+}
+
+#right-drop{
+    margin: 7px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12pt;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
