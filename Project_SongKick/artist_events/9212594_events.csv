@@ -1,0 +1,40 @@
+Event Number,City,Event Name,Latitude,Longitude,Popularity,Start Date,Start Time,Venue
+1,"Mountain View, CA, US",Rolling Loud Festival 2017,37.42332,-122.07803,0.649488,2017-10-21,None,Shoreline Amphitheatre
+2,"San Bernardino, CA, US",Rolling Loud Festival 2017,34.08973,-117.29406,0.326749,2017-12-16,13:00:00,NOS Events Center
+3,"Minneapolis, MN, US","Trippie Redd with Tiiiiiiiiiip at Music Hall (January 13, 2018)",44.9804803,-93.2744249,0.008772,2018-01-13,19:00:00,Music Hall
+4,"Santa Ana, CA, US","Trippie Redd at The Observatory (January 14, 2018)",33.6998449,-117.9194457,0.008894,2018-01-14,20:00:00,The Observatory
+5,"Santa Ana, CA, US","Trippie Redd at The Observatory (January 14, 2018)",33.6998449,-117.9194457,0.008894,2018-01-14,23:00:00,The Observatory
+6,"Los Angeles, CA, US","Trippie Redd at The Novo by Microsoft (January 15, 2018)",34.0449376,-118.2654979,0.009018,2018-01-15,19:00:00,The Novo by Microsoft
+7,"Sugar Land, TX, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at Smart Financial Centre (February 15, 2018)",29.5770582,-95.6432928,0.180737,2018-02-15,20:00:00,Smart Financial Centre
+8,"Irving, TX, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at Pavilion at the Toyota Music Factory (February 17, 2018)",32.8750507,-96.9445262,0.191133,2018-02-17,19:00:00,Pavilion at the Toyota Music Factory
+9,"Austin, TX, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at Austin City Limits Live at The Moody Theater (February 18, 2018)",30.2653712,-97.7472955,0.181475,2018-02-18,19:00:00,Austin City Limits Live at The Moody Theater
+10,"Phoenix, AZ, US","G-Eazy with Trippie Redd, Phora, and Anthony Russo at Comerica Theatre (February 20, 2018)",33.448775,-112.079564,0.182007,2018-02-20,19:30:00,Comerica Theatre
+11,"Los Angeles, CA, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at The Wiltern (February 22, 2018)",34.0619389,-118.3088392,0.182856,2018-02-22,18:00:00,The Wiltern
+12,"Los Angeles, CA, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at The Wiltern (February 23, 2018)",34.0619389,-118.3088392,0.183148,2018-02-23,18:00:00,The Wiltern
+13,"Los Angeles, CA, US","G-Eazy with Anthony Russo, Trippie Redd, and Phora at Shrine Expo Hall (February 24, 2018)",34.0242739,-118.2806695,0.183408,2018-02-24,18:30:00,Shrine Expo Hall
+14,"Las Vegas, NV, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at Park Theater, Park MGM Las Vegas (February 25, 2018)",36.1050207,-115.1735947,0.202787,2018-02-25,19:00:00,"Park Theater, Park MGM Las Vegas"
+15,"San Francisco, CA, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at Bill Graham Civic Auditorium (February 28, 2018)",37.7785099,-122.4174684,0.184443,2018-02-28,20:00:00,Bill Graham Civic Auditorium
+16,"Oakland, CA, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at Fox Theater (March 1, 2018)",37.8078474,-122.2699981,0.184693,2018-03-01,20:00:00,Fox Theater
+17,"Kent, WA, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at ShoWare Center (March 3, 2018)",47.3867468,-122.241284,0.185181,2018-03-03,19:00:00,ShoWare Center
+18,"Broomfield, CO, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at 1stBANK Center (March 6, 2018)",39.904696,-105.085281,0.186089,2018-03-06,19:00:00,1stBANK Center
+19,"St. Paul, MN, US","G-Eazy with Trippie Redd, Phora, and Anthony Russo at Roy Wilkins Auditorium, St. Paul Rivercentre (March 8, 2018)",44.9434375,-93.1001445,0.186894,2018-03-08,19:00:00,"Roy Wilkins Auditorium, St. Paul Rivercentre"
+20,"Chicago, IL, US","Trippie Redd with Femdot at Portage Theater (March 9, 2018)",41.9543517,-87.749032,0.015713,2018-03-09,18:00:00,Portage Theater
+21,"Chicago, IL, US","G-Eazy with Phora, Anthony Russo, and Trippie Redd at Aragon Ballroom (March 9, 2018)",41.9692552,-87.6579453,0.187156,2018-03-09,19:00:00,Aragon Ballroom
+22,"Atlantic City, NJ, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at Borgata Event Center (March 16, 2018)",39.3770706,-74.4345188,0.188941,2018-03-16,19:00:00,Borgata Event Center
+23,"Washington, DC, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at DAR Constitution Hall (March 17, 2018)",38.8936076,-77.0397162,0.189143,2018-03-17,19:00:00,DAR Constitution Hall
+24,"Boston, MA, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at Agganis Arena (March 18, 2018)",42.3517889,-71.117785,0.189345,2018-03-18,19:00:00,Agganis Arena
+25,"New York, NY, US","G-Eazy with Phora, Trippie Redd, and Anthony Russo at Radio City Music Hall (March 20, 2018)",40.760114,-73.980024,0.189847,2018-03-20,19:00:00,Radio City Music Hall
+26,"Raleigh, NC, US","Trippie Redd, Whethan, Zeds Dead, MATOMA, and 3 more… at Red Hat Amphitheater (April 14, 2018)",35.7737725,-78.643066,0.062554,2018-04-14,16:00:00,Red Hat Amphitheater
+27,"San Francisco, CA, US","Berner, 2 Chainz, Chief Keef, Trippie Redd, and 1 more… at Bill Graham Civic Auditorium (April 20, 2018)",37.7785099,-122.4174684,0.261634,2018-04-20,17:30:00,Bill Graham Civic Auditorium
+28,"Long Beach, CA, US",The Smokers Club 2018,33.75255,-118.19025,0.557128,2018-04-28,None,Queen Mary Events Park
+29,"Charlotte, NC, US","Trippie Redd and Migos at Charlotte Metro Credit Union Amphitheatre (May 1, 2018)",35.2393768,-80.8456537,0.180663,2018-05-01,19:30:00,Charlotte Metro Credit Union Amphitheatre
+30,"Southaven, MS, US","Trippie Redd, Migos, Lil Baby, and Lil Yachty at Landers Center (May 3, 2018)",34.931985,-89.9969882,0.181248,2018-05-03,19:00:00,Landers Center
+31,"Dallas, TX, US","Playboi Carti, Bun B, Ski Mask The Slump God, Cozz, and 10 more… at Fair Park (May 4, 2018)",32.77586,-96.76416,0.39508,2018-05-04,14:00:00,Fair Park
+32,"Austin, TX, US","Playboi Carti, Bun B, Ski Mask The Slump God, Cozz, and 9 more… at The Circuit of the Americas (cota) Lot A (May 5, 2018)",30.13416,-97.63843,0.39508,2018-05-05,14:00:00,The Circuit of the Americas (cota) Lot A
+33,"Houston, TX, US","Playboi Carti, Bun B, Cozz, Kevin Gates, and 9 more… at Sam Houston Race Park (May 6, 2018)",29.93049,-95.54131,0.39508,2018-05-06,13:00:00,Sam Houston Race Park
+34,"Miami, FL, US",Rolling Loud Festival 2018,25.68701,-80.35159,0.557128,2018-05-11,00:00:00,Hard Rock Stadium
+35,"Philadelphia, PA, US","Trippie Redd, Migos, and PnB Rock at Festival Pier at Penn's Landing (May 19, 2018)",39.960258,-75.137185,0.192876,2018-05-19,19:00:00,Festival Pier at Penn's Landing
+36,"Dover, DE, US",Firefly Music Festival 2018,39.15817,-75.52437,0.895067,2018-06-14,None,"The Woodlands, Dover International Speedway"
+37,"Des Moines, IA, US",515 Alive 2018,41.56896,-93.6474,0.329901,2018-08-17,None,Water Works Park
+38,"Chicago, IL, US",Lyrical Lemonade Summer Smash 2018,41.86323,-87.70205,0.108282,2018-08-19,12:00:00,Douglas Park Cultural & Community Center
+39,"Houston, TX, US","Trippie Redd with Spire at Spire Night Club (August 25, 2018)",29.75135,-95.36986,0.035302,2018-08-25,22:00:00,Spire Night Club

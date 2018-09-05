@@ -1,0 +1,337 @@
+Event Number,City,Event Name,Latitude,Longitude,Popularity,Start Date,Start Time,Venue
+1,"Bellingham, WA, US","Beat Connection with Teen Daze and ODESZA at Wild Buffalo (November 9, 2012)",48.75071,-122.4806,0.123152,2012-11-09,None,Wild Buffalo
+2,"Portland, OR, US","Beat Connection with ODESZA at Holocene (November 15, 2012)",45.51757,-122.65533,0.123152,2012-11-15,20:30:00,Holocene
+3,"Seattle, WA, US","Beat Connection and Designer Drugs with ODESZA at Neumos Crystal Ball Reading Room (November 17, 2012)",47.61401,-122.32004,0.123152,2012-11-17,20:00:00,Neumos Crystal Ball Reading Room
+4,"Bozeman, MT, US","Emancipator with ODESZA at Montana State University Bozeman (March 7, 2013)",45.6708,-111.04972,0.123152,2013-03-07,19:00:00,Montana State University Bozeman
+5,"Portland, OR, US","Emancipator with ODESZA at Wonder Ballroom (March 8, 2013)",45.54085,-122.66349,0.123152,2013-03-08,20:00:00,Wonder Ballroom
+6,"Seattle, WA, US","Emancipator with ODESZA at Neumos Crystal Ball Reading Room (March 9, 2013)",47.61401,-122.32004,0.123152,2013-03-09,20:00:00,Neumos Crystal Ball Reading Room
+7,"Bellingham, WA, US","Emancipator with ODESZA at Wild Buffalo (March 10, 2013)",48.75071,-122.4806,0.123152,2013-03-10,20:00:00,Wild Buffalo
+8,"Eugene, OR, US","Emancipator with ODESZA at WOW Hall (March 12, 2013)",44.05121,-123.09706,0.123152,2013-03-12,20:00:00,WOW Hall
+9,"Arcata, CA, US","Emancipator with ODESZA at Arcata Theatre Lounge (March 13, 2013)",40.86991,-124.08513,0.123152,2013-03-13,21:30:00,Arcata Theatre Lounge
+10,"San Francisco, CA, US","Emancipator with Little People and ODESZA at Mezzanine (March 14, 2013)",37.78239,-122.40802,0.123152,2013-03-14,21:00:00,Mezzanine
+11,"Santa Cruz, CA, US","Emancipator with Little People and ODESZA at The Catalyst (March 15, 2013)",36.97137,-122.02554,0.123152,2013-03-15,21:00:00,The Catalyst
+12,"Los Angeles, CA, US","Emancipator with ODESZA and Little People at El Rey Theatre (March 16, 2013)",34.0624,-118.3488,0.123152,2013-03-16,None,El Rey Theatre
+13,"Solana Beach, CA, US","Emancipator with ODESZA and Little People at Belly Up Tavern (March 17, 2013)",32.99071,-117.27041,0.123152,2013-03-17,20:00:00,Belly Up Tavern
+14,"Flagstaff, AZ, US","Emancipator with Little People and ODESZA at Green Room (March 19, 2013)",35.19745,-111.64691,0.123152,2013-03-19,20:00:00,Green Room
+15,"Albuquerque, NM, US","Emancipator with ODESZA at Effex Nightclub (March 20, 2013)",35.08446,-106.65262,0.123152,2013-03-20,20:00:00,Effex Nightclub
+16,"Durango, CO, US","Emancipator with ODESZA and Little People at Henry Strater Theater (March 21, 2013)",37.27088,-107.88164,0.123152,2013-03-21,None,Henry Strater Theater
+17,"Salt Lake City, UT, US","Emancipator with ODESZA and Little People at Urban Lounge (March 22, 2013)",40.7638,-111.87653,0.123152,2013-03-22,21:00:00,Urban Lounge
+18,"Crystal Bay, NV, US","Emancipator with Little People and ODESZA at Tahoe Biltmore Lodge & Casino (March 23, 2013)",39.22819,-120.0047,0.123152,2013-03-23,21:00:00,Tahoe Biltmore Lodge & Casino
+19,"San Francisco, CA, US","Beat Connection with ODESZA at California Academy of Sciences (May 2, 2013)",37.76974,-122.46614,0.123152,2013-05-02,None,California Academy of Sciences
+20,"Santa Monica, CA, US","Beat Connection with ODESZA at Central Social Aid & Pleasure Club (Central SPAC) (May 3, 2013)",34.02429,-118.48608,0.123152,2013-05-03,None,Central Social Aid & Pleasure Club (Central SPAC)
+21,"Santa Ana, CA, US","Beat Connection with ODESZA at Constellation Room at the Observatory (May 4, 2013)",33.69984,-117.91945,0.123152,2013-05-04,None,Constellation Room at the Observatory
+22,"San Diego, CA, US","Beat Connection with ODESZA at Soda Bar (May 5, 2013)",32.75506,-117.11549,0.123152,2013-05-05,20:30:00,Soda Bar
+23,"Sacramento, CA, US","Beat Connection with ODESZA at Blue Lamp (May 7, 2013)",38.56832,-121.46715,0.123152,2013-05-07,None,Blue Lamp
+24,"Arcata, CA, US","Beat Connection with ODESZA at Jambalaya (May 8, 2013)",40.86929,-124.0867,0.123152,2013-05-08,21:00:00,Jambalaya
+25,"Eugene, OR, US","Beat Connection with ODESZA at WOW Hall (May 9, 2013)",44.05121,-123.09706,0.123152,2013-05-09,21:00:00,WOW Hall
+26,"Portland, OR, US","ODESZA with The Great Mundane at Rotture (May 11, 2013)",45.52054,-122.66288,0.123152,2013-05-11,None,Rotture
+27,"Bellingham, WA, US","ODESZA with Ig88 at Wild Buffalo (May 18, 2013)",48.75071,-122.4806,0.123152,2013-05-18,20:00:00,Wild Buffalo
+28,"George, WA, US",Sasquatch! Music Festival 2013,47.09595,-119.98263,0.601071,2013-05-24,11:00:00,Gorge Amphitheatre
+29,"Bellingham, WA, US",Western Washington University Lawnstock 2013,48.73777,-122.48802,0.123152,2013-06-02,None,Western Washington University (WWU)
+30,"Temecula, CA, US",Lightning In A Bottle 2013,33.59058,-117.0362,0.123152,2013-07-11,20:00:00,Lake Skinner County Park
+31,"The Dalles, OR, US",WTF?! What The Festival 2013,45.54345,-121.08971,0.123152,2013-07-26,None,Wolf Run Ranch
+32,"The Dalles, OR, US",What the Festival 2013,45.54345,-121.08971,0.123152,2013-07-26,None,Wolf Run Ranch
+33,"Seattle, WA, US","The Flaming Lips with Frightened Rabbit, Cults, Hey Marseilles, and 2 more… at Capitol Hill Block Party (July 28, 2013)",47.6151,-122.32234,0.159271,2013-07-28,None,Capitol Hill Block Party
+34,"Darrington, WA, US",Summer Meltdown 2013,48.27487,-121.65721,0.123152,2013-08-09,17:00:00,Summer Meltdown
+35,"Darrington, WA, US",Summer Meltdown 2013,48.29698,-121.56071,0.123152,2013-08-09,None,Whitehorse Mountain Amphitheater
+36,"Seattle, WA, US",Decibel Festival 2013,47.61401,-122.32004,0.123152,2013-09-28,None,Neumos Crystal Ball Reading Room
+37,"Orlando, FL, US","Michal Menert with ODESZA at The Social (September 30, 2013)",28.54315,-81.37918,0.123152,2013-09-30,None,The Social
+38,"Miami, FL, US","Michal Menert with ODESZA at The Stage (October 1, 2013)",25.81186,-80.19185,0.123152,2013-10-01,None,The Stage
+39,"Ybor City, FL, US","Michal Menert with ODESZA at Crowbar (October 2, 2013)",27.96069,-82.44055,0.123152,2013-10-02,19:00:00,Crowbar
+40,"Atlanta, GA, US","Michal Menert with ODESZA, Chrome Sparks, and Mikey Thunder at The Basement (October 3, 2013)",33.74007,-84.3467,0.123152,2013-10-03,20:00:00,The Basement
+41,"Knoxville, TN, US","Michal Menert with ODESZA at NV (October 4, 2013)",35.97134,-83.91771,0.123152,2013-10-04,None,NV
+42,"Charleston, SC, US","Michal Menert with ODESZA at Charleston Pourhouse (October 5, 2013)",32.76233,-79.98713,0.123152,2013-10-05,21:00:00,Charleston Pourhouse
+43,"Washington, DC, US","Michal Menert with ODESZA at U Street Music Hall (October 8, 2013)",38.9172,-77.02776,0.123152,2013-10-08,None,U Street Music Hall
+44,"Charlottesville, VA, US","Michal Menert with ODESZA at The Southern Café and Music Hall (October 9, 2013)",38.03074,-78.48153,0.123152,2013-10-09,None,The Southern Café and Music Hall
+45,"Richmond, VA, US","Michal Menert with ODESZA at Canal Club (October 10, 2013)",37.5326,-77.42956,0.123152,2013-10-10,None,Canal Club
+46,"Brooklyn, NY, US","Michal Menert with ODESZA at Brooklyn Bowl (October 11, 2013)",40.72188,-73.95739,0.123152,2013-10-11,23:30:00,Brooklyn Bowl
+47,"Cambridge, MA, US","Michal Menert with ODESZA at The Middle East - Downstairs (October 12, 2013)",42.3637,-71.10131,0.123152,2013-10-12,None,The Middle East - Downstairs
+48,"South Burlington, VT, US","Michal Menert with ODESZA at Ballroom, Higher Ground (October 13, 2013)",44.46889,-73.17564,0.123152,2013-10-13,None,"Ballroom, Higher Ground"
+49,"Grand Rapids, MI, US","Michal Menert with ODESZA at The Stache at the Intersection (October 16, 2013)",42.96008,-85.67409,0.123152,2013-10-16,None,The Stache at the Intersection
+50,"Chicago, IL, US","Michal Menert with ODESZA at Park West (October 17, 2013)",41.91844,-87.63739,0.123152,2013-10-17,None,Park West
+51,"Madison, WI, US","Michal Menert with ODESZA, Mikey Thunder, and Artifakts at High Noon Saloon (October 18, 2013)",43.07974,-89.37649,0.123152,2013-10-18,None,High Noon Saloon
+52,"Milwaukee, WI, US","Michal Menert with ODESZA, Mikey Thunder, and Artifakts at Miramar Theatre (October 19, 2013)",43.0705,-87.88778,0.123152,2013-10-19,None,Miramar Theatre
+53,"Minneapolis, MN, US","Michal Menert with ODESZA, Mikey Thunder, and Artifakts at Skyway Theatre (October 20, 2013)",44.97741,-93.27493,0.123152,2013-10-20,None,Skyway Theatre
+54,"Bozeman, MT, US","Michal Menert with ODESZA at Zebra Cocktail Lounge (October 23, 2013)",45.67949,-111.0323,0.123152,2013-10-23,None,Zebra Cocktail Lounge
+55,"Missoula, MT, US","Pretty Lights with Gramatik and ODESZA at Adams Event Center, University of Montana (November 20, 2013)",46.86058,-113.98213,0.123152,2013-11-20,19:00:00,"Adams Event Center, University of Montana"
+56,"Spokane, WA, US","Pretty Lights with ODESZA at Knitting Factory Concert House (November 21, 2013)",47.657,-117.42603,0.123152,2013-11-21,20:00:00,Knitting Factory Concert House
+57,"Portland, OR, US","Pretty Lights with Emancipator and ODESZA at Portland Veterans Memorial Coliseum (November 23, 2013)",45.53348,-122.66701,0.123152,2013-11-23,19:30:00,Portland Veterans Memorial Coliseum
+58,"Reno, NV, US","Pretty Lights with The Grouch & Eligh and ODESZA at Silver State Pavilion, Grand Sierra Resort (November 27, 2013)",39.52699,-119.78034,0.123152,2013-11-27,19:00:00,"Silver State Pavilion, Grand Sierra Resort"
+59,"San Francisco, CA, US","Pretty Lights with Tycho, The Grouch & Eligh, and ODESZA at Bill Graham Civic Auditorium (November 29, 2013)",37.77851,-122.41747,0.123152,2013-11-29,19:00:00,Bill Graham Civic Auditorium
+60,"Hollywood, CA, US","ODESZA with De Lux, Femme, and Andy Clockwise at Bardot (December 2, 2013)",34.10277,-118.3267,0.123152,2013-12-02,20:30:00,Bardot
+61,"Los Angeles, CA, US","Pretty Lights with ODESZA at The Wiltern (December 3, 2013)",34.06194,-118.30884,0.123152,2013-12-03,20:00:00,The Wiltern
+62,"San Francisco, CA, US","First Light with ODESZA and First Light Ft Odesza at 1015 Folsom (January 1, 2014)",37.77805,-122.40568,0.123152,2014-01-01,22:00:00,1015 Folsom
+63,"San Francisco, CA, US","ODESZA, Russ Liquid, Rising Appalachia, The Human Experience, and 8 more… at 1015 (January 1, 2014)",37.77649,-122.40414,0.123152,2014-01-01,22:00:00,1015
+64,"Columbus, OH, US","Emancipator with ODESZA and Real Magic at Newport Music Hall (January 23, 2014)",39.99753,-83.00743,0.123152,2014-01-23,20:00:00,Newport Music Hall
+65,"Cleveland, OH, US","Emancipator with ODESZA and Real Magic at Beachland Ballroom and Tavern (January 24, 2014)",41.57125,-81.57047,0.123152,2014-01-24,21:00:00,Beachland Ballroom and Tavern
+66,"Pontiac, MI, US","ODESZA with Real Magic and Emancipator at The Crofoot Ballroom (January 25, 2014)",42.63674,-83.2917,0.123152,2014-01-25,21:00:00,The Crofoot Ballroom
+67,"Bloomington, IL, US","Emancipator with ODESZA and Real Magic at Castle Theatre (January 28, 2014)",40.47934,-88.99169,0.123152,2014-01-28,21:00:00,Castle Theatre
+68,"Milwaukee, WI, US","ODESZA with Real Magic and Emancipator at Miramar Theatre (January 29, 2014)",43.0705,-87.88778,0.123152,2014-01-29,21:00:00,Miramar Theatre
+69,"Chicago, IL, US","Emancipator with ODESZA and Real Magic at Concord Music Hall (January 31, 2014)",41.91856,-87.69003,0.123152,2014-01-31,22:00:00,Concord Music Hall
+70,"Minneapolis, MN, US","Emancipator with ODESZA at Mill City Nights (February 1, 2014)",44.9805,-93.27392,0.123152,2014-02-01,21:00:00,Mill City Nights
+71,"South Burlington, VT, US","Emancipator with ODESZA and Real Magic at Higher Ground (February 7, 2014)",44.46889,-73.17564,0.123152,2014-02-07,20:30:00,Higher Ground
+72,"Philadelphia, PA, US","Emancipator with ODESZA and Real Magic at Theater of the Living Arts (February 13, 2014)",39.94131,-75.14868,0.123152,2014-02-13,20:00:00,Theater of the Living Arts
+73,"New York, NY, US","Emancipator with ODESZA, Star Slinger, and Real Magic at PlayStation Theater (February 14, 2014)",40.75761,-73.98614,0.123152,2014-02-14,21:00:00,PlayStation Theater
+74,"Boston, MA, US","Emancipator with ODESZA and Real Magic at Paradise Rock Club (February 15, 2014)",42.35047,-71.10962,0.123152,2014-02-15,21:00:00,Paradise Rock Club
+75,"Baltimore, MD, US","ODESZA with Real Magic and Emancipator at Baltimore Soundstage (February 16, 2014)",39.28761,-76.60684,0.123152,2014-02-16,20:00:00,Baltimore Soundstage
+76,"Philadelphia, PA, US","Emancipator with ODESZA and Real Magic at Theater of the Living Arts (February 17, 2014)",39.94131,-75.14868,0.123152,2014-02-17,20:00:00,Theater of the Living Arts
+77,"Atlanta, GA, US","ODESZA with Real Magic and Emancipator at Terminal West (February 21, 2014)",33.78311,-84.41723,0.123152,2014-02-21,21:00:00,Terminal West
+78,"Boise, ID, US",Treefort Music Fest 2014,43.61871,-116.21461,0.123152,2014-03-20,None,Treefort Music Fest
+79,"Boise, ID, US","ODESZA with Magic Sword at Knitting Factory (March 21, 2014)",43.61319,-116.20735,0.123152,2014-03-21,20:00:00,Knitting Factory
+80,"Salt Lake City, UT, US","ODESZA at Urban Lounge (March 22, 2014)",40.7638,-111.87653,0.123152,2014-03-22,None,Urban Lounge
+81,"Denver, CO, US","ODESZA at Larimer Lounge (March 23, 2014)",39.75993,-104.9838,0.123152,2014-03-23,None,Larimer Lounge
+82,"Houston, TX, US","ODESZA with D33J and Kodak to Graph at Fitzgerald's - Downstairs (March 27, 2014)",29.78162,-95.38802,0.123152,2014-03-27,20:00:00,Fitzgerald's - Downstairs
+83,"Dallas, TX, US","ODESZA with D33J and Kodak to Graph at Club Dada (March 28, 2014)",32.78434,-96.78414,0.123152,2014-03-28,21:00:00,Club Dada
+84,"Austin, TX, US","ODESZA with D33J and Kodak to Graph at Stubb's BBQ - Indoors (March 29, 2014)",30.26857,-97.73608,0.123152,2014-03-29,22:00:00,Stubb's BBQ - Indoors
+85,"Phoenix, AZ, US","ODESZA with D33J and Kodak to Graph at Rhythm Room (April 1, 2014)",33.49435,-112.05972,0.123152,2014-04-01,20:30:00,Rhythm Room
+86,"San Diego, CA, US","ODESZA with D33J and Kodak to Graph at The Casbah (April 2, 2014)",32.73024,-117.17195,0.123152,2014-04-02,20:30:00,The Casbah
+87,"Los Angeles, CA, US","ODESZA with D33J and Kodak to Graph at Echoplex (April 3, 2014)",34.07759,-118.26061,0.123152,2014-04-03,20:30:00,Echoplex
+88,"San Francisco, CA, US","ODESZA with D33J, Kodak, Kodak to Graph, and 1 more… at The Independent (April 4, 2014)",37.77552,-122.43781,0.193291,2014-04-04,21:00:00,The Independent
+89,"Eugene, OR, US","ODESZA at WOW Hall (April 6, 2014)",44.05121,-123.09706,0.123152,2014-04-06,21:00:00,WOW Hall
+90,"Portland, OR, US","ODESZA at Holocene (April 11, 2014)",45.51757,-122.65533,0.123152,2014-04-11,None,Holocene
+91,"Seattle, WA, US","ODESZA at Neumos Crystal Ball Reading Room (April 12, 2014)",47.61401,-122.32004,0.123152,2014-04-12,20:00:00,Neumos Crystal Ball Reading Room
+92,"Seattle, WA, US","ODESZA at Neumos Crystal Ball Reading Room (April 13, 2014)",47.61401,-122.32004,0.123152,2014-04-13,20:00:00,Neumos Crystal Ball Reading Room
+93,"Fullerton, CA, US","ODESZA at Leonardo's Restaurant (April 17, 2014)",33.85986,-117.88764,0.123152,2014-04-17,22:00:00,Leonardo's Restaurant
+94,"Cambridge, MA, US","ODESZA at The Middle East - Downstairs (May 7, 2014)",42.3637,-71.10131,0.123152,2014-05-07,20:00:00,The Middle East - Downstairs
+95,"Cambridge, MA, US","ODESZA at The Middle East (May 7, 2014)",42.36381,-71.10142,0.123152,2014-05-07,09:00:00,The Middle East
+96,"Brooklyn, NY, US","ODESZA with Beat Culture at Knitting Factory (May 10, 2014)",40.71417,-73.95567,0.123152,2014-05-10,23:30:00,Knitting Factory
+97,"New York, NY, US","ODESZA at Santos Party House (May 13, 2014)",40.71761,-74.00129,0.123152,2014-05-13,20:00:00,Santos Party House
+98,"New York, NY, US","ODESZA at Santos Party House (May 13, 2014)",40.71761,-74.00129,0.123152,2014-05-13,09:00:00,Santos Party House
+99,"Saint Augustine, FL, US","ODESZA at The Original Cafe Eleven (May 14, 2014)",29.85183,-81.26785,0.123152,2014-05-14,09:00:00,The Original Cafe Eleven
+100,"Miami, FL, US","ODESZA with (515) at Bardot (May 15, 2014)",25.80929,-80.19558,0.123152,2014-05-15,22:00:00,Bardot
+101,"Miami, FL, US","ODESZA at Bardot (May 15, 2014)",25.80929,-80.19558,0.123152,2014-05-15,09:00:00,Bardot
+102,"Orlando, FL, US","ODESZA with Kodak to Graph at Will's Pub (May 16, 2014)",28.55987,-81.36474,0.123152,2014-05-16,21:00:00,Will's Pub
+103,"Orlando, FL, US","ODESZA at Will's Pub (May 16, 2014)",28.55987,-81.36474,0.123152,2014-05-16,09:00:00,Will's Pub
+104,"Ybor City, FL, US","ODESZA with Kodak to Graph and Spies on Bikes at Crowbar (May 17, 2014)",27.96069,-82.44055,0.123152,2014-05-17,21:00:00,Crowbar
+105,"Ybor City, FL, US","ODESZA at Crowbar (May 17, 2014)",27.96069,-82.44055,0.123152,2014-05-17,09:00:00,Crowbar
+106,"Gainesville, FL, US","ODESZA with Kodak to Graph at The Motor Room (May 18, 2014)",29.65178,-82.32315,0.123152,2014-05-18,20:00:00,The Motor Room
+107,"Gainesville, FL, US","ODESZA at The Motor Room (May 18, 2014)",29.65178,-82.32315,0.123152,2014-05-18,09:00:00,The Motor Room
+108,"Minneapolis, MN, US","Bonobo with ODESZA at First Avenue Mainroom (July 8, 2014)",44.97827,-93.27608,0.136058,2014-07-08,21:00:00,First Avenue Mainroom
+109,"Cleveland, OH, US","Bonobo with ODESZA at House of Blues (July 10, 2014)",41.49982,-81.69086,0.135926,2014-07-10,19:00:00,House of Blues
+110,"Saugerties, NY, US",The Hudson Project 2014,42.08764,-73.98827,0.581923,2014-07-11,00:00:00,Winston Farm
+111,"New York, NY, US","Bonobo with Cibo Matto and ODESZA at SummerStage, Central Park (July 13, 2014)",40.77052,-73.96844,0.135926,2014-07-13,18:00:00,"SummerStage, Central Park"
+112,"Piercy, CA, US",Northern Nights Festival 2014,39.9251,-123.7609,0.123152,2014-07-18,None,Cooks Valley Campground
+113,"Seattle, WA, US",The Capitol Hill Block Party 2014,47.6057,-122.31904,0.375655,2014-07-25,20:00:00,Capitol Hill
+114,"Chicago, IL, US",Wicker Park Fest 2014,41.90759,-87.67275,0.123152,2014-07-26,None,Milwaukee Between North & Wood
+115,"Belden, CA, US",Stilldream Festival 2014,40.00604,-121.25119,0.123152,2014-07-31,None,Belden Town Resort & Lodge
+116,"Belden, CA, US",Stilldream Festival 2014,40.00604,-121.25119,0.123152,2014-07-31,None,Belden Town Resort & Lodge
+117,"Tidewater, OR, US",Beloved Festival 2014,44.40017,-123.83284,0.123152,2014-08-08,None,Tidewater Falls
+118,"Teton Village, WY, US","ODESZA at Mangy Moose (September 13, 2014)",43.5865,-110.828,0.123152,2014-09-13,None,Mangy Moose
+119,"San Francisco, CA, US","ODESZA, Hayden James, and Ambassadeurs at Mezzanine (September 18, 2014)",37.78239,-122.40802,0.123152,2014-09-18,08:30:00,Mezzanine
+120,"San Francisco, CA, US","ODESZA, Hayden James, and Ambassadeurs at Mezzanine (September 19, 2014)",37.78239,-122.40802,0.123152,2014-09-19,08:30:00,Mezzanine
+121,"Hollywood, CA, US","ODESZA, Ambassadeurs, and Hayden James at Fonda Theatre (September 20, 2014)",34.10127,-118.32325,0.123152,2014-09-20,08:00:00,Fonda Theatre
+122,"Solana Beach, CA, US","ODESZA, Ambassadeurs, and Hayden James at Belly Up Tavern (September 21, 2014)",32.99071,-117.27041,0.123152,2014-09-21,08:00:00,Belly Up Tavern
+123,"Hollywood, CA, US","ODESZA at Amoeba Music (September 22, 2014)",34.09777,-118.32907,0.123152,2014-09-22,18:00:00,Amoeba Music
+124,"Phoenix, AZ, US","ODESZA, Hayden James, and Ambassadeurs with Jared Alan at The Crescent Ballroom (September 23, 2014)",33.45172,-112.07642,0.123152,2014-09-23,07:00:00,The Crescent Ballroom
+125,"Austin, TX, US","ODESZA with Ambassadeurs and Hayden James at Vulcan Gas Company (September 25, 2014)",30.26716,-97.73847,0.123152,2014-09-25,09:00:00,Vulcan Gas Company
+126,"New Orleans, LA, US","ODESZA with Ambassadeurs and Hayden James at One Eyed Jacks (September 27, 2014)",29.95703,-90.06475,0.123152,2014-09-27,21:00:00,One Eyed Jacks
+127,"Washington, DC, US","ODESZA, Hayden James, and Ambassadeurs at U Street Music Hall (September 30, 2014)",38.9172,-77.02776,0.123152,2014-09-30,10:00:00,U Street Music Hall
+128,"Philadelphia, PA, US","ODESZA, Ambassadeurs, and Hayden James at Johnny Brenda's (October 1, 2014)",39.96905,-75.13432,0.123152,2014-10-01,08:00:00,Johnny Brenda's
+129,"New York, NY, US","ODESZA, Ambassadeurs, and Hayden James at The Bowery Ballroom (October 2, 2014)",40.72036,-73.99354,0.123152,2014-10-02,08:00:00,The Bowery Ballroom
+130,"Brooklyn, NY, US","ODESZA, Ambassadeurs, and Hayden James at Rough Trade NYC (October 3, 2014)",40.72099,-73.95985,0.123152,2014-10-03,11:30:00,Rough Trade NYC
+131,"Cambridge, MA, US","ODESZA, Ambassadeurs, and Hayden James at The Sinclair (October 4, 2014)",42.37423,-71.12082,0.123152,2014-10-04,08:00:00,The Sinclair
+132,"Ann Arbor, MI, US","ODESZA, Ambassadeurs, and Hayden James at Blind Pig (October 8, 2014)",42.28022,-83.75124,0.123152,2014-10-08,09:00:00,Blind Pig
+133,"Columbus, OH, US","ODESZA with Ambassadeurs and Hayden James at The Basement (October 9, 2014)",39.96949,-83.01001,0.123152,2014-10-09,19:00:00,The Basement
+134,"Chicago, IL, US","ODESZA, Hayden James, and Ambassadeurs at Bottom Lounge (October 10, 2014)",41.88533,-87.6618,0.123152,2014-10-10,06:00:00,Bottom Lounge
+135,"Madison, WI, US","ODESZA, Ambassadeurs, and Hayden James at Majestic Theatre (October 11, 2014)",43.07453,-89.38077,0.123152,2014-10-11,08:00:00,Majestic Theatre
+136,"Minneapolis, MN, US","ODESZA with Ambassadeurs and Hayden James at Triple Rock Social Club (October 12, 2014)",44.96677,-93.24723,0.123152,2014-10-12,None,Triple Rock Social Club
+137,"St Louis, MO, US","ODESZA, Hayden James, and Ambassadeurs at Firebird (October 15, 2014)",38.63377,-90.21703,0.123152,2014-10-15,07:30:00,Firebird
+138,"Lawrence, KS, US","ODESZA, Ambassadeurs, and Hayden James at The Bottleneck (October 16, 2014)",38.96988,-95.23487,0.123152,2014-10-16,08:00:00,The Bottleneck
+139,"Lincoln, NE, US","ODESZA, Hayden James, and Ambassadeurs at Vega (October 17, 2014)",40.81674,-96.71148,0.123152,2014-10-17,08:00:00,Vega
+140,"Ann Arbor, MI, US","ODESZA at Blind Pig (October 18, 2014)",42.28022,-83.75124,0.123152,2014-10-18,None,Blind Pig
+141,"Denver, CO, US","ODESZA with The Ambassadors, Ambassadeurs, and Hayden James at Ogden Theatre (October 18, 2014)",39.74012,-104.97531,0.123152,2014-10-18,21:00:00,Ogden Theatre
+142,"Salt Lake City, UT, US","ODESZA, Ambassadeurs, and Hayden James at Urban Lounge (October 19, 2014)",40.7638,-111.87653,0.123152,2014-10-19,08:00:00,Urban Lounge
+143,"Seattle, WA, US","ODESZA, Hayden James, and Ambassadeurs at The Showbox (October 23, 2014)",47.60879,-122.33999,0.123152,2014-10-23,08:00:00,The Showbox
+144,"Seattle, WA, US","ODESZA, Hayden James, and Ambassadeurs at The Showbox (October 24, 2014)",47.60879,-122.33999,0.123152,2014-10-24,08:00:00,The Showbox
+145,"Portland, OR, US","ODESZA, Ambassadeurs, and Hayden James with Allen Stone at Roseland Theater (October 25, 2014)",45.52331,-122.67644,0.123152,2014-10-25,08:00:00,Roseland Theater
+146,"Portland, OR, US","Allen Stone with Bad Rabbits and ODESZA at Roseland Theater (October 25, 2014)",45.52331,-122.67644,0.123152,2014-10-25,17:00:00,Roseland Theater
+147,"Pomona, CA, US",Hard Day of the Dead 2014,34.08015,-117.76581,0.63864,2014-11-01,11:00:00,Fairplex
+148,"Detroit, MI, US","GRiZ, ODESZA, and Will Sessions at Masonic Temple (December 20, 2014)",42.34153,-83.06007,0.123152,2014-12-20,20:00:00,Masonic Temple
+149,"Dallas, TX, US",Lights All Night Festival 2014,32.85731,-96.60058,0.123152,2014-12-26,None,Unknown venue
+150,"South Lake Tahoe, CA, US",Snowglobe Festival 2014,38.93993,-119.97719,0.422854,2014-12-29,None,Unknown venue
+151,"Miami, FL, US",Holy Ship 2015,25.76168,-80.19179,0.123152,2015-01-03,None,Unknown venue
+152,"Spokane, WA, US","ODESZA with Little People and Big Wild at Knitting Factory Concert House (February 12, 2015)",47.657,-117.42603,0.123152,2015-02-12,20:00:00,Knitting Factory Concert House
+153,"Missoula, MT, US","ODESZA with Little People and Big Wild at Stage 112 (February 13, 2015)",46.87007,-113.9933,0.123152,2015-02-13,None,Stage 112
+154,"Boise, ID, US","ODESZA with Little People and Big Wild at Knitting Factory (February 14, 2015)",43.61319,-116.20735,0.123152,2015-02-14,20:00:00,Knitting Factory
+155,"Jackson, WY, US","ODESZA with Little People and Big Wild at Pink Garter Theatre (February 15, 2015)",43.4793,-110.763,0.123152,2015-02-15,21:30:00,Pink Garter Theatre
+156,"Jackson, WY, US","ODESZA and Little People with Big Wild at Pink Garter Theatre (February 16, 2015)",43.4793,-110.763,0.123152,2015-02-16,08:30:00,Pink Garter Theatre
+157,"Avon, CO, US","ODESZA with Little People and Big Wild at Agave (February 19, 2015)",39.63546,-106.5375,0.123152,2015-02-19,21:00:00,Agave
+158,"Aspen, CO, US","ODESZA with Little People and Big Wild at Belly Up Aspen (February 20, 2015)",39.1876,-106.81901,0.123152,2015-02-20,None,Belly Up Aspen
+159,"Boulder, CO, US","ODESZA with Little People at Boulder Theater (February 21, 2015)",40.01914,-105.27721,0.123152,2015-02-21,20:00:00,Boulder Theater
+160,"Boulder, CO, US","ODESZA with Little People and Big Wild at Boulder Theater (February 22, 2015)",40.01914,-105.27721,0.123152,2015-02-22,19:00:00,Boulder Theater
+161,"Iowa City, IA, US","ODESZA with Little People at Blue Moose Tap House (February 25, 2015)",41.6609,-91.53251,0.123152,2015-02-25,21:00:00,Blue Moose Tap House
+162,"Columbia, MO, US","ODESZA with Little People at The Blue Note (February 26, 2015)",38.95218,-92.32784,0.123152,2015-02-26,21:00:00,The Blue Note
+163,"Urbana, IL, US","ODESZA with Little People and Big Wild at Canopy Club (February 27, 2015)",40.10665,-88.22339,0.123152,2015-02-27,21:00:00,Canopy Club
+164,"Bloomington, IN, US","ODESZA with Little People and Big Wild at Bluebird (February 28, 2015)",39.16813,-86.53331,0.123152,2015-02-28,21:00:00,Bluebird
+165,"Millvale, PA, US","ODESZA with Little People and Big Wild at Mr. Small's Theatre (March 3, 2015)",40.48127,-79.97268,0.123152,2015-03-03,20:00:00,Mr. Small's Theatre
+166,"Niagara Falls, NY, US","ODESZA with Little People and Big Wild at The Rapids Theatre (March 4, 2015)",43.10515,-79.05256,0.123152,2015-03-04,20:00:00,The Rapids Theatre
+167,"South Burlington, VT, US","ODESZA with Little People and Big Wild at Ballroom, Higher Ground (March 5, 2015)",44.46889,-73.17564,0.123152,2015-03-05,20:30:00,"Ballroom, Higher Ground"
+168,"South Burlington, VT, US","ODESZA, Little People, and Big Wild at Higher Ground (March 5, 2015)",44.46889,-73.17564,0.123152,2015-03-05,06:00:00,Higher Ground
+169,"Northampton, MA, US","ODESZA with Little People and Big Wild at Pearl Street Nightclub (March 6, 2015)",42.31889,-72.62746,0.123152,2015-03-06,None,Pearl Street Nightclub
+170,"Portland, ME, US","ODESZA with Little People and Big Wild at Port City Music Hall (March 7, 2015)",43.65642,-70.26046,0.123152,2015-03-07,21:00:00,Port City Music Hall
+171,"Knoxville, TN, US","ODESZA with Little People and Big Wild at Bijou Theatre (March 11, 2015)",35.96234,-83.91701,0.123152,2015-03-11,20:00:00,Bijou Theatre
+172,"Asheville, NC, US","ODESZA with Little People and Big Wild at The Orange Peel (March 12, 2015)",35.59144,-82.55092,0.123152,2015-03-12,21:00:00,The Orange Peel
+173,"Nashville, TN, US","ODESZA with Little People and Big Wild at Marathon Music Works (March 13, 2015)",36.16386,-86.79721,0.123152,2015-03-13,19:00:00,Marathon Music Works
+174,"New Orleans, LA, US",BUKU Music & Art Project 2015,29.93493,-90.06151,0.37709,2015-03-13,23:59:00,Mardi Gras World
+175,"San Diego, CA, US",CRSSD Festival 2015,32.72195,-117.17211,0.194026,2015-03-14,12:00:00,Waterfront Park
+176,"Austin, TX, US",SXSW 2015,30.26715,-97.74306,0.141502,2015-03-17,None,Unknown venue
+177,"Miami, FL, US",Ultra Music Festival 2015,25.7774,-80.18787,0.135926,2015-03-27,23:59:20,Klipsch Amphitheater at Bayfront Park
+178,"Miami Beach, FL, US","RAC, Lane 8, Autograf, and ODESZA at FDR, Delano Hotel (March 27, 2015)",25.7921,-80.12918,0.123152,2015-03-27,11:00:00,"FDR, Delano Hotel"
+179,"Eugene, OR, US","ODESZA at McDonald Theatre (April 7, 2015)",44.04861,-123.09285,0.123152,2015-04-07,08:00:00,McDonald Theatre
+180,"Arcata, CA, US","ODESZA at Arcata Theatre Lounge (April 8, 2015)",40.86991,-124.08513,0.123152,2015-04-08,09:30:00,Arcata Theatre Lounge
+181,"Pomona, CA, US","ODESZA with Lane 8 and Robert DeLong at The Glass House (April 9, 2015)",34.05754,-117.75145,0.123152,2015-04-09,21:00:00,The Glass House
+182,"Indio, CA, US",Coachella 2015,33.68233,-116.23892,0.844643,2015-04-10,16:00:00,Empire Polo Club
+183,"Santa Barbara, CA, US","ODESZA with Lindsay Lowend at Arlington Theatre (April 16, 2015)",34.42469,-119.70653,0.123152,2015-04-16,07:30:00,Arlington Theatre
+184,"Indio, CA, US",Coachella 2015,33.68233,-116.23892,0.844643,2015-04-17,16:00:00,Empire Polo Club
+185,"Bradley, CA, US",Lightning In A Bottle 2015,35.90463,-120.98397,0.209495,2015-05-21,16:00:00,San Antonio Recreation Area
+186,"George, WA, US",Sasquatch! Music Festival 2015,47.09595,-119.98263,0.582547,2015-05-22,None,Gorge Amphitheatre
+187,"Morrison, CO, US","ODESZA and Chromeo with Cashmere Cat at Red Rocks Amphitheatre (May 26, 2015)",39.68001,-105.19724,0.123207,2015-05-26,None,Red Rocks Amphitheatre
+188,"Salt Lake City, UT, US","Chromeo with ODESZA and Classixx at Red Butte Garden (May 27, 2015)",40.76147,-111.82735,0.123207,2015-05-27,None,Red Butte Garden
+189,"Boston, MA, US","Little Dragon, ODESZA, TOKiMONSTA, and DJ Sosupersam at House of Blues (June 3, 2015)",42.34717,-71.0957,0.123152,2015-06-03,08:00:00,House of Blues
+190,"Brooklyn, NY, US","ODESZA at Rough Trade NYC (June 4, 2015)",40.72099,-73.95985,0.123152,2015-06-04,18:30:00,Rough Trade NYC
+191,"New York, NY, US",The Governors Ball Music Festival 2015,40.78377,-73.92567,0.843377,2015-06-05,23:59:00,Randall's Island
+192,"Houston, TX, US",Free Press Summer Fest 2015,29.75972,-95.3809,0.422922,2015-06-06,None,Eleanor Tinsley Park
+193,"Manchester, TN, US",Bonnaroo Music & Arts Festival 2015,35.47811,-86.04642,0.583188,2015-06-11,12:00:00,Great Stage Park
+194,"Dover, DE, US",Firefly Music Festival 2015,39.18834,-75.53296,0.614892,2015-06-18,13:00:00,Dover International Speedway
+195,"The Dalles, OR, US",What the Festival 2015,45.54345,-121.08971,0.123152,2015-06-19,None,Wolf Run Ranch
+196,"Rothbury, MI, US",Electric Forest Festival 2015,43.53865,-86.3664,0.422922,2015-06-25,23:59:20,Double JJ Ranch & Golf Resort
+197,"Seattle, WA, US",The Capitol Hill Block Party 2015,47.6151,-122.32234,0.127597,2015-07-24,18:00:00,Capitol Hill Block Party
+198,"Chicago, IL, US",Lollapalooza 2015,41.87317,-87.62058,0.614131,2015-07-31,12:00:00,"Hutchinson Field, Grant Park"
+199,"Pomona, CA, US",HARD Summer Music Festival 2015,34.08015,-117.76581,0.218871,2015-08-01,11:00:00,Fairplex
+200,"San Francisco, CA, US",Outside Lands Music & Arts Festival 2015,37.78229,-122.46371,0.581923,2015-08-07,12:00:00,Golden Gate Park
+201,"Somerset, WI, US",Summer Set 2015,45.13023,-92.68526,0.612405,2015-08-14,00:00:00,Somerset Amphitheater
+202,"Stroud, OK, US",Backwoods Camping & Music Festival 2015,35.74868,-96.65807,0.123152,2015-09-04,None,Unknown venue
+203,"El Paso, TX, US",Sun City Music Festival 2015,31.76064,-106.40059,0.140356,2015-09-05,13:00:00,Ascarate Park
+204,"Live Oak, FL, US",Suwannee Hulaween 2015,30.39488,-82.94424,0.232249,2015-10-30,18:00:00,Spirit of the Suwannee Music Park
+205,"New Orleans, LA, US","ODESZA at Joy Theater (October 30, 2015)",29.95601,-90.07398,0.123152,2015-10-30,None,Joy Theater
+206,"Atlanta, GA, US","ODESZA at Heaven at The Masquerade (November 3, 2015)",33.75103,-84.39028,0.123152,2015-11-03,20:00:00,Heaven at The Masquerade
+207,"Atlanta, GA, US","ODESZA at Heaven at The Masquerade (November 4, 2015)",33.75103,-84.39028,0.123152,2015-11-04,20:00:00,Heaven at The Masquerade
+208,"Raleigh, NC, US","ODESZA, Hayden James, and Kasba at The Ritz (November 5, 2015)",35.81684,-78.62071,0.123152,2015-11-05,20:00:00,The Ritz
+209,"Austin, TX, US",FUN FUN FUN FEST 2015,30.26035,-97.74962,0.218954,2015-11-06,19:00:00,Auditorium Shores
+210,"Richmond, VA, US","ODESZA at The National (November 6, 2015)",37.5418,-77.43539,0.123152,2015-11-06,19:00:00,The National
+211,"Washington, DC, US","ODESZA at 9:30 Club (November 7, 2015)",38.91787,-77.02372,0.123152,2015-11-07,22:00:00,9:30 Club
+212,"Washington, DC, US","ODESZA with Hayden James at 9:30 Club (November 7, 2015)",38.91787,-77.02372,0.123152,2015-11-07,17:30:00,9:30 Club
+213,"Philadelphia, PA, US","ODESZA with Jai Wolf and Louis Futon at Union Transfer (November 11, 2015)",39.96162,-75.15531,0.123152,2015-11-11,23:00:00,Union Transfer
+214,"Philadelphia, PA, US","ODESZA with Jai Wolf at Union Transfer (November 11, 2015)",39.96162,-75.15531,0.123152,2015-11-11,19:00:00,Union Transfer
+215,"New York, NY, US","ODESZA and Jai Wolf at Terminal 5 (November 12, 2015)",40.77066,-73.99427,0.123152,2015-11-12,20:00:00,Terminal 5
+216,"New York, NY, US","ODESZA, RÜFÜS DU SOL, and Kasba at Terminal 5 (November 13, 2015)",40.77066,-73.99427,0.123606,2015-11-13,20:00:00,Terminal 5
+217,"Boston, MA, US","ODESZA, RÜFÜS DU SOL, and Jai Wolf at House of Blues (November 14, 2015)",42.34717,-71.0957,0.123606,2015-11-14,18:00:00,House of Blues
+218,"New York, NY, US","ODESZA at Terminal 5 (November 15, 2015)",40.77066,-73.99427,0.123152,2015-11-15,None,Terminal 5
+219,"Detroit, MI, US","ODESZA at Masonic Temple (November 20, 2015)",42.34153,-83.06007,0.123152,2015-11-20,20:00:00,Masonic Temple
+220,"Chicago, IL, US","ODESZA at Aragon Ballroom (November 21, 2015)",41.96926,-87.65795,0.123152,2015-11-21,23:30:00,Aragon Ballroom
+221,"Chicago, IL, US","ODESZA at Aragon Ballroom (November 21, 2015)",41.96926,-87.65795,0.123152,2015-11-21,17:30:00,Aragon Ballroom
+222,"Madison, WI, US","ODESZA at Orpheum Theater (November 22, 2015)",43.07489,-89.38866,0.123152,2015-11-22,None,Orpheum Theater
+223,"Minneapolis, MN, US","ODESZA with Big Wild at First Avenue Mainroom (November 23, 2015)",44.97827,-93.27608,0.123606,2015-11-23,21:00:00,First Avenue Mainroom
+224,"Minneapolis, MN, US","ODESZA with Big Wild at First Avenue Mainroom (November 24, 2015)",44.97827,-93.27608,0.123606,2015-11-24,21:00:00,First Avenue Mainroom
+225,"Portland, OR, US","ODESZA with Big Wild at Roseland Theater (December 3, 2015)",45.52331,-122.67644,0.123152,2015-12-03,21:00:00,Roseland Theater
+226,"Portland, OR, US","ODESZA with Big Wild at Roseland Theater (December 4, 2015)",45.52331,-122.67644,0.123152,2015-12-04,21:00:00,Roseland Theater
+227,"Seattle, WA, US","ODESZA with Big Wild at Paramount Theatre (December 5, 2015)",47.6133,-122.33139,0.123152,2015-12-05,20:00:00,Paramount Theatre
+228,"Seattle, WA, US","ODESZA at Paramount Theatre (December 6, 2015)",47.6133,-122.33139,0.123152,2015-12-06,20:00:00,Paramount Theatre
+229,"Seattle, WA, US","ODESZA at Paramount Theatre (December 7, 2015)",47.6133,-122.33139,0.123152,2015-12-07,19:00:00,Paramount Theatre
+230,"San Francisco, CA, US","ODESZA at Bill Graham Civic Auditorium (December 10, 2015)",37.77851,-122.41747,0.123152,2015-12-10,20:00:00,Bill Graham Civic Auditorium
+231,"San Francisco, CA, US","ODESZA with Big Wild at Bill Graham Civic Auditorium (December 11, 2015)",37.77851,-122.41747,0.123152,2015-12-11,20:00:00,Bill Graham Civic Auditorium
+232,"Los Angeles, CA, US","ODESZA with Hayden James and Louis Futon at Shrine Expo Hall (December 12, 2015)",34.02427,-118.28067,0.123152,2015-12-12,21:00:00,Shrine Expo Hall
+233,"Los Angeles, CA, US","ODESZA with Bonobo and Big Wild at Shrine Expo Hall (December 13, 2015)",34.02427,-118.28067,0.135926,2015-12-13,17:00:00,Shrine Expo Hall
+234,"Los Angeles, CA, US","ODESZA with GoldLink and Jai Wolf at Shrine Expo Hall (December 14, 2015)",34.02427,-118.28067,0.123152,2015-12-14,21:00:00,Shrine Expo Hall
+235,"Santa Ana, CA, US","ODESZA at The Observatory (December 29, 2015)",33.69984,-117.91945,0.123152,2015-12-29,19:00:00,The Observatory
+236,"Chandler, AZ, US","ODESZA at Rawhide Rodeo Arena (December 30, 2015)",33.30616,-111.84125,0.123152,2015-12-30,None,Rawhide Rodeo Arena
+237,"Denver, CO, US","Jai Wolf with Big Gigantic, Deadmau5, Excision, and 4 more… at Colorado Convention Center (December 31, 2015)",39.74276,-104.994,0.270244,2015-12-31,19:00:00,Colorado Convention Center
+238,"Brooklyn, NY, US","ODESZA at Brooklyn Hangar (January 1, 2016)",40.64971,-74.02138,0.123152,2016-01-01,03:00:00,Brooklyn Hangar
+239,"Miami, FL, US",Holy Ship 2016,25.76168,-80.19179,0.153011,2016-01-03,None,Unknown venue
+240,"Okeechobee, FL, US",Okeechobee Music & Arts Festival 2016,27.35988,-80.73357,0.5845,2016-03-04,None,Sunshine Grove
+241,"San Diego, CA, US",CRSSD Festival 2016,32.72195,-117.17211,0.123152,2016-03-05,12:00:00,Waterfront Park
+242,"San Jose, CA, US","ODESZA at San Jose State University (SJSU) (May 13, 2016)",37.33488,-121.88065,0.123152,2016-05-13,19:00:00,San Jose State University (SJSU)
+243,"Sacramento, CA, US","ODESZA at McClellan Park (May 14, 2016)",38.66544,-121.39185,0.123152,2016-05-14,20:00:00,McClellan Park
+244,"Durham, NC, US",Moogfest 2016,35.99403,-78.89862,0.160348,2016-05-19,None,Moogfest
+245,"Atlanta, GA, US",Shaky Beats Music Festival 2016,33.75931,-84.39444,0.346431,2016-05-20,None,Centennial Olympic Park
+246,"Boston, MA, US",Boston Calling Music Festival 2016,42.3577,-71.05936,0.401208,2016-05-27,None,City Hall Plaza
+247,"Bethel, NY, US",Mysteryland USA 2016,41.69967,-74.87968,0.422804,2016-06-10,None,Bethel Woods Center for the Arts
+248,"Morrison, CO, US","ODESZA and RÜFÜS DU SOL at Red Rocks Amphitheatre (June 18, 2016)",39.68001,-105.19724,0.123606,2016-06-18,None,Red Rocks Amphitheatre
+249,"Scranton, PA, US",Camp Bisco 2016,41.34793,-75.66375,0.123152,2016-07-14,None,Montage Mountain
+250,"Seattle, WA, US",The Capitol Hill Block Party 2016,47.60621,-122.33207,0.123334,2016-07-22,None,Unknown venue
+251,"Buena Vista, CO, US",Vertex 2016,38.84222,-106.13113,0.157201,2016-08-05,None,Selby Ranch
+252,"Chicago, IL, US",North Coast Music Festival 2016,41.88512,-87.66609,0.272702,2016-09-02,None,Union Park
+253,"San Bernardino, CA, US",Nocturnal Wonderland 2016,34.20441,-117.4023,0.123507,2016-09-02,None,Glen Helen Amphitheater
+254,"Scottsdale, AZ, US","ODESZA with Sweater Beats, Daktyl, and Photay at Maya Day & Nightclub (September 3, 2016)",33.50128,-111.92294,0.123152,2016-09-03,12:00:00,Maya Day & Nightclub
+255,"Houston, TX, US",Day For Night 2016,29.76043,-95.3698,0.208207,2016-12-17,None,Unknown venue
+256,"South Lake Tahoe, CA, US",Snowglobe Festival 2016,38.93993,-119.97719,0.346948,2016-12-29,None,Unknown venue
+257,"Santa Ana, CA, US","ODESZA at The Observatory (December 29, 2016)",33.69984,-117.91945,0.123152,2016-12-29,19:00:00,The Observatory
+258,"Spokane, WA, US","ODESZA with Fakear at Knitting Factory Concert House (May 17, 2017)",47.657,-117.42603,0.123152,2017-05-17,19:00:00,Knitting Factory Concert House
+259,"Spokane, WA, US","ODESZA with Fakear at Knitting Factory Concert House (May 18, 2017)",47.657,-117.42603,0.123152,2017-05-18,19:00:00,Knitting Factory Concert House
+260,"Eugene, OR, US","ODESZA with Fakear at Cuthbert Amphitheater (May 19, 2017)",44.05358,-123.06487,0.123152,2017-05-19,19:00:00,Cuthbert Amphitheater
+261,"Boise, ID, US","ODESZA with Fakear at Summerfield at Memorial Stadium (May 20, 2017)",43.65646,-116.27879,0.123152,2017-05-20,17:30:00,Summerfield at Memorial Stadium
+262,"Boise, ID, US","ODESZA at Summerfield at Memorial Stadium (May 20, 2017)",43.65646,-116.27879,0.123152,2017-05-20,19:00:00,Summerfield at Memorial Stadium
+263,"Morrison, CO, US","ODESZA with Fakear at Red Rocks Amphitheatre (May 27, 2017)",39.68001,-105.19724,0.123152,2017-05-27,18:00:00,Red Rocks Amphitheatre
+264,"Morrison, CO, US","ODESZA at Red Rocks Amphitheatre (May 28, 2017)",39.68001,-105.19724,0.123152,2017-05-28,18:00:00,Red Rocks Amphitheatre
+265,"Rothbury, MI, US",Electric Forest Festival 1 2017,43.53865,-86.3664,0.157445,2017-06-22,None,Double JJ Ranch & Golf Resort
+266,"Heber City, UT, US",Bonanza Campout 2017,40.59351,-111.42731,0.23816,2017-06-23,12:00:00,River's Edge at Deer Park
+267,"Louisville, KY, US",The Forecastle Festival 2017,38.25992,-85.74452,0.327662,2017-07-14,None,Waterfront Park
+268,"Birmingham, AL, US",Sloss Music and Arts 2017,33.52216,-86.79015,0.157418,2017-07-15,12:30:00,Sloss Furnaces National Historic Landmark
+269,"Seattle, WA, US",Bumbershoot 2017,47.60621,-122.33207,0.4808,2017-09-01,None,Unknown venue
+270,"San Diego, CA, US","ODESZA with SOFI TUKKER and Chet Porter at Valley View Casino Center (October 19, 2017)",32.75508,-117.21179,0.123152,2017-10-19,18:00:00,Valley View Casino Center
+271,"Phoenix, AZ, US",Lost Lake Festival 2017,33.44838,-112.07404,0.614895,2017-10-20,12:00:00,Lost Lake Festival
+272,"Los Angeles, CA, US","ODESZA with SOFI TUKKER at Staples Center (October 20, 2017)",34.04298,-118.26682,0.123152,2017-10-20,19:30:00,Staples Center
+273,"Las Vegas, NV, US","ODESZA at Downtown Las Vegas Events Center - DLVEC (October 21, 2017)",36.1691,-115.14412,0.123152,2017-10-21,18:00:00,Downtown Las Vegas Events Center - DLVEC
+274,"Santa Barbara, CA, US","ODESZA with SOFI TUKKER and Chet Porter at Santa Barbara Bowl (October 24, 2017)",34.4351,-119.69357,0.123152,2017-10-24,19:00:00,Santa Barbara Bowl
+275,"Berkeley, CA, US","ODESZA with SOFI TUKKER and Chet Porter at Greek Theatre (October 26, 2017)",37.87407,-122.25554,0.123152,2017-10-26,17:00:00,Greek Theatre
+276,"Berkeley, CA, US","ODESZA with Chet Porter and SOFI TUKKER at Greek Theatre (October 27, 2017)",37.87407,-122.25554,0.123152,2017-10-27,18:00:00,Greek Theatre
+277,"Berkeley, CA, US","ODESZA with Chet Porter and SOFI TUKKER at Greek Theatre (October 28, 2017)",37.87407,-122.25554,0.123152,2017-10-28,18:00:00,Greek Theatre
+278,"Sacramento, CA, US","ODESZA with SOFI TUKKER, KASBO, and ILLENIUM at Papa Murphy's Park (October 31, 2017)",38.59353,-121.4348,0.123152,2017-10-31,19:30:00,Papa Murphy's Park
+279,"Portland, OR, US","ODESZA with SOFI TUKKER and KASBO at Portland Veterans Memorial Coliseum (November 2, 2017)",45.53348,-122.66701,0.123152,2017-11-02,19:30:00,Portland Veterans Memorial Coliseum
+280,"Maplewood, MN, US","ODESZA with SOFI TUKKER and KASBO at Myth (November 8, 2017)",45.03473,-93.02494,0.123152,2017-11-08,19:00:00,Myth
+281,"Maplewood, MN, US","ODESZA with SOFI TUKKER and KASBO at Myth (November 9, 2017)",45.03473,-93.02494,0.123152,2017-11-09,19:00:00,Myth
+282,"Madison, WI, US","ODESZA with SOFI TUKKER and KASBO at Coliseum at Alliant Energy Center (November 10, 2017)",43.04441,-89.38076,0.123152,2017-11-10,19:00:00,Coliseum at Alliant Energy Center
+283,"Chicago, IL, US","ODESZA with SOFI TUKKER and Louis Futon at UIC Pavilion (November 11, 2017)",41.8749,-87.65624,0.123152,2017-11-11,19:00:00,UIC Pavilion
+284,"Grand Rapids, MI, US","ODESZA with SOFI TUKKER and Louis Futon at 20 Monroe Live (November 13, 2017)",42.96339,-85.67205,0.123152,2017-11-13,18:00:00,20 Monroe Live
+285,"Detroit, MI, US","ODESZA with SOFI TUKKER and Louis Futon at Masonic Temple (November 14, 2017)",42.34153,-83.06007,0.123152,2017-11-14,19:00:00,Masonic Temple
+286,"Philadelphia, PA, US","ODESZA with SOFI TUKKER and KASBO at Electric Factory (November 20, 2017)",39.95898,-75.15028,0.123152,2017-11-20,18:00:00,Electric Factory
+287,"Philadelphia, PA, US","ODESZA and KASBO with SOFI TUKKER and Louis Futon at Electric Factory (November 20, 2017)",39.95898,-75.15028,0.123152,2017-11-20,20:00:00,Electric Factory
+288,"Philadelphia, PA, US","ODESZA with SOFI TUKKER and Louis Futon at Electric Factory (November 21, 2017)",39.95898,-75.15028,0.123152,2017-11-21,19:00:00,Electric Factory
+289,"Philadelphia, PA, US","ODESZA with SOFI TUKKER and Louis Futon at Electric Factory (November 22, 2017)",39.95898,-75.15028,0.123152,2017-11-22,19:00:00,Electric Factory
+290,"Washington, DC, US","ODESZA with SOFI TUKKER and Louis Futon at The Anthem (November 24, 2017)",38.88009,-77.02611,0.123152,2017-11-24,19:00:00,The Anthem
+291,"Washington, DC, US","ODESZA with Louis Futon and SOFI TUKKER at The Anthem (November 25, 2017)",38.88009,-77.02611,0.123152,2017-11-25,19:30:00,The Anthem
+292,"Seattle, WA, US","The Killers, The Lumineers, ODESZA, Portugal. The Man, and 4 more… at KeyArena at Seattle Center (December 5, 2017)",47.62164,-122.3507,0.614895,2017-12-05,None,KeyArena at Seattle Center
+293,"Boston, MA, US","ODESZA with SOFI TUKKER at House of Blues (December 11, 2017)",42.34717,-71.0957,0.123152,2017-12-11,19:00:00,House of Blues
+294,"Boston, MA, US","SOFI TUKKER, ODESZA, and Chet Porter at House of Blues (December 12, 2017)",42.34717,-71.0957,0.123152,2017-12-12,20:00:00,House of Blues
+295,"Brooklyn, NY, US","ODESZA with SOFI TUKKER at Barclays Center (December 15, 2017)",40.68349,-73.97603,0.123152,2017-12-15,19:00:00,Barclays Center
+296,"Aspen, CO, US","ODESZA at Belly Up Aspen (December 29, 2017)",39.1876,-106.81901,0.123152,2017-12-29,19:00:00,Belly Up Aspen
+297,"Denver, CO, US",Decadence Denver 2017,39.74276,-104.994,0.27315,2017-12-31,None,Colorado Convention Center
+298,"Seattle, WA, US","ODESZA with Big Wild and YAHTZEL at WaMu Theater (March 29, 2018)",47.59418,-122.33323,0.123152,2018-03-29,19:00:00,WaMu Theater
+299,"Seattle, WA, US","ODESZA with Lane 8 and YAHTZEL at WaMu Theater (March 30, 2018)",47.59418,-122.33323,0.123152,2018-03-30,19:00:00,WaMu Theater
+300,"Seattle, WA, US","ODESZA with Phantoms and pluko at WaMu Theater (March 31, 2018)",47.59418,-122.33323,0.123152,2018-03-31,19:00:00,WaMu Theater
+301,"West Dover, VT, US",Minus Zero Festival 2018,42.96976,-72.89612,0.123152,2018-04-06,None,Mount Snow Ski Area
+302,"West Dover, VT, US","ODESZA, Tipper, and Zeds Dead at The Snow Barn, Mt. Snow Ski Resort (April 6, 2018)",42.96457,-72.89006,0.123152,2018-04-06,12:00:00,"The Snow Barn, Mt. Snow Ski Resort"
+303,"West Dover, VT, US","Pierce Fulton, ODESZA, Marvel Years, Walker & Royce, and 4 more… at Mount Snow (April 8, 2018)",42.96794,-72.89504,0.123152,2018-04-08,10:00:00,Mount Snow
+304,"Indio, CA, US",Coachella 2018,33.68233,-116.23892,0.895067,2018-04-13,None,Empire Polo Club
+305,"Pomona, CA, US","ODESZA with Slow Magic and YAHTZEL at Fox Theater (April 18, 2018)",34.0569,-117.75014,0.123152,2018-04-18,20:00:00,Fox Theater
+306,"Indio, CA, US",Coachella 2018,33.68233,-116.23892,0.895067,2018-04-20,None,Empire Polo Club
+307,"Chandler, AZ, US","ODESZA with Jai Wolf and YAHTZEL at Festival Park at Wild Horse Pass (April 20, 2018)",33.26781,-111.97848,0.123152,2018-04-20,18:00:00,Festival Park at Wild Horse Pass
+308,"Palm Springs, CA, US","ODESZA, pluko, Jai Wolf, Chet Porter, and 2 more… at Led Day Club @ Hilton Palm Springs (April 21, 2018)",33.82404,-116.5424,0.123152,2018-04-21,None,Led Day Club @ Hilton Palm Springs
+309,"Bonner Springs, KS, US","ODESZA with San Holo and pluko at Providence Medical Center Amphitheater (April 25, 2018)",39.1127,-94.87685,0.123152,2018-04-25,18:00:00,Providence Medical Center Amphitheater
+310,"St Louis, MO, US","ODESZA with Phantoms and pluko at The Pageant (April 26, 2018)",38.65557,-90.29787,0.123152,2018-04-26,18:30:00,The Pageant
+311,"St Louis, MO, US","ODESZA with Kimbra and pluko at The Pageant (April 27, 2018)",38.65557,-90.29787,0.123152,2018-04-27,18:30:00,The Pageant
+312,"Indianapolis, IN, US","ODESZA with Kimbra and pluko at The Farm Bureau Insurance Lawn at White River State Park (April 28, 2018)",39.76656,-86.1708,0.123152,2018-04-28,18:00:00,The Farm Bureau Insurance Lawn at White River State Park
+313,"Charlottesville, VA, US","ODESZA with Kimbra and pluko at Sprint Pavilion (May 1, 2018)",38.02924,-78.47661,0.123152,2018-05-01,18:00:00,Sprint Pavilion
+314,"Pittsburgh, PA, US","ODESZA with Kimbra and pluko at Stage AE (May 3, 2018)",40.4459,-80.01151,0.123152,2018-05-03,18:00:00,Stage AE
+315,"Cleveland, OH, US","ODESZA with Kimbra and pluko at Jacobs Pavilion at Nautica (May 4, 2018)",41.49635,-81.70296,0.123152,2018-05-04,18:30:00,Jacobs Pavilion at Nautica
+316,"Memphis, TN, US",Beale Street Music Festival 2018,35.13988,-90.05935,0.281121,2018-05-04,None,Tom Lee Park
+317,"Cincinnati, OH, US","ODESZA with Phantoms and pluko at PNC Pavilion at Riverbend (May 5, 2018)",39.05208,-84.41686,0.123152,2018-05-05,18:00:00,PNC Pavilion at Riverbend
+318,"Raleigh, NC, US","ODESZA with Kimbra and KASBO at Red Hat Amphitheater (May 9, 2018)",35.77377,-78.64307,0.123152,2018-05-09,17:30:00,Red Hat Amphitheater
+319,"Charlotte, NC, US","ODESZA with Kimbra and KASBO at Charlotte Metro Credit Union Amphitheatre (May 10, 2018)",35.23938,-80.84565,0.123152,2018-05-10,18:00:00,Charlotte Metro Credit Union Amphitheatre
+320,"Louisville, KY, US","ODESZA with Kimbra and KASBO at Iroquois Amphitheater (May 11, 2018)",38.1601,-85.77954,0.123152,2018-05-11,18:00:00,Iroquois Amphitheater
+321,"Nashville, TN, US","ODESZA with YAHTZEL and Kimbra at Ascend Amphitheater (May 12, 2018)",36.15929,-86.77197,0.123152,2018-05-12,18:00:00,Ascend Amphitheater
+322,"Jacksonville, FL, US","ODESZA with TroyBoi and KASBO at Daily's Place (May 16, 2018)",30.32392,-81.63732,0.123152,2018-05-16,18:00:00,Daily's Place
+323,"Orlando, FL, US","ODESZA with TroyBoi and KASBO at CFE Arena (May 17, 2018)",28.60723,-81.19737,0.123152,2018-05-17,18:00:00,CFE Arena
+324,"Miami, FL, US","ODESZA with TroyBoi and KASBO at Klipsch Amphitheater at Bayfront Park (May 18, 2018)",25.7774,-80.18787,0.123152,2018-05-18,18:00:00,Klipsch Amphitheater at Bayfront Park
+325,"Baltimore, MD, US",Preakness InfieldFest 2018,39.34904,-76.67599,0.123152,2018-05-19,None,Preakness Infieldfest at Pimlico Race Course
+326,"Dover, DE, US",Firefly Music Festival 2018,39.15817,-75.52437,0.895067,2018-06-14,None,"The Woodlands, Dover International Speedway"
+327,"Morrison, CO, US","ODESZA with Chet Porter and pluko at Red Rocks Amphitheatre (June 15, 2018)",39.68001,-105.19724,0.123152,2018-06-15,18:00:00,Red Rocks Amphitheatre
+328,"Morrison, CO, US","615 with ODESZA at Red Rocks Amphitheatre (June 15, 2018)",39.68001,-105.19724,0.123152,2018-06-15,15:45:00,Red Rocks Amphitheatre
+329,"Morrison, CO, US","ODESZA with KASBO and YAHTZEL at Red Rocks Amphitheatre (June 16, 2018)",39.68001,-105.19724,0.123152,2018-06-16,18:00:00,Red Rocks Amphitheatre
+330,"Morrison, CO, US","616 with ODESZA at Red Rocks Amphitheatre (June 16, 2018)",39.68001,-105.19724,0.123152,2018-06-16,15:45:00,Red Rocks Amphitheatre
+331,"Chicago, IL, US",Lollapalooza 2018,41.88279,-87.61892,0.754699,2018-08-02,23:00:00,Grant Park
+332,"San Francisco, CA, US",Outside Lands Music & Arts Festival 2018,37.78229,-122.46371,0.614576,2018-08-10,None,Golden Gate Park
+333,"Long Beach, CA, US",ALT 98.7 Summer Camp 2018,33.75255,-118.19025,0.304218,2018-08-12,15:00:00,Queen Mary Events Park
+334,"Grand Rapids, MI, US","Breakaway, Flats Stanlie, KAYZO, Flosstradamus, and 8 more… at Belknap Park (August 24, 2018)",42.98101,-85.66582,0.123152,2018-08-24,None,Belknap Park
+335,"Grand Rapids, MI, US",Breakaway Music Festival Grand Rapids 2018,42.88431,-86.11806,0.123405,2018-08-24,None,Unknown venue
+336,"Columbus, OH, US",Breakaway Music Festival 2018,40.00941,-82.99109,0.208614,2018-08-24,None,Mapfre Stadium / Crew Stadium

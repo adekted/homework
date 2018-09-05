@@ -1,0 +1,412 @@
+Event Number,City,Event Name,Latitude,Longitude,Popularity,Start Date,Start Time,Venue
+1,"Norfolk, VA, US","Wale with Colin Munroe and J. Cole at The NorVa (April 7, 2009)",36.850247,-76.289459,0.240508,2009-04-07,None,The NorVa
+2,"Boston, MA, US","Clipse with J. Cole at House of Blues (July 25, 2009)",42.3471727,-71.0957007,0.198233,2009-07-25,20:00:00,House of Blues
+3,"Philadelphia, PA, US","Clipse with J. Cole at Starlight Ballroom (August 8, 2009)",39.9605743,-75.1532419,0.198233,2009-08-08,20:00:00,Starlight Ballroom
+4,"University Park, PA, US","J. Cole with Jay-Z and N.E.R.D. at Bryce Jordan Center (October 9, 2009)",40.8035111,-77.8666435,0.435498,2009-10-09,20:00:00,Bryce Jordan Center
+5,"Highland Heights, KY, US","Jay-Z, N.E.R.D., and J. Cole with Wale at BB&T Arena (October 10, 2009)",39.0317777,-84.463309,0.414758,2009-10-10,20:00:00,BB&T Arena
+6,"Seattle, WA, US","Jay-Z, N.E.R.D., and J. Cole at KeyArena at Seattle Center (October 17, 2009)",47.6216358,-122.350699,0.416631,2009-10-17,20:00:00,KeyArena at Seattle Center
+7,"Cleveland, OH, US","Jay-Z, N.E.R.D., and J. Cole at Wolstein Center, CSU (October 22, 2009)",41.5000912,-81.6759334,0.421155,2009-10-22,19:30:00,"Wolstein Center, CSU"
+8,"Providence, RI, US","N.E.R.D. and J. Cole with Jay-Z at Dunkin Donuts Center (October 24, 2009)",41.823743,-71.418166,0.435498,2009-10-24,20:00:00,Dunkin Donuts Center
+9,"Amherst, MA, US","N.E.R.D. and J. Cole with Jay-Z at Mullins Center, U Mass (October 25, 2009)",42.3911245,-72.5331953,0.435498,2009-10-25,20:00:00,"Mullins Center, U Mass"
+10,"Baltimore, MD, US","J. Cole with Jay-Z and N.E.R.D. at Royal Farms Arena (October 27, 2009)",39.2884951,-76.6186943,0.435498,2009-10-27,19:00:00,Royal Farms Arena
+11,"Columbus, OH, US","J. Cole with Jay-Z and N.E.R.D. at Value City Arena, Schottenstein Center (October 28, 2009)",40.0080079,-83.0249081,0.435498,2009-10-28,20:00:00,"Value City Arena, Schottenstein Center"
+12,"Fresno, CA, US","Jay-Z and N.E.R.D. with J. Cole and Wale at Save Mart Center (November 7, 2009)",36.8086546,-119.7394542,0.411339,2009-11-07,20:00:00,Save Mart Center
+13,"Los Angeles, CA, US","Jay-Z, N.E.R.D., and J. Cole at Pauley Pavilion, UCLA (November 8, 2009)",34.0737025,-118.4452703,0.435498,2009-11-08,19:30:00,"Pauley Pavilion, UCLA"
+14,"Austin, TX, US","Jay-Z, N.E.R.D., and J. Cole at Frank Erwin Center, University of Texas (November 10, 2009)",30.276391,-97.732422,0.435498,2009-11-10,20:00:00,"Frank Erwin Center, University of Texas"
+15,"Champaign, IL, US","N.E.R.D. and J. Cole with Jay-Z at State Farm Center (November 12, 2009)",40.096261,-88.236083,0.435498,2009-11-12,20:00:00,State Farm Center
+16,"Lubbock, TX, US","Jay-Z, J. Cole, and N.E.R.D. at United Spirit Arena (November 17, 2009)",33.5885682,-101.8877717,0.435498,2009-11-17,20:00:00,United Spirit Arena
+17,"Albuquerque, NM, US","Jay-Z, J. Cole, and N.E.R.D. at Tingley Coliseum (November 19, 2009)",35.0847282,-106.5743887,0.435498,2009-11-19,19:30:00,Tingley Coliseum
+18,"El Paso, TX, US","Jay-Z, J. Cole, and N.E.R.D. at Don Haskins Center (November 20, 2009)",31.7772521,-106.5044652,0.411165,2009-11-20,20:00:00,Don Haskins Center
+19,"Austin, TX, US","Jay-Z, N.E.R.D., and J. Cole at Frank Erwin Center, University of Texas (November 22, 2009)",30.276391,-97.732422,0.435498,2009-11-22,20:00:00,"Frank Erwin Center, University of Texas"
+20,"Washington, DC, US","Wale and Remy with Wiz Khalifa, Fly Gypsy, and 2 more… at 9:30 Club (January 1, 2010)",38.9178658,-77.0237219,0.553532,2010-01-01,23:30:00,9:30 Club
+21,"Houston, TX, US","J. Cole at Warehouse Live (January 23, 2010)",29.7521221,-95.3546736,0.198233,2010-01-23,00:00:00,Warehouse Live
+22,"Austin, TX, US","J. Cole with Kevin Jack at Aces Lounge (January 24, 2010)",30.267715,-97.740471,0.198233,2010-01-24,21:00:00,Aces Lounge
+23,"Atlanta, GA, US","J. Cole with Warm Up at The Loft (February 26, 2010)",33.7920338,-84.3879795,0.198233,2010-02-26,22:00:00,The Loft
+24,"New York, NY, US","Trey Songz, Jay-Z, and J. Cole with Jeezy at Madison Square Garden (March 2, 2010)",40.7497096,-73.991556,0.391073,2010-03-02,20:00:00,Madison Square Garden
+25,"Greensboro, NC, US","J. Cole at Greensboro Coliseum Complex (March 28, 2010)",36.0597573,-79.8256684,0.183007,2010-03-28,None,Greensboro Coliseum Complex
+26,"Manhattan, NY, US","J. Cole at S.O.B.'s (March 30, 2010)",40.7284492,-74.0051241,0.248231,2010-03-30,21:00:00,S.O.B.'s
+27,"Richmond, VA, US","J. Cole at Club 534 (April 2, 2010)",37.5515581,-77.4528962,0.275181,2010-04-02,None,Club 534
+28,"Tampa, FL, US","J. Cole at University of South Florida (USF) (April 9, 2010)",28.0545713,-82.413227,0.232055,2010-04-09,None,University of South Florida (USF)
+29,"Poughkeepsie, NY, US","J. Cole at Vassar College (April 17, 2010)",41.6865223,-73.8980969,0.162713,2010-04-17,None,Vassar College
+30,"Montclair, NJ, US","J. Cole at Montclair State University (April 20, 2010)",40.8609869,-74.197648,0.264439,2010-04-20,None,Montclair State University
+31,"Washington, DC, US","J. Cole at Howard University (April 21, 2010)",38.9224801,-77.0210777,0.162713,2010-04-21,None,Howard University
+32,"Covington, KY, US","Reflection Eternal with J. Cole at Madison Theater (April 22, 2010)",39.082786,-84.509545,0.240508,2010-04-22,None,Madison Theater
+33,"Queens, NY, US","J. Cole at St. John's University (April 23, 2010)",40.7243154,-73.7946081,0.162713,2010-04-23,None,St. John's University
+34,"Piscataway, NJ, US","P.O.S, Brand New, Talib Kweli, J. Cole, and 2 more… at Yellow Lot, Livingston Campus (April 30, 2010)",40.52533,-74.43843,0.396425,2010-04-30,19:00:00,"Yellow Lot, Livingston Campus"
+35,"Schenectady, NY, US","J. Cole at Union College (May 1, 2010)",42.8173121,-73.9263823,0.231478,2010-05-01,None,Union College
+36,"New Haven, CT, US","J. Cole and Wale at Southern Connecticut State University (May 29, 2010)",41.3343121,-72.9519132,0.240508,2010-05-29,None,Southern Connecticut State University
+37,"Mansfield, MA, US","J. Cole at Xfinity Center (June 5, 2010)",41.9944318,-71.2106493,0.188821,2010-06-05,None,Xfinity Center
+38,"New Orleans, LA, US","Josh Golden and J. Cole with Cali Swag District, Kourtney Heart, and 2 more… at House of Blues (June 18, 2010)",29.9531604,-90.0661661,0.242696,2010-06-18,21:00:00,House of Blues
+39,"Chicago, IL, US","J. Cole and Ryan Leslie with DJ Jazzy Jeff at Ravenswood Event Center (June 26, 2010)",41.9547182,-87.6736474,0.370276,2010-06-26,None,Ravenswood Event Center
+40,"East Rutherford, NJ, US",Hot 97 Summer Jam 2010,40.8142092,-74.0736902,0.813874,2010-07-08,None,MetLife Stadium
+41,"Chicago, IL, US",Lollapalooza 2010,41.87811,-87.6298,0.617007,2010-08-06,12:00:00,Unknown venue
+42,"Atlanta, GA, US","J. Cole at The Loft (August 25, 2010)",33.7920338,-84.3879795,0.198233,2010-08-25,21:00:00,The Loft
+43,"Boise, ID, US","Asher Roth with Jay Cole, Jeremih, and J. Cole at Knitting Factory (September 3, 2010)",43.6131935,-116.2073485,0.198233,2010-09-03,20:00:00,Knitting Factory
+44,"Seattle, WA, US",Bumbershoot 2010,47.6062095,-122.3320708,0.828638,2010-09-04,20:00:00,Unknown venue
+45,"Bronx, NY, US","Jay-Z with Eminem and J. Cole at Yankee Stadium (September 14, 2010)",40.8296504,-73.9294799,0.863105,2010-09-14,19:30:00,Yankee Stadium
+46,"Chalmette, LA, US","Back to School Power Jam with Mystikal, Cali Swag District, J. Cole, and 5 more… at Frederick J. Sigur Civic Center (September 18, 2010)",29.9541806,-89.9805326,0.198233,2010-09-18,15:00:00,Frederick J. Sigur Civic Center
+47,"Hayward, CA, US","J. Cole at Cal State East Bay (October 7, 2010)",37.6588756,-122.062663,0.162713,2010-10-07,None,Cal State East Bay
+48,"Rochester, NY, US","We The Kings with J. Cole at Clark Gymnasium, RIT (October 8, 2010)",43.0907739,-77.6748753,0.318407,2010-10-08,20:00:00,"Clark Gymnasium, RIT"
+49,"Norfolk, VA, US","J. Cole with Cole at The NorVa (October 27, 2010)",36.850247,-76.289459,0.198233,2010-10-27,21:00:00,The NorVa
+50,"Columbus, OH, US","J. Cole at Newport Music Hall (November 3, 2010)",39.997525,-83.0074283,0.198233,2010-11-03,19:00:00,Newport Music Hall
+51,"Covington, KY, US","J. Cole at Madison Theater (November 4, 2010)",39.082786,-84.509545,0.162713,2010-11-04,None,Madison Theater
+52,"Kalamazoo, MI, US","J. Cole at Miller Auditorium - Western Michigan University (November 6, 2010)",42.2786709,-85.6160844,0.317167,2010-11-06,None,Miller Auditorium - Western Michigan University
+53,"Grand Rapids, MI, US","J. Cole at Intersection (November 8, 2010)",42.960082,-85.674089,0.198233,2010-11-08,19:00:00,Intersection
+54,"Orono, ME, US","Ludacris with J. Cole at Harold Alfond Sports Arena (November 9, 2010)",44.9024546,-68.6638413,0.289252,2010-11-09,None,Harold Alfond Sports Arena
+55,"Lawrence, KS, US","J. Cole with K. Michelle and CJ Hilton at Granada Theatre (November 11, 2010)",38.9647957,-95.2358532,0.370947,2010-11-11,21:00:00,Granada Theatre
+56,"Omaha, NE, US","J. Cole at Sokol Underground (November 14, 2010)",41.238645,-95.933738,0.198233,2010-11-14,19:30:00,Sokol Underground
+57,"Aspen, CO, US","J. Cole at Belly Up Aspen (November 16, 2010)",39.1876015,-106.8190064,0.198233,2010-11-16,21:00:00,Belly Up Aspen
+58,"Boulder, CO, US","J. Cole with K. Michelle and CJ Hilton at Fox Theatre (November 17, 2010)",40.0079953,-105.2762858,0.370947,2010-11-17,21:30:00,Fox Theatre
+59,"Tempe, AZ, US","J. Cole with Cole at Clubhouse Music Venue (November 19, 2010)",33.4081169,-111.8592332,0.23067,2010-11-19,20:00:00,Clubhouse Music Venue
+60,"West Hollywood, CA, US","J. Cole with CJ Hilton, Kate Mitchell, K. Michelle, and 1 more… at Key Club (November 20, 2010)",34.0909059,-118.388914,0.370947,2010-11-20,20:30:00,Key Club
+61,"Seattle, WA, US","J. Cole at Neumos Crystal Ball Reading Room (November 24, 2010)",47.6140125,-122.3200355,0.198233,2010-11-24,20:00:00,Neumos Crystal Ball Reading Room
+62,"Portland, OR, US","J. Cole with K. Michelle and C.j. Hilson at Roseland Theater (November 25, 2010)",45.5233129,-122.6764367,0.370947,2010-11-25,20:00:00,Roseland Theater
+63,"San Jose, CA, US","J. Cole with CJ Hilton and K. Michelle at VooDoo Lounge (November 26, 2010)",37.3367008,-121.8894898,0.370947,2010-11-26,21:00:00,VooDoo Lounge
+64,"Las Vegas, NV, US","J. Cole at Haze Nightclub (November 27, 2010)",36.1071379,-115.17316,0.162713,2010-11-27,None,Haze Nightclub
+65,"Portland, ME, US","J. Cole with Thommy and Spose at Port City Music Hall (December 1, 2010)",43.6564183,-70.2604589,0.162713,2010-12-01,None,Port City Music Hall
+66,"New York, NY, US","J. Cole with K. Michelle and CJ Hilton at Highline Ballroom (December 5, 2010)",40.7430022,-74.0059194,0.370947,2010-12-05,20:00:00,Highline Ballroom
+67,"Springfield, MA, US","J. Cole with Chris Webby, Gilbere Forte, and Aziz at Paramount Theater (December 11, 2010)",42.105218,-72.5929401,0.373658,2010-12-11,None,Paramount Theater
+68,"Los Angeles, CA, US","J. Cole with Big Sean at Luckman Fine Arts Complex (February 10, 2011)",34.0646447,-118.1696118,0.164816,2011-02-10,None,Luckman Fine Arts Complex
+69,"Montebello, CA, US","J. Cole at QC's 20/20 (February 17, 2011)",34.0272862,-118.1324029,0.198233,2011-02-17,20:00:00,QC's 20/20
+70,"Anaheim, CA, US","Dance Dance Heart Attack with J. Cole, Wale, and Roc Nation at House of Blues - Old Location (February 18, 2011)",33.8095381,-117.9229779,0.386852,2011-02-18,20:00:00,House of Blues - Old Location
+71,"West Hollywood, CA, US","J. Cole and Wale at House of Blues Sunset Strip (February 18, 2011)",34.0948759,-118.3736656,0.240508,2011-02-18,20:00:00,House of Blues Sunset Strip
+72,"Gainesville, FL, US","B.o.B with Wale, J. Cole, and Playboy Tre at Stephen C. O'Connell Center (February 26, 2011)",29.6521198,-82.349749,0.398483,2011-02-26,19:00:00,Stephen C. O'Connell Center
+73,"Columbia, MO, US","J. Cole at Jesse Auditorium (March 12, 2011)",38.945212,-92.3287105,0.198233,2011-03-12,20:00:00,Jesse Auditorium
+74,"Austin, TX, US","Curren$y with Big Sean, Miguel, Melanie Fiona, and 11 more… at Kiss And Fly (March 17, 2011)",30.267005,-97.744957,0.398483,2011-03-17,20:00:00,Kiss And Fly
+75,"Orlando, FL, US","J. Cole, Foxy Shazam, The Movement, We The Kings, and 3 more… at CFE Arena (March 20, 2011)",28.607225,-81.1973669,0.318407,2011-03-20,18:00:00,CFE Arena
+76,"St Joseph, MO, US","J. Cole at St. Joseph Civic Arena (April 6, 2011)",39.7665962,-94.8554451,0.198233,2011-04-06,20:00:00,St. Joseph Civic Arena
+77,"Washington, DC, US","J. Cole at U Street Music Hall (April 17, 2011)",38.917202,-77.027764,0.162713,2011-04-17,None,U Street Music Hall
+78,"Atlantic City, NJ, US","J. Cole at House of Blues (April 29, 2011)",39.3617,-74.418414,0.198233,2011-04-29,19:00:00,House of Blues
+79,"Newark, DE, US","J. Cole at University of Delaware (May 3, 2011)",39.6673566,-75.7502314,0.34855,2011-05-03,20:00:00,University of Delaware
+80,"New York, NY, US","J. Cole and Fabolous with Lloyd Banks at Manhattan Center Hammerstein Ballroom (May 5, 2011)",40.7528457,-73.9941767,0.280253,2011-05-05,None,Manhattan Center Hammerstein Ballroom
+81,"Hartford, CT, US","Lupe Fiasco and Fabolous with Jeremiah, DJ Khaled, and 2 more… at XL Center (June 2, 2011)",41.7780919,-72.6802608,0.315701,2011-06-02,19:00:00,XL Center
+82,"Baltimore, MD, US","Rihanna with Cee Lo Green and J. Cole at Royal Farms Arena (June 4, 2011)",39.2884951,-76.6186943,0.900814,2011-06-04,19:30:00,Royal Farms Arena
+83,"Auburn Hills, MI, US","Rihanna with J. Cole and B.o.B at The Palace of Auburn Hills (June 14, 2011)",42.696511,-83.2437214,0.897226,2011-06-14,19:30:00,The Palace of Auburn Hills
+84,"Chicago, IL, US","Rihanna with J. Cole and B.o.B at United Center (June 15, 2011)",41.8812601,-87.674145,0.897226,2011-06-15,19:30:00,United Center
+85,"Los Angeles, CA, US","J. Cole and DJ Khaled at Playhouse (June 26, 2011)",34.1015349,-118.3313847,0.197854,2011-06-26,None,Playhouse
+86,"Los Angeles, CA, US","Rihanna with Cee Lo Green and J. Cole at Staples Center (June 28, 2011)",34.042984,-118.2668182,0.900662,2011-06-28,19:30:00,Staples Center
+87,"Anaheim, CA, US","Rihanna with Cee Lo Green and J. Cole at Honda Center (June 29, 2011)",33.807723,-117.876522,0.900662,2011-06-29,19:30:00,Honda Center
+88,"Oakland, CA, US","Rihanna with Cee Lo Green and J. Cole at Oracle Arena (June 30, 2011)",37.7515541,-122.2015715,0.900662,2011-06-30,19:30:00,Oracle Arena
+89,"Albuquerque, NM, US","Rihanna with Cee Lo Green, J. Cole, and Cee Lo at Hard Rock Pavilion (July 4, 2011)",34.9379864,-106.6623463,0.900662,2011-07-04,19:30:00,Hard Rock Pavilion
+90,"Dallas, TX, US","Rihanna with Cee Lo Green and J. Cole at American Airlines Center (July 8, 2011)",32.790442,-96.810159,0.900662,2011-07-08,19:30:00,American Airlines Center
+91,"Houston, TX, US","Rihanna with J. Cole at Toyota Center (July 9, 2011)",29.7519787,-95.3621823,0.900662,2011-07-09,19:30:00,Toyota Center
+92,"Roanoke, VA, US","Adina Howard, H-Town, Case, Sunshine Anderson, and 2 more… at Berglund Performing Arts Theatre (July 9, 2011)",37.2789719,-79.9359444,0.218373,2011-07-09,None,Berglund Performing Arts Theatre
+93,"Atlanta, GA, US","Rihanna with Cee Lo Green and J. Cole at State Bank Amphitheatre at Chastain Park (July 12, 2011)",33.8766169,-84.3960225,0.93514,2011-07-12,19:30:00,State Bank Amphitheatre at Chastain Park
+94,"Sunrise, FL, US","Rihanna with Cee Lo Green, J. Cole, and Cee Lo at BB&T Center (July 14, 2011)",26.155362,-80.33023,0.900662,2011-07-14,19:30:00,BB&T Center
+95,"Greensboro, NC, US","Rihanna with Cee Lo Green, J. Cole, and Cee Lo at Greensboro Coliseum Complex (July 16, 2011)",36.0597573,-79.8256684,0.900662,2011-07-16,19:30:00,Greensboro Coliseum Complex
+96,"Uniondale, NY, US","Rihanna with Cee Lo Green, J. Cole, and Cee Lo at NYCB LIVE: Home of the Nassau Veterans Memorial Coliseum (July 19, 2011)",40.7228919,-73.5905136,0.944455,2011-07-19,19:30:00,NYCB LIVE: Home of the Nassau Veterans Memorial Coliseum
+97,"East Rutherford, NJ, US","Rihanna with Cee Lo Green, J. Cole, and Cee Lo at Izod Center (July 21, 2011)",40.8129701,-74.0701818,0.900662,2011-07-21,19:30:00,Izod Center
+98,"Philadelphia, PA, US","Rihanna with Cee Lo Green, J. Cole, and Cee Lo at Wells Fargo Center (July 23, 2011)",39.9042715,-75.1713324,0.900662,2011-07-23,19:30:00,Wells Fargo Center
+99,"Boston, MA, US","Rihanna with Cee Lo Green and J. Cole at TD Garden (July 24, 2011)",42.3661881,-71.0621482,0.900662,2011-07-24,19:30:00,TD Garden
+100,"New York, NY, US","Estelle, Fabolous, Kelly Rowland, Big Sean, and 3 more… at Governor's Island (August 21, 2011)",40.6907971,-74.016453,0.249002,2011-08-21,20:00:00,Governor's Island
+101,"Orlando, FL, US","Swirl and J. Cole at The Beacham (September 10, 2011)",28.542972,-81.379375,0.268561,2011-09-10,21:00:00,The Beacham
+102,"Houston, TX, US","J. Cole at The Ballroom at Warehouse Live (September 14, 2011)",29.7521221,-95.3546736,0.198233,2011-09-14,20:00:00,The Ballroom at Warehouse Live
+103,"New Orleans, LA, US","J. Cole at House of Blues (September 15, 2011)",29.9531604,-90.0661661,0.198233,2011-09-15,20:00:00,House of Blues
+104,"Dallas, TX, US","J. Cole at Palladium Ballroom (September 16, 2011)",32.768777,-96.797987,0.198233,2011-09-16,20:00:00,Palladium Ballroom
+105,"Austin, TX, US","J. Cole at Emo's Austin (September 17, 2011)",30.2403964,-97.7282016,0.266535,2011-09-17,21:00:00,Emo's Austin
+106,"Denver, CO, US","J. Cole at Ogden Theatre (September 19, 2011)",39.740118,-104.975305,0.198233,2011-09-19,20:00:00,Ogden Theatre
+107,"Scottsdale, AZ, US","J. Cole at Venue of Scottsdale (September 21, 2011)",33.495978,-111.927635,0.198233,2011-09-21,20:30:00,Venue of Scottsdale
+108,"Los Angeles, CA, US","J. Cole at The Novo by Microsoft (September 22, 2011)",34.0449376,-118.2654979,0.326844,2011-09-22,19:30:00,The Novo by Microsoft
+109,"San Francisco, CA, US","J. Cole at The Regency Ballroom (September 23, 2011)",37.7878749,-122.421425,0.315674,2011-09-23,21:00:00,The Regency Ballroom
+110,"St Petersburg, FL, US","J. Cole at Jannus Live (September 24, 2011)",27.771666,-82.636035,0.280756,2011-09-24,18:30:00,Jannus Live
+111,"Orlando, FL, US","J. Cole at The Beacham (September 30, 2011)",28.542972,-81.379375,0.268561,2011-09-30,21:00:00,The Beacham
+112,"Fort Lauderdale, FL, US","J. Cole at Revolution Live (October 1, 2011)",26.1211786,-80.146326,0.198233,2011-10-01,19:00:00,Revolution Live
+113,"Atlanta, GA, US","J. Cole at The Tabernacle (October 2, 2011)",33.7586987,-84.3914615,0.314191,2011-10-02,20:00:00,The Tabernacle
+114,"Cleveland, OH, US","J. Cole at House of Blues (October 4, 2011)",41.4998193,-81.6908598,0.198233,2011-10-04,19:00:00,House of Blues
+115,"Chicago, IL, US","J. Cole at House of Blues (October 5, 2011)",41.8882037,-87.6292039,0.388751,2011-10-05,18:00:00,House of Blues
+116,"Kalamazoo, MI, US","J. Cole at State Theatre (October 6, 2011)",42.2884574,-85.583096,0.198233,2011-10-06,20:00:00,State Theatre
+117,"Royal Oak, MI, US","J. Cole with Drew32, Dj Graffiti, and Knewport at Royal Oak Music Theatre (October 7, 2011)",42.4873251,-83.1474339,0.198233,2011-10-07,19:00:00,Royal Oak Music Theatre
+118,"Milwaukee, WI, US","J. Cole at The Rave/Eagles Club (October 8, 2011)",43.0381725,-87.9432826,0.232187,2011-10-08,None,The Rave/Eagles Club
+119,"Chicago, IL, US","J. Cole at House of Blues (October 9, 2011)",41.8882037,-87.6292039,0.388751,2011-10-09,18:00:00,House of Blues
+120,"Philadelphia, PA, US","J. Cole at Electric Factory (October 12, 2011)",39.9589847,-75.1502809,0.250313,2011-10-12,20:00:00,Electric Factory
+121,"Charlotte, NC, US","J. Cole at The Fillmore Charlotte (October 13, 2011)",35.239118,-80.8460599,0.386088,2011-10-13,20:00:00,The Fillmore Charlotte
+122,"Norfolk, VA, US","Big Sean and J. Cole at Old Dominion University (ODU) (October 14, 2011)",36.8864739,-76.3061248,0.375512,2011-10-14,None,Old Dominion University (ODU)
+123,"Norfolk, VA, US","J. Cole and Big Sean with Kids These Days at Ted Constant Convocation Center (October 14, 2011)",36.884147,-76.301293,0.273877,2011-10-14,None,Ted Constant Convocation Center
+124,"Elizabeth City, NC, US","J. Cole at Elizabeth City State University (October 15, 2011)",36.2826397,-76.2138123,0.276683,2011-10-15,None,Elizabeth City State University
+125,"North Myrtle Beach, SC, US","J. Cole at House of Blues (October 16, 2011)",33.7988865,-78.7386383,0.232187,2011-10-16,20:00:00,House of Blues
+126,"Silver Spring, MD, US","J. Cole at The Fillmore Silver Spring (October 19, 2011)",38.997482,-77.027928,0.348028,2011-10-19,19:00:00,The Fillmore Silver Spring
+127,"Baltimore, MD, US","J. Cole with Cheyne at Baltimore Soundstage (October 20, 2011)",39.2876066,-76.6068397,0.198233,2011-10-20,19:30:00,Baltimore Soundstage
+128,"Albany, NY, US","J. Cole at Washington Avenue Armory (October 21, 2011)",42.6564712,-73.7627523,0.198233,2011-10-21,19:00:00,Washington Avenue Armory
+129,"Worcester, MA, US","J. Cole at Palladium (October 22, 2011)",42.2667443,-71.8008124,0.162713,2011-10-22,None,Palladium
+130,"Providence, RI, US","J. Cole at Lupo's Heartbreak Hotel (October 23, 2011)",41.823807,-71.414551,0.162713,2011-10-23,None,Lupo's Heartbreak Hotel
+131,"New York, NY, US","J. Cole at PlayStation Theater (October 25, 2011)",40.7576068,-73.9861364,0.249953,2011-10-25,20:00:00,PlayStation Theater
+132,"Universal City, CA, US","Drake with J. Cole and Big Sean at Gibson Amphitheatre, Universal Studios Hollywood (December 16, 2011)",34.1380075,-118.3532429,0.657372,2011-12-16,19:30:00,"Gibson Amphitheatre, Universal Studios Hollywood"
+133,"Irvine, CA, US","J. Cole at Tia Juana's (December 17, 2011)",33.665242,-117.7490656,0.368939,2011-12-17,21:00:00,Tia Juana's
+134,"Anaheim, CA, US","J. Cole at Ember (December 17, 2011)",33.8388918,-117.9152163,0.198233,2011-12-17,21:00:00,Ember
+135,"San Jose, CA, US","Drake with J. Cole at SAP Center at San Jose (December 18, 2011)",37.3325116,-121.9011855,0.674614,2011-12-18,19:30:00,SAP Center at San Jose
+136,"New York, NY, US","J. Cole at Webster Hall (January 26, 2012)",40.7315472,-73.9891987,0.198233,2012-01-26,22:00:00,Webster Hall
+137,"Orlando, FL, US","J. Cole with John Wall, Bigga Rankin, and Wankaego at Venue 578 (February 25, 2012)",28.550581,-81.3792815,0.21107,2012-02-25,22:00:00,Venue 578
+138,"Charlotte, NC, US","J. Cole at The Fillmore Charlotte (March 3, 2012)",35.239118,-80.8460599,0.386088,2012-03-03,21:00:00,The Fillmore Charlotte
+139,"Orlando, FL, US","J. Cole at Universal Studios Orlando (March 16, 2012)",28.4771576,-81.4736252,0.162713,2012-03-16,None,Universal Studios Orlando
+140,"Lowell, MA, US","J. Cole at Tsongas Center, UMass Lowell (March 30, 2012)",42.6497703,-71.3132218,0.198233,2012-03-30,20:00:00,"Tsongas Center, UMass Lowell"
+141,"Kingston, RI, US","J. Cole with BIG K.R.I.T. at Ryan Center, University of Rhode Island (April 11, 2012)",41.4877684,-71.5357485,0.198233,2012-04-11,20:00:00,"Ryan Center, University of Rhode Island"
+142,"Amherst, MA, US","J. Cole with Third Eye Blind and BIG K.R.I.T. at Mullins Center, U Mass (April 15, 2012)",42.3911245,-72.5331953,0.207928,2012-04-15,19:00:00,"Mullins Center, U Mass"
+143,"Champaign, IL, US","J. Cole and BIG K.R.I.T. at State Farm Center (April 17, 2012)",40.096261,-88.236083,0.198233,2012-04-17,19:30:00,State Farm Center
+144,"Dekalb, IL, US","J. Cole at Convocation Center, Northern Illinois University (April 18, 2012)",41.93115,-88.7829668,0.198233,2012-04-18,19:30:00,"Convocation Center, Northern Illinois University"
+145,"Lexington, KY, US","J. Cole with Gym Class Heroes at Lexington Memorial Coliseum, University of Kentucky (April 19, 2012)",38.0395585,-84.501719,0.245569,2012-04-19,20:00:00,"Lexington Memorial Coliseum, University of Kentucky"
+146,"Johnstown, PA, US","J. Cole with BIG K.R.I.T. at Pitt-Johnstown Sports Center (April 20, 2012)",40.2675162,-78.8356821,0.198233,2012-04-20,20:00:00,Pitt-Johnstown Sports Center
+147,"Springfield, MO, US","J. Cole at O'Reilly Family Event Center (April 23, 2012)",37.219736,-93.285769,0.198233,2012-04-23,19:00:00,O'Reilly Family Event Center
+148,"Cedar Falls, IA, US","J. Cole with BIG K.R.I.T. and Skoold at Mcleod Center (April 24, 2012)",42.5149051,-92.4656314,0.162713,2012-04-24,None,Mcleod Center
+149,"Morgantown, WV, US","J. Cole with Tyga and BIG K.R.I.T. at WVU Coliseum (April 27, 2012)",39.6443881,-79.9576935,0.331515,2012-04-27,19:30:00,WVU Coliseum
+150,"Philadelphia, PA, US","BIG K.R.I.T. and J. Cole at Liacouras Center (April 28, 2012)",39.9798642,-75.1583913,0.198233,2012-04-28,20:00:00,Liacouras Center
+151,"Durham, NH, US","J. Cole with BIG K.R.I.T. at Whittemore Center Arena (May 3, 2012)",43.1392619,-70.9339786,0.198233,2012-05-03,20:00:00,Whittemore Center Arena
+152,"Concord, CA, US","Drake with Waka Flocka Flame, French Montana, 2 Chainz, and 1 more… at Concord Pavilion (May 7, 2012)",37.960355,-121.939656,0.713957,2012-05-07,18:00:00,Concord Pavilion
+153,"Irvine, CA, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Irvine Meadows Amphitheatre (May 8, 2012)",33.6370977,-117.7491055,0.652165,2012-05-08,19:00:00,Irvine Meadows Amphitheatre
+154,"Pomona, CA, US","J. Cole with Kendrick Lamar at Fox Theater (May 9, 2012)",34.0569033,-117.750137,0.26346,2012-05-09,20:00:00,Fox Theater
+155,"Phoenix, AZ, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Ak-Chin Pavilion (May 10, 2012)",33.470823,-112.232875,0.63765,2012-05-10,18:00:00,Ak-Chin Pavilion
+156,"Tempe, AZ, US","Drake with J. Cole, 2 Chainz, Meek Mill, and 2 more… at School of Rock (May 10, 2012)",33.4261603,-111.939838,0.651537,2012-05-10,None,School of Rock
+157,"Las Vegas, NV, US","Crazy Horse and Drake with 2 Chainz, French Montana, and 2 more… at Garden Arena - MGM Grand (May 11, 2012)",36.1022507,-115.1699679,0.771982,2012-05-11,18:00:00,Garden Arena - MGM Grand
+158,"Sacramento, CA, US","T-Pain with J. Cole, Sean Paul, Big Sean, and 4 more… at Capitol Mall (May 13, 2012)",38.5815719,-121.4943996,0.305795,2012-05-13,10:00:00,Capitol Mall
+159,"Greenwood Village, CO, US","Drake with Waka Flocka Flame, 2 Chainz, French Montana, and 1 more… at Fiddler's Green Amphitheatre (May 13, 2012)",39.6008082,-104.8944165,0.63765,2012-05-13,18:00:00,Fiddler's Green Amphitheatre
+160,"Albuquerque, NM, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Hard Rock Pavilion (May 14, 2012)",34.9379864,-106.6623463,0.63765,2012-05-14,18:00:00,Hard Rock Pavilion
+161,"Dallas, TX, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 2 more… at Gexa Energy Pavilion (May 16, 2012)",32.7740979,-96.7568521,0.63765,2012-05-16,19:00:00,Gexa Energy Pavilion
+162,"Houston, TX, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Toyota Center (May 17, 2012)",29.7519787,-95.3621823,0.63765,2012-05-17,18:00:00,Toyota Center
+163,"Charlotte, NC, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Verizon Wireless Amphitheatre (May 19, 2012)",35.327362,-80.7106699,0.63765,2012-05-19,18:00:00,Verizon Wireless Amphitheatre
+164,"Atlanta, GA, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Cellairis Amphitheatre at Lakewood (May 20, 2012)",33.7042695,-84.396095,0.786576,2012-05-20,18:00:00,Cellairis Amphitheatre at Lakewood
+165,"Raleigh, NC, US","J. Cole with Waka Flocka Flame, Drake, and French Montana at Time Warner Cable Music Pavilion at Walnut Creek (May 22, 2012)",35.7493881,-78.5763028,0.63765,2012-05-22,19:00:00,Time Warner Cable Music Pavilion at Walnut Creek
+166,"Virginia Beach, VA, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Veterans United Home Loans Amphitheater (May 23, 2012)",36.7686679,-76.1019623,0.679371,2012-05-23,18:00:00,Veterans United Home Loans Amphitheater
+167,"Washington, DC, US","Drake with J. Cole and Waka Flocka Flame at Verizon Center (May 25, 2012)",38.8975641,-77.0210577,0.63765,2012-05-25,18:00:00,Verizon Center
+168,"Burgettstown, PA, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Keybank Pavilion (May 26, 2012)",40.4197818,-80.4342124,0.739983,2012-05-26,19:00:00,Keybank Pavilion
+169,"Cuyahoga Falls, OH, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Blossom Music Center (May 28, 2012)",41.1913469,-81.5607834,0.63765,2012-05-28,19:00:00,Blossom Music Center
+170,"Clarkston, MI, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at DTE Energy Music Theatre (May 30, 2012)",42.7510124,-83.380305,0.63765,2012-05-30,19:30:00,DTE Energy Music Theatre
+171,"Noblesville, IN, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Ruoff Mortgage Music Center (June 1, 2012)",40.0049812,-85.9309888,0.812565,2012-06-01,19:30:00,Ruoff Mortgage Music Center
+172,"Tinley Park, IL, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Hollywood Casino Amphitheatre (June 2, 2012)",41.5426102,-87.7711529,0.681726,2012-06-02,19:00:00,Hollywood Casino Amphitheatre
+173,"East Rutherford, NJ, US",Hot 97 Summer Jam 2012,40.8142092,-74.0736902,0.509326,2012-06-03,18:30:00,MetLife Stadium
+174,"Memphis, TN, US","Drake and J. Cole with Waka Flocka Flame, 2 Chainz, and 1 more… at FedEx Forum (June 5, 2012)",35.1395093,-90.0517042,0.63765,2012-06-05,19:00:00,FedEx Forum
+175,"Cincinnati, OH, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Riverbend Music Center (June 6, 2012)",39.052082,-84.416862,0.63765,2012-06-06,19:00:00,Riverbend Music Center
+176,"Darien Center, NY, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Darien Lake Performing Arts Center (June 8, 2012)",42.9131989,-78.3894454,0.63765,2012-06-08,19:00:00,Darien Lake Performing Arts Center
+177,"Camden, NJ, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at BB&T Pavilion (June 9, 2012)",40.0177386,-75.0004321,0.670097,2012-06-09,19:30:00,BB&T Pavilion
+178,"Oakland, CA, US","Rick Ross with J. Cole, Big Sean, Wiz Khalifa, and 4 more… at Oracle Arena (June 10, 2012)",37.7515541,-122.2015715,0.553532,2012-06-10,19:30:00,Oracle Arena
+179,"Hartford, CT, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Xfinity Theatre (June 11, 2012)",41.7801718,-72.6693191,0.63765,2012-06-11,19:00:00,Xfinity Theatre
+180,"Holmdel, NJ, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at PNC Bank Arts Center (June 12, 2012)",39.9830657,-74.2135086,0.63765,2012-06-12,19:00:00,PNC Bank Arts Center
+181,"Saratoga Springs, NY, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Saratoga Performing Arts Center (SPAC) (June 14, 2012)",43.0553703,-73.8055707,0.771124,2012-06-14,19:00:00,Saratoga Performing Arts Center (SPAC)
+182,"Wantagh, NY, US","Drake with J. Cole, Waka Flocka Flame, 2 Chainz, and 1 more… at Northwell Health at Jones Beach Theater (June 16, 2012)",40.6011406,-73.502518,0.77662,2012-06-16,19:00:00,Northwell Health at Jones Beach Theater
+183,"Mansfield, MA, US","Drake with J. Cole, Waka Flocka Flame, French Montana, and 4 more… at Xfinity Center (June 17, 2012)",41.9944318,-71.2106493,0.63765,2012-06-17,20:00:00,Xfinity Center
+184,"Virginia Beach, VA, US","Drake with Waka Flocka Flame, 2 Chainz, French Montana, and 1 more… at Veterans United Home Loans Amphitheater (June 19, 2012)",36.7686679,-76.1019623,0.679371,2012-06-19,19:00:00,Veterans United Home Loans Amphitheater
+185,"Raleigh, NC, US","Drake with Waka Flocka Flame and J. Cole at Time Warner Cable Music Pavilion at Walnut Creek (June 20, 2012)",35.7493881,-78.5763028,0.63765,2012-06-20,19:00:00,Time Warner Cable Music Pavilion at Walnut Creek
+186,"Anaheim, CA, US","Powerhouse and Snoop Dogg with Tyga, T.I., and 5 more… at Honda Center (June 23, 2012)",33.807723,-117.876522,0.392428,2012-06-23,19:00:00,Honda Center
+187,"Chicago, IL, US",Lollapalooza 2012,41.88279,-87.61892,0.704043,2012-08-03,23:59:20,Grant Park
+188,"San Bernardino, CA, US",Rock the Bells 2012,34.0897285,-117.2940634,0.566334,2012-08-18,09:00:00,NOS Events Center
+189,"New York, NY, US","Fabolous with Kelly Rowland, Big Sean, and J. Cole at Governor's Island (August 21, 2012)",40.6907971,-74.016453,0.219607,2012-08-21,None,Governor's Island
+190,"Mountain View, CA, US",Rock the Bells 2012,37.42332,-122.07803,0.583965,2012-08-25,23:59:20,Shoreline Amphitheatre
+191,"Washington, DC, US","J. Cole with Labor Day Kick at The Park at 14th (August 30, 2012)",38.9019218,-77.0322748,0.345581,2012-08-30,17:00:00,The Park at 14th
+192,"Holmdel, NJ, US",Rock the Bells 2012,39.98307,-74.21351,0.411815,2012-09-01,23:59:20,PNC Bank Arts Center
+193,"Nashville, TN, US","J. Cole with Childish Gambino and Commodore Quake at Memorial Gymnasium, Vanderbilt University (October 26, 2012)",36.1448738,-86.8067804,0.218373,2012-10-26,20:00:00,"Memorial Gymnasium, Vanderbilt University"
+194,"Boston, MA, US","Trey Songz with J. Cole, Big Sean, Meek Mill, and 2 more… at TD Garden (November 1, 2012)",42.3661881,-71.0621482,0.30095,2012-11-01,19:00:00,TD Garden
+195,"Las Vegas, NV, US","Skrillex with Alvin Risk and J. Cole at Daylight Beach Club (May 26, 2013)",36.090754,-115.1766701,0.416761,2013-05-26,None,Daylight Beach Club
+196,"New York, NY, US","Elliott Wilson with J. Cole and Elliot Wilson at Highline Ballroom (May 28, 2013)",40.7430022,-74.0059194,0.198233,2013-05-28,23:55:00,Highline Ballroom
+197,"Hartford, CT, US","Kendrick Lamar with J. Cole, Ace Hood, Drop City Yacht Club, and 3 more… at XL Center (May 31, 2013)",41.7780919,-72.6802608,0.331954,2013-05-31,19:00:00,XL Center
+198,"Greenwood Village, CO, US","Trey Songz with Macklemore & Ryan Lewis, J. Cole, 2 Chainz, and 3 more… at Fiddler's Green Amphitheatre (June 7, 2013)",39.6008082,-104.8944165,0.324374,2013-06-07,17:30:00,Fiddler's Green Amphitheatre
+199,"Oakland, CA, US","Kendrick Lamar with J. Cole, 2 Chainz, Wale, and 2 more… at Oracle Arena (June 9, 2013)",37.7515541,-122.2015715,0.302821,2013-06-09,19:00:00,Oracle Arena
+200,"Virginia Beach, VA, US",Z104 Shagg Fest 2013,36.7686679,-76.1019623,0.281651,2013-06-15,15:00:00,Veterans United Home Loans Amphitheater
+201,"Dallas, TX, US","Ace Hood, Juicy J, Yo Gotti, J. Cole, and 8 more… at Kay Bailey Hutchison Convention Center (June 16, 2013)",32.7741388,-96.8013565,0.253308,2013-06-16,12:00:00,Kay Bailey Hutchison Convention Center
+202,"Los Angeles, CA, US",BET Experience 2013,34.042984,-118.2668182,0.6876,2013-06-28,18:30:00,Staples Center
+203,"Philadelphia, PA, US",Fourth of July Jam 2013,39.9602094,-75.1735465,0.403658,2013-07-04,None,Benjamin Franklin Parkway
+204,"Long Island City, NY, US","King Britt with J. Cole, Bangladesh, Mr. Muthafuckin' eXquire, and 2 more… at MoMA PS1 (August 17, 2013)",40.745469,-73.947108,0.295696,2013-08-17,None,MoMA PS1
+205,"Washington, DC, US","J. Cole at The Park at 14th (August 30, 2013)",38.9019218,-77.0322748,0.345581,2013-08-30,17:00:00,The Park at 14th
+206,"Miami, FL, US","J. Cole with Wale at James L. Knight International Center (September 10, 2013)",25.7707765,-80.1900949,0.240508,2013-09-10,19:30:00,James L. Knight International Center
+207,"Orlando, FL, US","J. Cole with Wale at Hard Rock Live (September 12, 2013)",28.4737032,-81.4673372,0.240508,2013-09-12,20:00:00,Hard Rock Live
+208,"Tampa, FL, US","J. Cole with Wale at David A. Straz, Jr. Center for the Performing Arts (September 13, 2013)",27.951644,-82.463882,0.240508,2013-09-13,None,"David A. Straz, Jr. Center for the Performing Arts"
+209,"Jacksonville, FL, US","J. Cole with Wale at Moran Theater, Times-Union Center for the Performing Arts (September 14, 2013)",30.3255836,-81.6630904,0.240508,2013-09-14,20:00:00,"Moran Theater, Times-Union Center for the Performing Arts"
+210,"Augusta, GA, US","J. Cole with Wale at William B. Bell Auditorium, Augusta-Richmond County Civic Center (September 15, 2013)",33.4699289,-81.9665203,0.240508,2013-09-15,19:30:00,"William B. Bell Auditorium, Augusta-Richmond County Civic Center"
+211,"Charlotte, NC, US","J. Cole with Wale at Halton Arena, Barnhardt Student Activities Center, UNCC (September 17, 2013)",35.298788,-80.737066,0.251476,2013-09-17,19:30:00,"Halton Arena, Barnhardt Student Activities Center, UNCC"
+212,"St Louis, MO, US","J. Cole with Wale at The Fabulous Fox Theatre (September 19, 2013)",38.6294038,-90.2355367,0.240508,2013-09-19,20:00:00,The Fabulous Fox Theatre
+213,"Las Vegas, NV, US",iHeartRadio Festival 2013,36.10225,-115.16997,0.840382,2013-09-20,18:00:00,Garden Arena - MGM Grand
+214,"Chicago, IL, US","J. Cole with Wale at Arie Crown Theater (September 21, 2013)",41.850511,-87.620773,0.240508,2013-09-21,20:00:00,Arie Crown Theater
+215,"Boston, MA, US","J. Cole with Wale at Agganis Arena (September 24, 2013)",42.3517889,-71.117785,0.240508,2013-09-24,19:30:00,Agganis Arena
+216,"Philadelphia, PA, US","J. Cole with Wale at Mann Center for the Performing Arts (September 25, 2013)",39.9831152,-75.2226272,0.240508,2013-09-25,19:30:00,Mann Center for the Performing Arts
+217,"Binghamton, NY, US","J. Cole at SUNY Binghamton (September 26, 2013)",42.0932729,-75.9721009,0.359388,2013-09-26,None,SUNY Binghamton
+218,"Cleveland, OH, US","J. Cole with Wale at KeyBank State Theatre (September 27, 2013)",41.5011894,-81.6806615,0.355482,2013-09-27,None,KeyBank State Theatre
+219,"Pittsburgh, PA, US","J. Cole with Wale at Stage AE (September 29, 2013)",40.4459022,-80.0115139,0.240508,2013-09-29,18:30:00,Stage AE
+220,"Norfolk, VA, US","J. Cole with Wale at Chrysler Hall (October 2, 2013)",36.85193,-76.285415,0.240508,2013-10-02,19:30:00,Chrysler Hall
+221,"Baltimore, MD, US","J. Cole with K. Michelle at Morgan State University (October 3, 2013)",39.3460266,-76.5827767,0.370947,2013-10-03,20:00:00,Morgan State University
+222,"Atlanta, GA, US","J. Cole with Wale at Fox Theatre (October 4, 2013)",33.7726665,-84.3849723,0.240508,2013-10-04,20:00:00,Fox Theatre
+223,"Detroit, MI, US","J. Cole with Wale at Masonic Temple (October 10, 2013)",42.3415257,-83.0600655,0.240508,2013-10-10,20:00:00,Masonic Temple
+224,"Milwaukee, WI, US","J. Cole with Wale at The Rave/Eagles Club (October 12, 2013)",43.0381725,-87.9432826,0.240508,2013-10-12,18:30:00,The Rave/Eagles Club
+225,"Maplewood, MN, US","J. Cole with Wale at Myth (October 13, 2013)",45.0347269,-93.0249397,0.359284,2013-10-13,20:00:00,Myth
+226,"Kansas City, MO, US","J. Cole with Wale at Arvest Bank Theatre at The Midland (October 15, 2013)",39.0988516,-94.5834597,0.293657,2013-10-15,20:00:00,Arvest Bank Theatre at The Midland
+227,"New Orleans, LA, US","J. Cole with Wale at UNO Lakefront Arena (October 17, 2013)",30.0290138,-90.0522748,0.3171,2013-10-17,19:30:00,UNO Lakefront Arena
+228,"Houston, TX, US","J. Cole with Wale at Reliant Arena @ Reliant Park (October 18, 2013)",29.6847238,-95.4090033,0.240508,2013-10-18,19:30:00,Reliant Arena @ Reliant Park
+229,"Austin, TX, US","J. Cole with Wale at Austin Music Hall (October 19, 2013)",30.266745,-97.749672,0.240508,2013-10-19,20:00:00,Austin Music Hall
+230,"Grand Prairie, TX, US","J. Cole with Wale at Verizon Theatre at Grand Prairie (October 20, 2013)",32.766852,-96.983464,0.240508,2013-10-20,19:30:00,Verizon Theatre at Grand Prairie
+231,"Broomfield, CO, US","J. Cole with Wale at 1stBANK Center (October 22, 2013)",39.904696,-105.085281,0.240508,2013-10-22,19:30:00,1stBANK Center
+232,"Los Angeles, CA, US","J. Cole with Wale at Microsoft Theater (October 24, 2013)",34.0442944,-118.2656014,0.240508,2013-10-24,20:00:00,Microsoft Theater
+233,"Las Vegas, NV, US","J. Cole with Wale at The Colosseum at Caesars Palace (October 25, 2013)",36.1157783,-115.1729633,0.240508,2013-10-25,19:30:00,The Colosseum at Caesars Palace
+234,"San Francisco, CA, US","J. Cole with Wale at The Warfield (October 27, 2013)",37.7826598,-122.4101811,0.240508,2013-10-27,19:30:00,The Warfield
+235,"San Francisco, CA, US","J. Cole with Wale at The Warfield (October 28, 2013)",37.7826598,-122.4101811,0.240508,2013-10-28,19:30:00,The Warfield
+236,"Seattle, WA, US","J. Cole with Wale at Paramount Theatre (October 30, 2013)",47.613296,-122.33139,0.240508,2013-10-30,19:30:00,Paramount Theatre
+237,"West Lafayette, IN, US","The Mowgli's and J. Cole at Elliott Hall of Music (November 1, 2013)",40.4272533,-86.9166571,0.240508,2013-11-01,19:30:00,Elliott Hall of Music
+238,"Greensboro, NC, US","NCA with Hunter Hayes, T.I., J. Cole, and 2 more… at Greensboro Coliseum Complex (November 2, 2013)",36.0597573,-79.8256684,0.391471,2013-11-02,19:30:00,Greensboro Coliseum Complex
+239,"San Jose, CA, US","J. Cole, Ariana Grande, Mac Miller, Iggy Azalea, and 4 more… at SAP Center at San Jose (December 15, 2013)",37.3325116,-121.9011855,0.372273,2013-12-15,19:00:00,SAP Center at San Jose
+240,"Flushing, NY, US","J. Cole at Kupferberg Center for the Arts, Queens College (January 27, 2014)",40.7371494,-73.8147768,0.248916,2014-01-27,21:30:00,"Kupferberg Center for the Arts, Queens College"
+241,"New York, NY, US","J. Cole at Theater at Madison Square Garden (January 28, 2014)",40.7497096,-73.991556,0.215144,2014-01-28,20:00:00,Theater at Madison Square Garden
+242,"Washington, DC, US","J. Cole at DAR Constitution Hall (January 30, 2014)",38.8936076,-77.0397162,0.198233,2014-01-30,20:00:00,DAR Constitution Hall
+243,"Mashantucket, CT, US","J. Cole at Grand Theater at Foxwoods (February 1, 2014)",41.4783608,-71.9630872,0.198233,2014-02-01,22:00:00,Grand Theater at Foxwoods
+244,"Gainesville, FL, US","J. Cole with Chance the Rapper at Stephen C. O'Connell Center (February 27, 2014)",29.6521198,-82.349749,0.198233,2014-02-27,19:00:00,Stephen C. O'Connell Center
+245,"Syracuse, NY, US","J. Cole at Carrier Dome, Syracuse University (March 21, 2014)",43.0376369,-76.1382483,0.198233,2014-03-21,19:30:00,"Carrier Dome, Syracuse University"
+246,"Las Vegas, NV, US","J. Cole at Haze Nightclub (April 3, 2014)",36.1071379,-115.17316,0.198233,2014-04-03,22:30:00,Haze Nightclub
+247,"Newark, DE, US","J. Cole at University of Delaware (April 22, 2014)",39.6673566,-75.7502314,0.34855,2014-04-22,20:00:00,University of Delaware
+248,"Rome, GA, US",Counterpoint Festival 2014,34.25704,-85.16467,0.396638,2014-04-25,None,Kingston Downs
+249,"Baltimore, MD, US",Johns Hopkins University Spring Fair 2014,39.2987696,-76.592195,0.376052,2014-04-25,None,Johns Hopkins University
+250,"Rome, GA, US",CounterPoint Music Festival 2014,34.257038,-85.1646726,0.377385,2014-04-25,None,Unknown venue
+251,"West Palm Beach, FL, US","The Goo Goo Dolls with Doobie Brothers, J. Cole, Young the Giant, and 6 more… at Clematis By Night Festival Grounds (May 2, 2014)",26.71251,-80.04938,0.39712,2014-05-02,17:00:00,Clematis By Night Festival Grounds
+252,"West Palm Beach, FL, US",SunFest 2014,26.7125134,-80.0493838,0.326468,2014-05-02,None,Clematis By Night Festival Grounds
+253,"Plano, TX, US",Suburbia Music Festival 2014,33.05295,-96.67308,0.601361,2014-05-03,12:00:00,Oak Point Park & Nature Preserve
+254,"Plano, TX, US","Needtobreathe with David Guetta, Alabama Shakes, J. Cole, and 34 more… at Oak Point Park & Nature Preserve (May 3, 2014)",33.05295,-96.67308,0.601361,2014-05-03,23:59:20,Oak Point Park & Nature Preserve
+255,"Las Vegas, NV, US","J. Cole at Body English, Hard Rock Hotel & Casino Las Vegas (May 24, 2014)",36.1100828,-115.1538714,0.244569,2014-05-24,22:30:00,"Body English, Hard Rock Hotel & Casino Las Vegas"
+256,"New York, NY, US",The Governors Ball Music Festival 2014,40.78377,-73.92567,0.42277,2014-06-06,17:00:00,Randall's Island
+257,"Detroit, MI, US","Wjlb with Channel 955, Big Show @ the Joe, Fm 98 Wjlb & Channel 955, and 6 more… at Joe Louis Arena (June 14, 2014)",42.32519,-83.05136,0.576905,2014-06-14,19:30:00,Joe Louis Arena
+258,"Houston, TX, US","Kendrick Lamar, J. Cole, Trey Songz, Future, and 4 more… at Bbva Compass Stadium (June 20, 2014)",29.7538577,-95.3523175,0.302821,2014-06-20,19:00:00,Bbva Compass Stadium
+259,"Chicago, IL, US","J. Cole with R. Kelly, Trey Songz, Yo Gotti, and 2 more… at United Center (June 22, 2014)",41.88126,-87.67415,0.394367,2014-06-22,19:00:00,United Center
+260,"Park City, KS, US","Jake Owen with The Cadillac Three, J. Cole, and ScHoolboy Q at Hartman Arena (June 28, 2014)",37.8308947,-97.3310534,0.298524,2014-06-28,19:00:00,Hartman Arena
+261,"New York, NY, US","J. Cole at Highline Ballroom (July 15, 2014)",40.7430022,-74.0059194,0.20467,2014-07-15,19:00:00,Highline Ballroom
+262,"Philadelphia, PA, US",Made in America Festival 2014,39.96021,-75.17355,0.742714,2014-08-30,12:00:00,Benjamin Franklin Parkway
+263,"Seattle, WA, US",Bumbershoot 2014,47.62164,-122.3507,0.395549,2014-08-30,None,Seattle Center
+264,"Brooklyn, NY, US","J. Cole, Ne-Yo, Jeezy, Kid Ink, and 6 more… at Barclays Center (October 30, 2014)",40.6834879,-73.9760265,0.392428,2014-10-30,19:00:00,Barclays Center
+265,"Philadelphia, PA, US","J. Cole, Ne-Yo, Jeezy, T.I., and 9 more… at Wells Fargo Center (October 31, 2014)",39.9042715,-75.1713324,0.617689,2014-10-31,18:00:00,Wells Fargo Center
+266,"Worcester, MA, US","J. Cole, T.I., Kid Ink, Tinashe, and 4 more… at DCU Center (November 2, 2014)",42.2660513,-71.7985725,0.381635,2014-11-02,19:00:00,DCU Center
+267,"Estero, FL, US","Eaglepalooza, J. Cole, and Huey Mack at Germain Arena (November 20, 2014)",26.440127,-81.778614,0.211817,2014-11-20,20:00:00,Germain Arena
+268,"Eugene, OR, US","J. Cole at McDonald Theatre (March 2, 2015)",44.04861,-123.092846,0.223533,2015-03-02,None,McDonald Theatre
+269,"Garden City, ID, US","J. Cole with Cozz and Omen at Revolution Concert House + Event Center (March 4, 2015)",43.650709,-116.281167,0.24106,2015-03-04,20:00:00,Revolution Concert House + Event Center
+270,"Salt Lake City, UT, US","J. Cole at Rockwell @ the Complex (March 5, 2015)",40.767716,-111.906908,0.224189,2015-03-05,19:00:00,Rockwell @ the Complex
+271,"Las Vegas, NV, US","DJ Shift with J. Cole at Drai's Rooftop Beach Club (March 6, 2015)",36.1150489,-115.1718308,0.260099,2015-03-06,10:00:00,Drai's Rooftop Beach Club
+272,"Las Vegas, NV, US","J. Cole at Drai's Rooftop Nightclub (March 6, 2015)",36.128561,-115.1711298,0.281342,2015-03-06,22:00:00,Drai's Rooftop Nightclub
+273,"Santa Ana, CA, US","Celso Piña and J. Cole at The Observatory (March 8, 2015)",33.6998449,-117.9194457,0.224622,2015-03-08,20:00:00,The Observatory
+274,"Tucson, AZ, US","J. Cole at Rialto Theatre (March 10, 2015)",32.2220396,-110.9664839,0.225006,2015-03-10,None,Rialto Theatre
+275,"Lincoln, NE, US","J. Cole at Bourbon Theatre (March 13, 2015)",40.813249,-96.700617,0.225451,2015-03-13,None,Bourbon Theatre
+276,"Lincoln, NE, US","Reverend Horton Heat with J. Cole at Bourbon Theatre (March 14, 2015)",40.813249,-96.700617,0.225571,2015-03-14,20:00:00,Bourbon Theatre
+277,"Springfield, MO, US","J. Cole at Gillioz Theatre (March 14, 2015)",37.2090135,-93.2904213,0.225571,2015-03-14,None,Gillioz Theatre
+278,"Wichita, KS, US","J. Cole with Cozz and Omen at The Cotillion (March 15, 2015)",37.6648728,-97.4706658,0.24106,2015-03-15,20:00:00,The Cotillion
+279,"Springfield, MO, US","J. Cole at Gillioz Theatre (March 15, 2015)",37.2090135,-93.2904213,0.225708,2015-03-15,None,Gillioz Theatre
+280,"Oklahoma City, OK, US","J. Cole at Oklahoma City Farmers Market (March 17, 2015)",35.462787,-97.533482,0.232187,2015-03-17,20:00:00,Oklahoma City Farmers Market
+281,"San Antonio, TX, US","J. Cole at Alamo City Music Hall (March 19, 2015)",29.425672,-98.4769759,0.226503,2015-03-19,20:30:00,Alamo City Music Hall
+282,"South Padre Island, TX, US","J. Cole at Clayton's Beach Bar (March 20, 2015)",26.137401,-97.1703662,0.260099,2015-03-20,None,Clayton's Beach Bar
+283,"New Orleans, LA, US","J. Cole at House of Blues (March 23, 2015)",29.9531604,-90.0661661,0.227061,2015-03-23,19:00:00,House of Blues
+284,"Baton Rouge, LA, US","J. Cole at Varsity Theatre (March 24, 2015)",30.4173942,-91.1762795,0.227255,2015-03-24,20:00:00,Varsity Theatre
+285,"Mobile, AL, US","J. Cole at Soul Kitchen (March 25, 2015)",30.689761,-88.047331,0.2274,2015-03-25,20:00:00,Soul Kitchen
+286,"Tallahassee, FL, US","J. Cole and Cozz with Omen at Coliseum Tallahassee (March 28, 2015)",30.4479752,-84.3137327,0.24106,2015-03-28,18:00:00,Coliseum Tallahassee
+287,"Birmingham, AL, US","J. Cole at Iron City (March 29, 2015)",33.508899,-86.7979189,0.227957,2015-03-29,None,Iron City
+288,"Columbus, OH, US","J. Cole at EXPRESS LIVE! (March 31, 2015)",39.9696888,-83.009785,0.265263,2015-03-31,19:00:00,EXPRESS LIVE!
+289,"Nashville, TN, US","J. Cole with Cozz and Omen at Marathon Music Works (April 1, 2015)",36.1638608,-86.7972118,0.24106,2015-04-01,20:00:00,Marathon Music Works
+290,"Richmond, VA, US","J. Cole at The National (April 3, 2015)",37.5417961,-77.4353949,0.228701,2015-04-03,20:00:00,The National
+291,"Rochester, NY, US","J. Cole at Funk 'n Waffles - Rochester (April 4, 2015)",43.1605531,-77.6114713,0.350039,2015-04-04,None,Funk 'n Waffles - Rochester
+292,"Portland, ME, US","J. Cole at State Theatre (April 6, 2015)",43.6539069,-70.2636356,0.229015,2015-04-06,20:00:00,State Theatre
+293,"Providence, RI, US","J. Cole with 17 @ Noon at Lupo's Heartbreak Hotel (April 7, 2015)",41.823807,-71.414551,0.22916,2015-04-07,None,Lupo's Heartbreak Hotel
+294,"El Paso, TX, US",Neon Desert Festival 2015,31.760231,-106.491481,0.390706,2015-05-22,None,Unknown venue
+295,"Minneapolis, MN, US",Soundset 2015,44.97331,-93.25689,0.405954,2015-05-24,None,Metrodome - Parking Lot
+296,"Auburn, WA, US","J. Cole, Big Sean, and Jeremih at White River Amphitheatre (July 12, 2015)",47.2374581,-122.1120309,0.297549,2015-07-12,18:30:00,White River Amphitheatre
+297,"Mountain View, CA, US","J. Cole, Big Sean, and Jeremih at Shoreline Amphitheatre (July 14, 2015)",37.4233243,-122.0780286,0.247791,2015-07-14,18:30:00,Shoreline Amphitheatre
+298,"Chula Vista, CA, US","J. Cole, Big Sean, and Jeremih at Mattress Firm Amphitheatre (July 17, 2015)",32.5882959,-117.0060564,0.331766,2015-07-17,21:00:00,Mattress Firm Amphitheatre
+299,"Las Vegas, NV, US","J. Cole, Jeremih, and Big Sean at Theatre, Planet Hollywood Resort & Casino (July 18, 2015)",36.128561,-115.1711298,0.287032,2015-07-18,20:00:00,"Theatre, Planet Hollywood Resort & Casino"
+300,"Los Angeles, CA, US","J. Cole, Big Sean, and Jeremih at Staples Center (July 19, 2015)",34.042984,-118.2668182,0.248548,2015-07-19,19:00:00,Staples Center
+301,"Albuquerque, NM, US","J. Cole, Big Sean, and Jeremih at Isleta Amphitheater (July 21, 2015)",34.993524,-106.63313,0.248865,2015-07-21,18:30:00,Isleta Amphitheater
+302,"Maryland Heights, MO, US","J. Cole, Big Sean, and Jeremih at Hollywood Casino Amphitheatre (July 24, 2015)",38.7443874,-90.4696429,0.288786,2015-07-24,18:00:00,Hollywood Casino Amphitheatre
+303,"Clarkston, MI, US","J. Cole and Jeremih at DTE Energy Music Theatre (July 25, 2015)",42.7510124,-83.380305,0.240917,2015-07-25,19:30:00,DTE Energy Music Theatre
+304,"Noblesville, IN, US","J. Cole with Big Sean, Jeremih, and YG at Ruoff Mortgage Music Center (July 26, 2015)",40.0049812,-85.9309888,0.391759,2015-07-26,18:30:00,Ruoff Mortgage Music Center
+305,"Tinley Park, IL, US","J. Cole, Big Sean, and Jeremih at Hollywood Casino Amphitheatre (July 28, 2015)",41.5426102,-87.7711529,0.277704,2015-07-28,18:30:00,Hollywood Casino Amphitheatre
+306,"Burgettstown, PA, US","J. Cole, Big Sean, and Jeremih at Keybank Pavilion (July 30, 2015)",40.4197818,-80.4342124,0.321503,2015-07-30,18:30:00,Keybank Pavilion
+307,"Camden, NJ, US","J. Cole, Big Sean, and Jeremih at BB&T Pavilion (July 31, 2015)",40.0177386,-75.0004321,0.264901,2015-07-31,18:30:00,BB&T Pavilion
+308,"Holmdel, NJ, US","J. Cole, Big Sean, and Jeremih at PNC Bank Arts Center (August 3, 2015)",39.9830657,-74.2135086,0.250876,2015-08-03,18:30:00,PNC Bank Arts Center
+309,"New York, NY, US","J. Cole, Big Sean, and Jeremih at Madison Square Garden (August 4, 2015)",40.7497096,-73.991556,0.404598,2015-08-04,19:00:00,Madison Square Garden
+310,"Mansfield, MA, US","Big Sean, Jeremih, and J. Cole at Xfinity Center (August 5, 2015)",41.9944318,-71.2106493,0.25127,2015-08-05,18:30:00,Xfinity Center
+311,"Mansfield, MA, US","Jeremih with J. Cole and Big Sean at Xfinity Center (August 6, 2015)",41.9944318,-71.2106493,0.251442,2015-08-06,None,Xfinity Center
+312,"Hartford, CT, US","J. Cole, Big Sean, and Jeremih at Xfinity Theatre (August 8, 2015)",41.7801718,-72.6693191,0.25182,2015-08-08,18:30:00,Xfinity Theatre
+313,"Bristow, VA, US","J. Cole, Big Sean, and Jeremih at Jiffy Lube Live (August 9, 2015)",38.786011,-77.587845,0.251976,2015-08-09,18:30:00,Jiffy Lube Live
+314,"Cincinnati, OH, US","J. Cole, Big Sean, and Jeremih at Riverbend Music Center (August 11, 2015)",39.052082,-84.416862,0.252424,2015-08-11,18:30:00,Riverbend Music Center
+315,"Charlotte, NC, US","J. Cole, Big Sean, and Jeremih at PNC Music Pavilion (August 12, 2015)",35.327362,-80.7106699,0.277704,2015-08-12,18:30:00,PNC Music Pavilion
+316,"Virginia Beach, VA, US","J. Cole, Big Sean, and Jeremih at Veterans United Home Loans Amphitheater (August 13, 2015)",36.7686679,-76.1019623,0.274865,2015-08-13,18:30:00,Veterans United Home Loans Amphitheater
+317,"Atlanta, GA, US","J. Cole, Big Sean, and Jeremih at Cellairis Amphitheatre at Lakewood (August 15, 2015)",33.7042695,-84.396095,0.365449,2015-08-15,18:30:00,Cellairis Amphitheatre at Lakewood
+318,"Tampa, FL, US","J. Cole, Big Sean, and Jeremih at Midflorida Credit Union Amphitheatre (August 16, 2015)",27.9896043,-82.3588746,0.253227,2015-08-16,18:30:00,Midflorida Credit Union Amphitheatre
+319,"West Palm Beach, FL, US","J. Cole, Big Sean, and Jeremih at Coral Sky Amphitheatre at the South Florida Fairgrounds (August 18, 2015)",26.685477,-80.186736,0.354529,2015-08-18,18:30:00,Coral Sky Amphitheatre at the South Florida Fairgrounds
+320,"The Woodlands, TX, US","J. Cole, Big Sean, and Jeremih at Cynthia Woods Mitchell Pavilion (August 21, 2015)",30.161593,-95.464029,0.253854,2015-08-21,18:30:00,Cynthia Woods Mitchell Pavilion
+321,"Austin, TX, US","J. Cole, Big Sean, and Jeremih at Austin360 Amphitheater (August 22, 2015)",30.13293,-97.6406811,0.253999,2015-08-22,18:30:00,Austin360 Amphitheater
+322,"Dallas, TX, US","J. Cole, Big Sean, and Jeremih at Gexa Energy Pavilion (August 23, 2015)",32.7740979,-96.7568521,0.254126,2015-08-23,18:30:00,Gexa Energy Pavilion
+323,"Morrison, CO, US","J. Cole with Big Sean and Jeremih at Red Rocks Amphitheatre (August 25, 2015)",39.6800052,-105.1972399,0.254431,2015-08-25,23:00:00,Red Rocks Amphitheatre
+324,"Fayetteville, NC, US","J. Cole, Big Sean, and Jeremih at Crown Center Coliseum (August 29, 2015)",34.9682738,-78.9145811,0.254976,2015-08-29,18:30:00,Crown Center Coliseum
+325,"Philadelphia, PA, US",Made in America Festival 2015,39.96021,-75.17355,0.720312,2015-09-05,None,Benjamin Franklin Parkway
+326,"Tempe, AZ, US",Summer Ends Music Festival 2015,33.431585,-111.943034,0.731634,2015-09-24,20:00:00,Tempe Beach Park
+327,"Las Vegas, NV, US","J. Cole at Light Nightclub, Mandalay Bay (December 31, 2015)",36.090754,-115.1766701,0.28617,2015-12-31,22:00:00,"Light Nightclub, Mandalay Bay"
+328,"San Francisco, CA, US","J. Cole with P. Diddy at The Grand Nightclub (February 5, 2016)",37.7790986,-122.3979,0.358569,2016-02-05,None,The Grand Nightclub
+329,"Las Vegas, NV, US","J. Cole at Light Nightclub, Mandalay Bay (February 6, 2016)",36.090754,-115.1766701,0.28617,2016-02-06,22:00:00,"Light Nightclub, Mandalay Bay"
+330,"Los Angeles, CA, US",Air + Style 2016,34.0126,-118.28456,0.39677,2016-02-20,00:00:00,Exposition Park
+331,"New Orleans, LA, US",New Orleans Jazz and Heritage Festival 2016,29.98378,-90.07698,0.704043,2016-04-22,20:00:00,Fairgrounds
+332,"New Orleans, LA, US","Trombone Shorty & Orleans Avenue, Grace Potter, Pearl Jam, Red Hot Chili Peppers, and 14 more… at Fair Grounds Race Course (April 23, 2016)",29.98378,-90.07698,0.703449,2016-04-23,20:00:00,Fair Grounds Race Course
+333,"Las Vegas, NV, US","J. Cole and DJ E-Rock at Daylight Beach Club (May 7, 2016)",36.090754,-115.1766701,0.28617,2016-05-07,11:00:00,Daylight Beach Club
+334,"Las Vegas, NV, US","J. Cole at Light Nightclub, Mandalay Bay (May 7, 2016)",36.090754,-115.1766701,0.28617,2016-05-07,22:00:00,"Light Nightclub, Mandalay Bay"
+335,"Las Vegas, NV, US","J. Cole and DJ E-Rock at Daylight Beach Club (May 29, 2016)",36.090754,-115.1766701,0.290629,2016-05-29,11:00:00,Daylight Beach Club
+336,"Las Vegas, NV, US","J. Cole at Light Nightclub, Mandalay Bay (May 29, 2016)",36.090754,-115.1766701,0.290629,2016-05-29,22:00:00,"Light Nightclub, Mandalay Bay"
+337,"Manchester, TN, US",Bonnaroo Music & Arts Festival 2016,35.48174,-86.0886,0.543987,2016-06-09,12:00:00,Manchester Farm
+338,"Chicago, IL, US",Lollapalooza 2016,41.88279,-87.61892,0.704151,2016-07-28,20:00:00,Grant Park
+339,"San Francisco, CA, US",Outside Lands Music & Arts Festival 2016,37.78229,-122.46371,0.586416,2016-08-05,None,Golden Gate Park
+340,"Wantagh, NY, US",Billboard Hot 100 Festival 2016,40.60114,-73.50252,0.638815,2016-08-20,13:00:00,Northwell Health at Jones Beach Theater
+341,"Charlottesville, VA, US","J. Cole and Cozz at John Paul Jones Arena (August 20, 2016)",38.0458774,-78.5066485,0.30516,2016-08-20,21:00:00,John Paul Jones Arena
+342,"Las Vegas, NV, US","J. Cole at Daylight Beach Club (September 4, 2016)",36.090754,-115.1766701,0.307287,2016-09-04,12:00:00,Daylight Beach Club
+343,"Las Vegas, NV, US",Life is Beautiful Festival 2016,36.16208,-115.12399,0.548927,2016-09-23,15:00:00,Life Is Beautiful
+344,"Las Vegas, NV, US","DJ Mustard and J. Cole at Light Nightclub, Mandalay Bay (September 24, 2016)",36.090754,-115.1766701,0.310404,2016-09-24,22:30:00,"Light Nightclub, Mandalay Bay"
+345,"Chicago, IL, US","Common, Jeremih, Sir The Baptist, J. Cole, and 4 more… at Union Park (September 24, 2016)",41.8851191,-87.6660887,0.383884,2016-09-24,12:00:00,Union Park
+346,"Las Vegas, NV, US","J. Cole at Light Nightclub, Mandalay Bay (October 29, 2016)",36.090754,-115.1766701,0.315579,2016-10-29,22:30:00,"Light Nightclub, Mandalay Bay"
+347,"Las Vegas, NV, US","J. Cole at Daylight Beach Club (May 27, 2017)",36.090754,-115.1766701,0.344334,2017-05-27,11:00:00,Daylight Beach Club
+348,"Columbia, SC, US","J. Cole at Music Farm (June 1, 2017)",33.9985299,-81.0353175,0.344942,2017-06-01,None,Music Farm
+349,"Jacksonville, FL, US","J. Cole at Mavericks Live (June 2, 2017)",30.3248645,-81.6598996,0.345082,2017-06-02,None,Mavericks Live
+350,"Tallahassee, FL, US","J. Cole at Potbelly's (June 3, 2017)",30.4404874,-84.2882509,0.354767,2017-06-03,None,Potbelly's
+351,"Jackson, MS, US","J. Cole at Hal & Mal's (June 5, 2017)",32.2980231,-90.1799155,0.345463,2017-06-05,20:00:00,Hal & Mal's
+352,"Birmingham, AL, US","J. Cole at Avondale Brewing Company (June 6, 2017)",33.524559,-86.774075,0.345581,2017-06-06,19:00:00,Avondale Brewing Company
+353,"Baton Rouge, LA, US","J. Cole at Varsity Theatre (June 7, 2017)",30.4173942,-91.1762795,0.3457,2017-06-07,21:30:00,Varsity Theatre
+354,"Little Rock, AR, US","J. Cole at Metroplex (June 9, 2017)",34.7137514,-92.3969136,0.345962,2017-06-09,20:00:00,Metroplex
+355,"Kansas City, MO, US","J. Cole at Arvest Bank Theatre at The Midland (June 11, 2017)",39.0988516,-94.5834597,0.34616,2017-06-11,19:00:00,Arvest Bank Theatre at The Midland
+356,"St Louis, MO, US","J. Cole at The Pageant (June 13, 2017)",38.6555712,-90.2978676,0.346418,2017-06-13,20:00:00,The Pageant
+357,"Memphis, TN, US","J. Cole at New Daisy Theatre (June 14, 2017)",35.1393522,-90.0499833,0.346527,2017-06-14,20:00:00,New Daisy Theatre
+358,"Louisville, KY, US","J. Cole at Mercury Ballroom (June 15, 2017)",38.2485116,-85.7579382,0.346678,2017-06-15,20:00:00,Mercury Ballroom
+359,"Norfolk, VA, US","J. Cole at The NorVa (June 17, 2017)",36.850247,-76.289459,0.346906,2017-06-17,19:00:00,The NorVa
+360,"Greensboro, NC, US","J. Cole at Cone Denim Entertainment Center (June 18, 2017)",36.071838,-79.789924,0.346986,2017-06-18,20:00:00,Cone Denim Entertainment Center
+361,"Phoenix, AZ, US","J. Cole with JID, Ari Lennox, and Bas at Talking Stick Resort Arena (July 6, 2017)",33.445899,-112.071313,0.363355,2017-07-06,20:00:00,Talking Stick Resort Arena
+362,"Las Vegas, NV, US","Jamie Foxx, DJ Irie, and J. Cole at Jewel Nightclub (July 7, 2017)",36.1073485,-115.1765836,0.348993,2017-07-07,22:00:00,Jewel Nightclub
+363,"Las Vegas, NV, US","J. Cole with JID, Ari Lennox, and Bas at Garden Arena - MGM Grand (July 8, 2017)",36.1022507,-115.1699679,0.363355,2017-07-08,19:00:00,Garden Arena - MGM Grand
+364,"Anaheim, CA, US","J. Cole with JID, Ari Lennox, and Bas at Honda Center (July 9, 2017)",33.807723,-117.876522,0.363355,2017-07-09,20:00:00,Honda Center
+365,"Inglewood, CA, US","J. Cole with JID, Ari Lennox, and Bas at The Forum (July 11, 2017)",33.9582047,-118.3405316,0.363355,2017-07-11,20:00:00,The Forum
+366,"Inglewood, CA, US","J. Cole with JID, Ari Lennox, and Bas at The Forum (July 12, 2017)",33.9582047,-118.3405316,0.363355,2017-07-12,20:00:00,The Forum
+367,"Oakland, CA, US","J. Cole, JID, and Ari Lennox at Oracle Arena (July 14, 2017)",37.7515541,-122.2015715,0.349723,2017-07-14,20:00:00,Oracle Arena
+368,"Oakland, CA, US","J. Cole with JID, Ari Lennox, and Bas at Oracle Arena (July 15, 2017)",37.7515541,-122.2015715,0.363355,2017-07-15,20:00:00,Oracle Arena
+369,"Seattle, WA, US","J. Cole with JID and Ari Lennox at KeyArena at Seattle Center (July 17, 2017)",47.6216358,-122.350699,0.350039,2017-07-17,20:00:00,KeyArena at Seattle Center
+370,"St. Paul, MN, US","J. Cole with JID, Ari Lennox, and Bas at Xcel Energy Center (July 21, 2017)",44.9434383,-93.1001467,0.363355,2017-07-21,20:00:00,Xcel Energy Center
+371,"Auburn Hills, MI, US","J. Cole with JID, Ari Lennox, and Bas at The Palace of Auburn Hills (July 23, 2017)",42.696511,-83.2437214,0.363355,2017-07-23,19:30:00,The Palace of Auburn Hills
+372,"Chicago, IL, US","J. Cole with JID, Ari Lennox, and Bas at United Center (July 24, 2017)",41.8812601,-87.674145,0.363355,2017-07-24,20:00:00,United Center
+373,"Chicago, IL, US","J. Cole with Ari Lennox, JID, and Bas at United Center (July 25, 2017)",41.8812601,-87.674145,0.363355,2017-07-25,20:00:00,United Center
+374,"Brooklyn, NY, US","J. Cole with JID, Ari Lennox, and Bas at Barclays Center (August 1, 2017)",40.6834879,-73.9760265,0.363355,2017-08-01,20:00:00,Barclays Center
+375,"Brooklyn, NY, US","J. Cole with JID, Ari Lennox, and Bas at Barclays Center (August 2, 2017)",40.6834879,-73.9760265,0.363355,2017-08-02,20:00:00,Barclays Center
+376,"Boston, MA, US","J. Cole with JID, Ari Lennox, and Bas at TD Garden (August 4, 2017)",42.3661881,-71.0621482,0.363355,2017-08-04,20:00:00,TD Garden
+377,"Uniondale, NY, US","J. Cole with JID, Ari Lennox, and Bas at NYCB LIVE: Home of the Nassau Veterans Memorial Coliseum (August 5, 2017)",40.7228919,-73.5905136,0.390399,2017-08-05,20:00:00,NYCB LIVE: Home of the Nassau Veterans Memorial Coliseum
+378,"Baltimore, MD, US","J. Cole with Ari Lennox and JID at Royal Farms Arena (August 6, 2017)",39.2884951,-76.6186943,0.352128,2017-08-06,20:00:00,Royal Farms Arena
+379,"Washington, DC, US","J. Cole with Ari Lennox, JID, and Bas at Verizon Center (August 8, 2017)",38.8975641,-77.0210577,0.363355,2017-08-08,20:00:00,Verizon Center
+380,"Charlotte, NC, US","J. Cole with JID and Ari Lennox at Spectrum Center (August 9, 2017)",35.2250922,-80.8392219,0.352422,2017-08-09,20:00:00,Spectrum Center
+381,"Duluth, GA, US","J. Cole with Ari Lennox, JID, and Bas at Infinite Energy Arena (August 11, 2017)",33.9914472,-84.0940303,0.363355,2017-08-11,20:00:00,Infinite Energy Arena
+382,"Miami, FL, US","J. Cole with JID, Ari Lennox, and Bas at AmericanAirlines Arena (August 14, 2017)",25.781232,-80.187805,0.363355,2017-08-14,20:00:00,AmericanAirlines Arena
+383,"Orlando, FL, US","J. Cole with Ari Lennox, JID, and Bas at Amway Arena (August 16, 2017)",26.4649976,-81.8001357,0.368939,2017-08-16,20:00:00,Amway Arena
+384,"Houston, TX, US","J. Cole with JID, Ari Lennox, and Bas at Toyota Center (August 18, 2017)",29.7519787,-95.3621823,0.363355,2017-08-18,20:00:00,Toyota Center
+385,"Austin, TX, US","J. Cole with JID, Ari Lennox, and Bas at Frank Erwin Center, University of Texas (August 19, 2017)",30.276391,-97.732422,0.363355,2017-08-19,20:00:00,"Frank Erwin Center, University of Texas"
+386,"Dallas, TX, US","J. Cole with JID, Ari Lennox, and Bas at American Airlines Center (August 20, 2017)",32.790442,-96.810159,0.363355,2017-08-20,20:00:00,American Airlines Center
+387,"Las Vegas, NV, US","J. Cole at Jewel Nightclub (August 25, 2017)",36.1073485,-115.1765836,0.353961,2017-08-25,22:00:00,Jewel Nightclub
+388,"Las Vegas, NV, US","Amber Rose, Cardi B, Travis Scott, Ice Cube, and 18 more… at Hard Rock Live Las Vegas (August 25, 2017)",36.104192,-115.172249,0.637448,2017-08-25,22:00:00,Hard Rock Live Las Vegas
+389,"Las Vegas, NV, US","Cardi B, Travis Scott, Ice Cube, Jeezy, and 15 more… at Hard Rock Live Las Vegas (August 26, 2017)",36.104192,-115.172249,0.819666,2017-08-26,22:00:00,Hard Rock Live Las Vegas
+390,"Philadelphia, PA, US",Made in America Festival 2017,39.96021,-75.17355,0.396298,2017-09-02,None,Benjamin Franklin Parkway
+391,"Inglewood, CA, US","French Montana, Yo Gotti, J. Cole, Cozz, and 4 more… at The Forum (November 18, 2017)",33.9582047,-118.3405316,0.384694,2017-11-18,19:30:00,The Forum
+392,"Dallas, TX, US","Playboi Carti, Bun B, Ski Mask The Slump God, Cozz, and 10 more… at Fair Park (May 4, 2018)",32.77586,-96.76416,0.39508,2018-05-04,14:00:00,Fair Park
+393,"Austin, TX, US","Playboi Carti, Bun B, Ski Mask The Slump God, Cozz, and 9 more… at The Circuit of the Americas (cota) Lot A (May 5, 2018)",30.13416,-97.63843,0.39508,2018-05-05,14:00:00,The Circuit of the Americas (cota) Lot A
+394,"Houston, TX, US","Playboi Carti, Bun B, Cozz, Kevin Gates, and 9 more… at Sam Houston Race Park (May 6, 2018)",29.93049,-95.54131,0.39508,2018-05-06,13:00:00,Sam Houston Race Park
+395,"Miami, FL, US",Rolling Loud Festival 2018,25.68701,-80.35159,0.557128,2018-05-11,00:00:00,Hard Rock Stadium
+396,"Miami, FL, US","Gucci Mane and J. Cole at E11even Miami (May 12, 2018)",25.7847879,-80.1933997,0.383545,2018-05-12,10:00:00,E11even Miami
+397,"Milwaukee, WI, US","J. Cole at American Family Insurance Amphitheater (July 3, 2018)",43.0344936,-87.8993557,0.390007,2018-07-03,19:30:00,American Family Insurance Amphitheater
+398,"Miami, FL, US","Young Thug, J. Cole, Jaden Smith, and EarthGang at AmericanAirlines Arena (August 9, 2018)",25.78123,-80.18781,0.394506,2018-08-09,19:30:00,AmericanAirlines Arena
+399,"Miami, FL, US","DJ Hollywood and J. Cole at E11even Miami (August 10, 2018)",25.78479,-80.1934,0.39462,2018-08-10,10:00:00,E11even Miami
+400,"Tampa, FL, US","Young Thug, J. Cole, and Jaden Smith at Amalie Arena (August 11, 2018)",27.94259,-82.45196,0.394733,2018-08-11,19:30:00,Amalie Arena
+401,"Duluth, GA, US","J. Cole, Young Thug, Jaden Smith, and EarthGang at Infinite Energy Center (August 12, 2018)",33.98692,-84.09073,0.394833,2018-08-12,19:30:00,Infinite Energy Center
+402,"New Orleans, LA, US","Young Thug, J. Cole, Jaden Smith, and EarthGang at Smoothie King Center (August 14, 2018)",29.949,-90.07983,0.39508,2018-08-14,19:30:00,Smoothie King Center
+403,"Houston, TX, US","Young Thug, J. Cole, Jaden Smith, and EarthGang at Toyota Center (August 15, 2018)",29.75198,-95.36218,0.395207,2018-08-15,19:30:00,Toyota Center
+404,"San Antonio, TX, US","Young Thug, J. Cole, Jaden Smith, and EarthGang at AT&T Center (August 17, 2018)",29.42702,-98.43732,0.395549,2018-08-17,19:30:00,AT&T Center
+405,"Dallas, TX, US","Young Thug, J. Cole, Jaden Smith, and EarthGang at American Airlines Center (August 18, 2018)",32.79044,-96.81016,0.395666,2018-08-18,19:30:00,American Airlines Center
+406,"Phoenix, AZ, US","J. Cole, Young Thug, Jaden Smith, and EarthGang at Talking Stick Resort Arena (August 21, 2018)",33.4459,-112.07131,0.396025,2018-08-21,19:30:00,Talking Stick Resort Arena
+407,"San Diego, CA, US","J. Cole, Young Thug, Jaden Smith, and EarthGang at Viejas Arena (August 22, 2018)",32.77897,-117.07323,0.396176,2018-08-22,19:30:00,Viejas Arena
+408,"Los Angeles, CA, US","Young Thug, J. Cole, Jaden Smith, and EarthGang at Staples Center (August 24, 2018)",34.04298,-118.26682,0.396425,2018-08-24,19:30:00,Staples Center
+409,"Los Angeles, CA, US","J. Cole, Young Thug, and Jaden Smith at Staples Center (August 25, 2018)",34.04298,-118.26682,0.396544,2018-08-25,19:30:00,Staples Center
+410,"Oakland, CA, US","Young Thug, J. Cole, and EarthGang at Oracle Arena (August 29, 2018)",37.75155,-122.20157,0.397011,2018-08-29,19:30:00,Oracle Arena
+411,"Boise, ID, US","Young Thug, J. Cole, and EarthGang at Taco Bell Arena, Boise State University (September 2, 2018)",43.60566,-116.206,0.397439,2018-09-02,19:30:00,"Taco Bell Arena, Boise State University"

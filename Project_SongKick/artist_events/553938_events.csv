@@ -1,0 +1,218 @@
+Event Number,City,Event Name,Latitude,Longitude,Popularity,Start Date,Start Time,Venue
+1,"New York, NY, US",Z100's Jingle Ball 2003,40.7127837,-74.0059413,0.715479,2003-12-11,None,Unknown venue
+2,"Sunrise, FL, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at BB&T Center (March 12, 2004)",26.155362,-80.33023,0.707223,2004-03-12,None,BB&T Center
+3,"New Orleans, LA, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at New Orleans Arena (March 14, 2004)",29.9519059,-90.0795886,0.707223,2004-03-14,None,New Orleans Arena
+4,"Dallas, TX, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at American Airlines Center (March 15, 2004)",32.790442,-96.810159,0.707223,2004-03-15,None,American Airlines Center
+5,"San Antonio, TX, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at AT&T Center (March 17, 2004)",29.4270165,-98.4373167,0.707223,2004-03-17,None,AT&T Center
+6,"Houston, TX, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at NRG Park (March 18, 2004)",29.6847238,-95.4090033,0.707223,2004-03-18,None,NRG Park
+7,"Greensboro, NC, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Greensboro Coliseum Complex (March 21, 2004)",36.0597573,-79.8256684,0.707223,2004-03-21,None,Greensboro Coliseum Complex
+8,"Philadelphia, PA, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Wachovia Spectrum Center (March 23, 2004)",39.9045537,-75.1736495,0.707223,2004-03-23,None,Wachovia Spectrum Center
+9,"Boston, MA, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at FleetCenter (March 24, 2004)",42.3664872,-71.0621057,0.707223,2004-03-24,None,FleetCenter
+10,"Charlotte, NC, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Charlotte Coliseum (March 27, 2004)",35.186365,-80.912742,0.707223,2004-03-27,None,Charlotte Coliseum
+11,"Atlanta, GA, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Philips Arena (March 28, 2004)",33.7570952,-84.3971653,0.707223,2004-03-28,None,Philips Arena
+12,"Cleveland, OH, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Quicken Loans Arena (March 30, 2004)",41.4967035,-81.6894825,0.707223,2004-03-30,None,Quicken Loans Arena
+13,"Minneapolis, MN, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Target Center (April 1, 2004)",44.979657,-93.274889,0.707223,2004-04-01,None,Target Center
+14,"Rosemont, IL, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Allstate Arena (April 2, 2004)",42.0047854,-87.8878325,0.707223,2004-04-02,None,Allstate Arena
+15,"Auburn Hills, MI, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at The Palace of Auburn Hills (April 3, 2004)",42.696511,-83.2437214,0.707223,2004-04-03,None,The Palace of Auburn Hills
+16,"Pittsburgh, PA, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Mellon Arena (April 6, 2004)",40.441093,-79.988708,0.707223,2004-04-06,None,Mellon Arena
+17,"Hartford, CT, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at XL Center (April 9, 2004)",41.7780919,-72.6802608,0.707223,2004-04-09,None,XL Center
+18,"Uniondale, NY, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at NYCB LIVE: Home of the Nassau Veterans Memorial Coliseum (April 10, 2004)",40.7228919,-73.5905136,0.717689,2004-04-10,None,NYCB LIVE: Home of the Nassau Veterans Memorial Coliseum
+19,"Washington, DC, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Verizon Center (April 11, 2004)",38.8975641,-77.0210577,0.707223,2004-04-11,None,Verizon Center
+20,"New York, NY, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Madison Square Garden (April 12, 2004)",40.7497096,-73.991556,0.718192,2004-04-12,None,Madison Square Garden
+21,"Phoenix, AZ, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Talking Stick Resort Arena (April 15, 2004)",33.445899,-112.071313,0.707223,2004-04-15,None,Talking Stick Resort Arena
+22,"Las Vegas, NV, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Mandalay Bay Resort & Casino (April 16, 2004)",36.0919655,-115.1730561,0.707223,2004-04-16,None,Mandalay Bay Resort & Casino
+23,"Anaheim, CA, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Honda Center (April 17, 2004)",33.807723,-117.876522,0.707223,2004-04-17,None,Honda Center
+24,"Oakland, CA, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Oracle Arena (April 18, 2004)",37.7515541,-122.2015715,0.707223,2004-04-18,None,Oracle Arena
+25,"Anaheim, CA, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Honda Center (April 19, 2004)",33.807723,-117.876522,0.707223,2004-04-19,None,Honda Center
+26,"Las Vegas, NV, US","Beyoncé at Unknown venue (August 26, 2005)",36.1699412,-115.1398296,0.674905,2005-08-26,None,Unknown venue
+27,"Hampton, VA, US","Beyoncé, Alicia Keys, Missy Elliott, and Tamia at Hampton Coliseum (March 26, 2007)",37.0347535,-76.3813734,0.707223,2007-03-26,None,Hampton Coliseum
+28,"New Orleans, LA, US","Beyoncé at Mercedes-Benz Superdome (July 6, 2007)",29.9516701,-90.0784038,0.649994,2007-07-06,None,Mercedes-Benz Superdome
+29,"Memphis, TN, US","Beyoncé at FedEx Forum (July 7, 2007)",35.1395093,-90.0517042,0.649994,2007-07-07,None,FedEx Forum
+30,"Dallas, TX, US","Beyoncé at American Airlines Center (July 13, 2007)",32.790442,-96.810159,0.649994,2007-07-13,None,American Airlines Center
+31,"Houston, TX, US","Beyoncé at Toyota Center (July 14, 2007)",29.7519787,-95.3621823,0.649994,2007-07-14,None,Toyota Center
+32,"San Antonio, TX, US","Beyoncé at AT&T Center (July 15, 2007)",29.4270165,-98.4373167,0.649994,2007-07-15,None,AT&T Center
+33,"Nashville, TN, US","Beyoncé at Sommet Center (July 18, 2007)",36.159949,-86.77857,0.649994,2007-07-18,None,Sommet Center
+34,"Atlanta, GA, US","Beyoncé at Philips Arena (July 20, 2007)",33.7570952,-84.3971653,0.649994,2007-07-20,None,Philips Arena
+35,"Tampa, FL, US","Beyoncé at Amalie Arena (July 21, 2007)",27.9425879,-82.4519634,0.649994,2007-07-21,None,Amalie Arena
+36,"Sunrise, FL, US","Beyoncé at BB&T Center (July 22, 2007)",26.155362,-80.33023,0.649994,2007-07-22,None,BB&T Center
+37,"Orlando, FL, US","Beyoncé at Amway Center (July 27, 2007)",28.548781,-81.386912,0.649994,2007-07-27,None,Amway Center
+38,"Raleigh, NC, US","Beyoncé at PNC Arena (July 28, 2007)",35.803475,-78.721933,0.649994,2007-07-28,None,PNC Arena
+39,"Hampton, VA, US","Beyoncé at Hampton Coliseum (July 29, 2007)",37.0347535,-76.3813734,0.649994,2007-07-29,None,Hampton Coliseum
+40,"Albany, NY, US","Beyoncé at Times Union Center (July 31, 2007)",42.64834,-73.753957,0.649994,2007-07-31,None,Times Union Center
+41,"Uncasville, CT, US","Beyoncé at Mohegan Sun Arena (August 1, 2007)",41.4917338,-72.0909173,0.649994,2007-08-01,None,Mohegan Sun Arena
+42,"East Rutherford, NJ, US","Beyoncé at Meadowlands Arena (August 3, 2007)",40.8248374,-74.0747804,0.649994,2007-08-03,None,Meadowlands Arena
+43,"New York, NY, US","Beyoncé at Madison Square Garden (August 4, 2007)",40.7497096,-73.991556,0.718192,2007-08-04,None,Madison Square Garden
+44,"Baltimore, MD, US","Beyoncé at Royal Farms Arena (August 8, 2007)",39.2884951,-76.6186943,0.649994,2007-08-08,None,Royal Farms Arena
+45,"Washington, DC, US","Beyoncé at Verizon Center (August 9, 2007)",38.8975641,-77.0210577,0.649994,2007-08-09,None,Verizon Center
+46,"Philadelphia, PA, US","Beyoncé at Wachovia Spectrum Center (August 10, 2007)",39.9045537,-75.1736495,0.649994,2007-08-10,None,Wachovia Spectrum Center
+47,"Atlantic City, NJ, US","Beyoncé at Unknown venue (August 11, 2007)",39.361706,-74.436944,0.700196,2007-08-11,None,Unknown venue
+48,"Boston, MA, US","Beyoncé at FleetCenter (August 12, 2007)",42.3664872,-71.0621057,0.678265,2007-08-12,16:30:00,FleetCenter
+49,"Auburn Hills, MI, US","Beyoncé at The Palace of Auburn Hills (August 17, 2007)",42.696511,-83.2437214,0.649994,2007-08-17,16:30:00,The Palace of Auburn Hills
+50,"Chicago, IL, US","Beyoncé at United Center (August 18, 2007)",41.8812601,-87.674145,0.649994,2007-08-18,17:30:00,United Center
+51,"Cleveland, OH, US","Beyoncé at Quicken Loans Arena (August 19, 2007)",41.4967035,-81.6894825,0.649994,2007-08-19,16:30:00,Quicken Loans Arena
+52,"Denver, CO, US","Beyoncé at Pepsi Center (August 22, 2007)",39.745565,-105.010476,0.649994,2007-08-22,18:30:00,Pepsi Center
+53,"Denver, CO, US","Crowded House and Fountains of Wayne with Beyoncé, Snoop Dogg, and 1 more… at The Fillmore Auditorium (August 22, 2007)",39.7403904,-104.977259,0.649994,2007-08-22,18:30:00,The Fillmore Auditorium
+54,"Phoenix, AZ, US","Beyoncé at Talking Stick Resort Arena (August 24, 2007)",33.445899,-112.071313,0.649994,2007-08-24,19:30:00,Talking Stick Resort Arena
+55,"Las Vegas, NV, US","Beyoncé with Robin Thicke at MGM Grand Hotel & Casino (August 25, 2007)",36.1030179,-115.1676888,0.679988,2007-08-25,19:30:00,MGM Grand Hotel & Casino
+56,"San Diego, CA, US","Beyoncé with Robin Thicke at Viejas Arena (August 26, 2007)",32.7789676,-117.0732307,0.649994,2007-08-26,19:30:00,Viejas Arena
+57,"Fresno, CA, US","Beyoncé at Save Mart Center (August 28, 2007)",36.8086546,-119.7394542,0.668733,2007-08-28,19:00:00,Save Mart Center
+58,"Oakland, CA, US","Beyoncé with Robin Thicke at Oracle Arena (August 31, 2007)",37.7515541,-122.2015715,0.649994,2007-08-31,19:30:00,Oracle Arena
+59,"Anaheim, CA, US","Beyoncé with Robin Thicke at Honda Center (September 1, 2007)",33.807723,-117.876522,0.649994,2007-09-01,19:30:00,Honda Center
+60,"Los Angeles, CA, US","Beyoncé with Robin Thicke at Staples Center (September 2, 2007)",34.042984,-118.2668182,0.649994,2007-09-02,19:30:00,Staples Center
+61,"Portland, OR, US","Beyoncé at Rose Garden Arena (September 8, 2007)",45.531608,-122.667285,0.649994,2007-09-08,20:00:00,Rose Garden Arena
+62,"Raleigh, NC, US","Beyoncé with Robin Thicke at PNC Arena (October 8, 2007)",35.803475,-78.721933,0.649994,2007-10-08,19:00:00,PNC Arena
+63,"Las Vegas, NV, US","Beyoncé at Mandalay Bay Resort & Casino (December 30, 2007)",36.0919655,-115.1730561,0.649994,2007-12-30,21:00:00,Mandalay Bay Resort & Casino
+64,"Washington, DC, US",We Are One 2009,39.72547,-105.0080598,0.887631,2009-01-18,None,Unknown venue
+65,"Washington, DC, US","Beyoncé, Stevie Wonder, and Jay-Z with Faith Hill and 6 more… at Walter E. Washington Convention Center (January 20, 2009)",38.9047767,-77.0229363,0.707223,2009-01-20,20:00:00,Walter E. Washington Convention Center
+66,"Seattle, WA, US","Beyoncé and Eva Avila at KeyArena at Seattle Center (April 1, 2009)",47.6216358,-122.350699,0.667419,2009-04-01,19:00:00,KeyArena at Seattle Center
+67,"New York, NY, US","Beyoncé at Madison Square Garden (June 21, 2009)",40.7497096,-73.991556,0.718192,2009-06-21,19:30:00,Madison Square Garden
+68,"New York, NY, US","Beyoncé at Madison Square Garden (June 22, 2009)",40.7497096,-73.991556,0.718192,2009-06-22,19:30:00,Madison Square Garden
+69,"Baltimore, MD, US","Beyoncé at Royal Farms Arena (June 23, 2009)",39.2884951,-76.6186943,0.649994,2009-06-23,19:30:00,Royal Farms Arena
+70,"Washington, DC, US","Beyoncé at Verizon Center (June 24, 2009)",38.8975641,-77.0210577,0.649994,2009-06-24,19:30:00,Verizon Center
+71,"Philadelphia, PA, US","Beyoncé at Wachovia Spectrum Center (June 26, 2009)",39.9045537,-75.1736495,0.649994,2009-06-26,19:30:00,Wachovia Spectrum Center
+72,"Greensboro, NC, US","Beyoncé with Richgirl at Greensboro Coliseum Complex (June 27, 2009)",36.0597573,-79.8256684,0.649994,2009-06-27,19:30:00,Greensboro Coliseum Complex
+73,"Sunrise, FL, US","Beyoncé at BB&T Center (June 29, 2009)",26.155362,-80.33023,0.649994,2009-06-29,19:30:00,BB&T Center
+74,"Atlanta, GA, US","Beyoncé with Richgirl at Philips Arena (July 1, 2009)",33.7570952,-84.3971653,0.649994,2009-07-01,19:30:00,Philips Arena
+75,"Houston, TX, US","Beyoncé at Toyota Center (July 4, 2009)",29.7519787,-95.3621823,0.649994,2009-07-04,20:00:00,Toyota Center
+76,"Dallas, TX, US","Beyoncé at American Airlines Center (July 5, 2009)",32.790442,-96.810159,0.649994,2009-07-05,19:30:00,American Airlines Center
+77,"Phoenix, AZ, US","Beyoncé with Richgirl at Talking Stick Resort Arena (July 7, 2009)",33.445899,-112.071313,0.649994,2009-07-07,19:00:00,Talking Stick Resort Arena
+78,"Sacramento, CA, US","Beyoncé at Sleep Train Arena (July 9, 2009)",38.648005,-121.517077,0.649994,2009-07-09,19:30:00,Sleep Train Arena
+79,"Oakland, CA, US","Beyoncé at Oracle Arena (July 10, 2009)",37.7515541,-122.2015715,0.649994,2009-07-10,19:30:00,Oracle Arena
+80,"Anaheim, CA, US","Beyoncé with Richgirl at Honda Center (July 11, 2009)",33.807723,-117.876522,0.649994,2009-07-11,19:30:00,Honda Center
+81,"Los Angeles, CA, US","Beyoncé with Richgirl at Staples Center (July 13, 2009)",34.042984,-118.2668182,0.649994,2009-07-13,19:30:00,Staples Center
+82,"Minneapolis, MN, US","Beyoncé at Target Center (July 16, 2009)",44.979657,-93.274889,0.649994,2009-07-16,23:59:20,Target Center
+83,"Chicago, IL, US","Beyoncé at United Center (July 17, 2009)",41.8812601,-87.674145,0.649994,2009-07-17,20:00:00,United Center
+84,"Auburn Hills, MI, US","Beyoncé with Richgirl at The Palace of Auburn Hills (July 18, 2009)",42.696511,-83.2437214,0.649994,2009-07-18,20:00:00,The Palace of Auburn Hills
+85,"Mansfield, MA, US","Beyoncé at Xfinity Center (July 22, 2009)",41.9944318,-71.2106493,0.649994,2009-07-22,19:30:00,Xfinity Center
+86,"Uncasville, CT, US","Bo Bice with Beyoncé at Mohegan Sun Arena (July 23, 2009)",41.4917338,-72.0909173,0.649994,2009-07-23,19:30:00,Mohegan Sun Arena
+87,"East Rutherford, NJ, US","Beyoncé at Izod Center (July 24, 2009)",40.8129701,-74.0701818,0.649994,2009-07-24,19:30:00,Izod Center
+88,"Las Vegas, NV, US","Beyoncé at Encore Theatre, Wynn Las Vegas (July 31, 2009)",36.1038329,-114.9346083,0.649994,2009-07-31,20:00:00,"Encore Theatre, Wynn Las Vegas"
+89,"Las Vegas, NV, US","Beyoncé at Encore Theatre, Wynn Las Vegas (August 2, 2009)",36.1038329,-114.9346083,0.649994,2009-08-02,20:00:00,"Encore Theatre, Wynn Las Vegas"
+90,"Bronx, NY, US","Jay-Z with Eminem, B.o.B, 50 Cent, and 2 more… at New Yankee Stadium (September 13, 2010)",40.8370495,-73.8654295,0.860978,2010-09-13,None,New Yankee Stadium
+91,"New York, NY, US","Beyoncé at Central Park (July 1, 2011)",40.7859464,-73.9741874,0.700666,2011-07-01,None,Central Park
+92,"New York, NY, US","Beyoncé at Roseland Ballroom (August 14, 2011)",40.7631247,-73.9842025,0.649994,2011-08-14,20:00:00,Roseland Ballroom
+93,"New York, NY, US","Beyoncé at Roseland Ballroom (August 16, 2011)",40.7631247,-73.9842025,0.649994,2011-08-16,20:00:00,Roseland Ballroom
+94,"New York, NY, US","Beyoncé at Roseland Ballroom (August 18, 2011)",40.7631247,-73.9842025,0.649994,2011-08-18,20:00:00,Roseland Ballroom
+95,"New York, NY, US","Beyoncé at Roseland Ballroom (August 19, 2011)",40.7631247,-73.9842025,0.649994,2011-08-19,20:00:00,Roseland Ballroom
+96,"Atlantic City, NJ, US","Beyoncé at Revel Ovation Hall (May 25, 2012)",39.3722269,-74.4497173,0.649994,2012-05-25,20:00:00,Revel Ovation Hall
+97,"Atlantic City, NJ, US","Beyoncé at Revel Ovation Hall (May 26, 2012)",39.3722269,-74.4497173,0.649994,2012-05-26,20:00:00,Revel Ovation Hall
+98,"Atlantic City, NJ, US","Beyoncé at Revel Ovation Hall (May 27, 2012)",39.3722269,-74.4497173,0.649994,2012-05-27,20:00:00,Revel Ovation Hall
+99,"Atlantic City, NJ, US","Beyoncé at Revel Ovation Hall (May 28, 2012)",39.3722269,-74.4497173,0.649994,2012-05-28,21:00:00,Revel Ovation Hall
+100,"Seattle, WA, US","Beyoncé at Central Cinema (March 14, 2013)",47.6132846,-122.3051012,0.649994,2013-03-14,20:00:00,Central Cinema
+101,"Seattle, WA, US","Beyoncé at Central Cinema (April 25, 2013)",47.6132846,-122.3051012,0.649994,2013-04-25,20:00:00,Central Cinema
+102,"Los Angeles, CA, US","Beyoncé at Staples Center (June 28, 2013)",34.042984,-118.2668182,0.649994,2013-06-28,19:30:00,Staples Center
+103,"Los Angeles, CA, US",BET Experience 2013,34.042984,-118.2668182,0.6876,2013-06-28,18:30:00,Staples Center
+104,"Los Angeles, CA, US","Beyoncé at Unknown venue (June 28, 2013)",34.10885,-118.2234229,0.704833,2013-06-28,20:00:00,Unknown venue
+105,"Las Vegas, NV, US","Beyoncé at Garden Arena - MGM Grand (June 29, 2013)",36.1022507,-115.1699679,0.700666,2013-06-29,20:00:00,Garden Arena - MGM Grand
+106,"Los Angeles, CA, US","Beyoncé at Staples Center (July 1, 2013)",34.042984,-118.2668182,0.649994,2013-07-01,20:00:00,Staples Center
+107,"San Jose, CA, US","Beyoncé at SAP Center at San Jose (July 2, 2013)",37.3325116,-121.9011855,0.667419,2013-07-02,20:00:00,SAP Center at San Jose
+108,"New Orleans, LA, US",Essence Music Festival 2013,29.95167,-90.0784,0.722184,2013-07-04,None,Mercedes-Benz Superdome
+109,"Oklahoma City, OK, US","Beyoncé at Chesapeake Energy Arena (July 5, 2013)",35.463391,-97.514594,0.649994,2013-07-05,20:00:00,Chesapeake Energy Arena
+110,"Dallas, TX, US","Beyoncé at American Airlines Center (July 6, 2013)",32.790442,-96.810159,0.649994,2013-07-06,20:00:00,American Airlines Center
+111,"Sunrise, FL, US","Beyoncé at BB&T Center (July 9, 2013)",26.155362,-80.33023,0.649994,2013-07-09,20:00:00,BB&T Center
+112,"Miami, FL, US","Beyoncé at AmericanAirlines Arena (July 10, 2013)",25.781232,-80.187805,0.667419,2013-07-10,20:00:00,AmericanAirlines Arena
+113,"Duluth, GA, US","Beyoncé at Infinite Energy Center (July 12, 2013)",33.9869191,-84.0907288,0.666483,2013-07-12,20:00:00,Infinite Energy Center
+114,"Nashville, TN, US","Beyoncé at Bridgestone Arena (July 13, 2013)",36.159949,-86.77857,0.649994,2013-07-13,20:00:00,Bridgestone Arena
+115,"Houston, TX, US","Beyoncé at Toyota Center (July 15, 2013)",29.7519787,-95.3621823,0.649994,2013-07-15,20:00:00,Toyota Center
+116,"Chicago, IL, US","Beyoncé at United Center (July 17, 2013)",41.8812601,-87.674145,0.649994,2013-07-17,20:00:00,United Center
+117,"St. Paul, MN, US","Beyoncé at Xcel Energy Center (July 18, 2013)",44.9434383,-93.1001467,0.649994,2013-07-18,20:00:00,Xcel Energy Center
+118,"Auburn Hills, MI, US","Beyoncé at The Palace of Auburn Hills (July 20, 2013)",42.696511,-83.2437214,0.649994,2013-07-20,20:00:00,The Palace of Auburn Hills
+119,"Boston, MA, US","Beyoncé at TD Garden (July 23, 2013)",42.3661881,-71.0621482,0.649994,2013-07-23,20:00:00,TD Garden
+120,"Philadelphia, PA, US","Beyoncé at Wells Fargo Center (July 25, 2013)",39.9042715,-75.1713324,0.649994,2013-07-25,20:00:00,Wells Fargo Center
+121,"Atlantic City, NJ, US","Beyoncé at Boardwalk Hall (July 26, 2013)",39.354905,-74.438391,0.649994,2013-07-26,20:00:00,Boardwalk Hall
+122,"Charlotte, NC, US","Beyoncé at Time Warner Cable Arena (July 27, 2013)",35.2250606,-80.8393335,0.649994,2013-07-27,20:00:00,Time Warner Cable Arena
+123,"Washington, DC, US","Beyoncé at Verizon Center (July 29, 2013)",38.8975641,-77.0210577,0.649994,2013-07-29,20:00:00,Verizon Center
+124,"Washington, DC, US","Beyoncé at Verizon Center (July 30, 2013)",38.8975641,-77.0210577,0.649994,2013-07-30,20:00:00,Verizon Center
+125,"East Rutherford, NJ, US","Beyoncé at Izod Center (July 31, 2013)",40.8129701,-74.0701818,0.649994,2013-07-31,20:00:00,Izod Center
+126,"Uncasville, CT, US","Beyoncé at Mohegan Sun Arena (August 2, 2013)",41.4917338,-72.0909173,0.649994,2013-08-02,20:00:00,Mohegan Sun Arena
+127,"Brooklyn, NY, US","Beyoncé at Barclays Center (August 3, 2013)",40.6834879,-73.9760265,0.649994,2013-08-03,20:00:00,Barclays Center
+128,"Brooklyn, NY, US","Beyoncé at Barclays Center (August 4, 2013)",40.6834879,-73.9760265,0.649994,2013-08-04,20:00:00,Barclays Center
+129,"Brooklyn, NY, US","Beyoncé at Barclays Center (August 5, 2013)",40.6834879,-73.9760265,0.649994,2013-08-05,20:00:00,Barclays Center
+130,"Philadelphia, PA, US",Budweiser Made in America Festival 2013,39.9602094,-75.1735465,0.717091,2013-08-31,12:00:00,Benjamin Franklin Parkway
+131,"Philadelphia, PA, US","Beyoncé at Benjamin Franklin Parkway (August 31, 2013)",39.9602094,-75.1735465,0.700666,2013-08-31,11:00:00,Benjamin Franklin Parkway
+132,"San Jose, CA, US","Beyoncé at SAP Center at San Jose (December 2, 2013)",37.3325116,-121.9011855,0.667419,2013-12-02,20:00:00,SAP Center at San Jose
+133,"Los Angeles, CA, US","Beyoncé at Staples Center (December 3, 2013)",34.042984,-118.2668182,0.649994,2013-12-03,20:00:00,Staples Center
+134,"Las Vegas, NV, US","Beyoncé at Garden Arena - MGM Grand (December 6, 2013)",36.1022507,-115.1699679,0.700666,2013-12-06,20:00:00,Garden Arena - MGM Grand
+135,"Phoenix, AZ, US","Beyoncé at Talking Stick Resort Arena (December 7, 2013)",33.445899,-112.071313,0.649994,2013-12-07,20:00:00,Talking Stick Resort Arena
+136,"Dallas, TX, US","Beyoncé at American Airlines Center (December 9, 2013)",32.790442,-96.810159,0.649994,2013-12-09,20:00:00,American Airlines Center
+137,"Houston, TX, US","Beyoncé at Toyota Center (December 10, 2013)",29.7519787,-95.3621823,0.649994,2013-12-10,20:00:00,Toyota Center
+138,"Louisville, KY, US","Beyoncé at KFC Yum! Center (December 12, 2013)",38.2566416,-85.7539205,0.649994,2013-12-12,20:00:00,KFC Yum! Center
+139,"Chicago, IL, US","Beyoncé at United Center (December 13, 2013)",41.8812601,-87.674145,0.649994,2013-12-13,20:00:00,United Center
+140,"St Louis, MO, US","Beyoncé at Scottrade Center (December 14, 2013)",38.626175,-90.202131,0.649994,2013-12-14,20:00:00,Scottrade Center
+141,"Washington, DC, US","Beyoncé at Verizon Center (December 18, 2013)",38.8975641,-77.0210577,0.649994,2013-12-18,20:00:00,Verizon Center
+142,"Brooklyn, NY, US","Beyoncé at Barclays Center (December 19, 2013)",40.6834879,-73.9760265,0.649994,2013-12-19,20:00:00,Barclays Center
+143,"Boston, MA, US","Beyoncé at TD Garden (December 20, 2013)",42.3661881,-71.0621482,0.649994,2013-12-20,20:00:00,TD Garden
+144,"Brooklyn, NY, US","Beyoncé at Barclays Center (December 22, 2013)",40.6834879,-73.9760265,0.649994,2013-12-22,20:00:00,Barclays Center
+145,"Miami, FL, US","Beyoncé and Jay-Z at Sun Life Stadium (June 25, 2014)",25.9578662,-80.2387705,0.700519,2014-06-25,None,Sun Life Stadium
+146,"Cincinnati, OH, US","Beyoncé and Jay-Z at Great American Ball Park (June 28, 2014)",39.1356486,-84.7058114,0.649994,2014-06-28,None,Great American Ball Park
+147,"Foxborough, MA, US","Beyoncé and Jay-Z at Gillette Stadium (July 1, 2014)",42.091188,-71.266889,0.700511,2014-07-01,None,Gillette Stadium
+148,"Philadelphia, PA, US","Beyoncé and Jay-Z at Citizens Bank Park (July 5, 2014)",39.9525839,-75.1652215,0.700481,2014-07-05,None,Citizens Bank Park
+149,"Baltimore, MD, US","Beyoncé and Jay-Z at M&T Bank Stadium (July 7, 2014)",39.279287,-76.622096,0.649994,2014-07-07,None,M&T Bank Stadium
+150,"East Rutherford, NJ, US","Beyoncé and Jay-Z at MetLife Stadium (July 11, 2014)",40.8142092,-74.0736902,0.649994,2014-07-11,None,MetLife Stadium
+151,"East Rutherford, NJ, US","Jay-Z and Beyoncé at MetLife Stadium (July 12, 2014)",40.8142092,-74.0736902,0.649994,2014-07-12,20:00:00,MetLife Stadium
+152,"Atlanta, GA, US","Beyoncé and Jay-Z at Georgia Dome (July 15, 2014)",33.7561605,-84.3996192,0.649994,2014-07-15,None,Georgia Dome
+153,"Houston, TX, US","Beyoncé and Jay-Z at Minute Maid Park (July 18, 2014)",29.7568158,-95.3572938,0.649994,2014-07-18,None,Minute Maid Park
+154,"New Orleans, LA, US","Beyoncé and Jay-Z at Mercedes-Benz Superdome (July 20, 2014)",29.9516701,-90.0784038,0.649994,2014-07-20,None,Mercedes-Benz Superdome
+155,"Arlington, TX, US","Beyoncé and Jay-Z at AT&T Stadium (July 22, 2014)",32.747904,-97.092909,0.649994,2014-07-22,None,AT&T Stadium
+156,"Chicago, IL, US","Beyoncé and Jay-Z at Soldier Field (July 24, 2014)",41.866113,-87.6172935,0.649994,2014-07-24,None,Soldier Field
+157,"Seattle, WA, US","Beyoncé and Jay-Z at Safeco Field (July 30, 2014)",47.5914878,-122.3322481,0.649994,2014-07-30,None,Safeco Field
+158,"Pasadena, CA, US","Beyoncé and Jay-Z at Rose Bowl (August 2, 2014)",34.1609679,-118.1674702,0.649994,2014-08-02,None,Rose Bowl
+159,"Pasadena, CA, US","Jay-Z and Beyoncé at Rose Bowl (August 3, 2014)",34.1609679,-118.1674702,0.649994,2014-08-03,20:00:00,Rose Bowl
+160,"San Francisco, CA, US","Beyoncé and Jay-Z at AT&T Park (August 5, 2014)",37.7781428,-122.3908715,0.649994,2014-08-05,None,AT&T Park
+161,"San Francisco, CA, US","Beyoncé and Jay-Z at AT&T Park (August 6, 2014)",37.7781428,-122.3908715,0.649994,2014-08-06,None,AT&T Park
+162,"Philadelphia, PA, US",Made in America Festival 2015,39.96021,-75.17355,0.720312,2015-09-05,None,Benjamin Franklin Parkway
+163,"New York, NY, US",Global Citizen Festival 2015,40.7700703,-73.9580246,1.0,2015-09-26,12:00:00,Great Lawn at Central Park
+164,"Brooklyn, NY, US","Beyoncé, Damian 'Jr Gong' Marley, Indochine, Jay-Z, and 13 more… at Barclays Center (October 20, 2015)",40.6834879,-73.9760265,0.708163,2015-10-20,20:00:00,Barclays Center
+165,"Miami, FL, US","Beyoncé at Marlins Park (April 27, 2016)",25.7779581,-80.2196633,0.677392,2016-04-27,None,Marlins Park
+166,"Tampa, FL, US","Beyoncé at Raymond James Stadium (April 29, 2016)",27.9763941,-82.5041993,0.677719,2016-04-29,None,Raymond James Stadium
+167,"Atlanta, GA, US","Beyoncé at Georgia Dome (May 1, 2016)",33.7561605,-84.3996192,0.677947,2016-05-01,None,Georgia Dome
+168,"Raleigh, NC, US","Beyoncé at Carter-Finley Stadium, NCSU (May 3, 2016)",35.8010729,-78.7189829,0.678265,2016-05-03,None,"Carter-Finley Stadium, NCSU"
+169,"Nashville, TN, US","Beyoncé at Nissan Stadium (May 5, 2016)",36.1661644,-86.7717047,0.68954,2016-05-05,None,Nissan Stadium
+170,"Houston, TX, US","Beyoncé at NRG Stadium (May 7, 2016)",29.68593,-95.40334,0.695407,2016-05-07,None,NRG Stadium
+171,"Arlington, TX, US","Beyoncé at AT&T Stadium (May 9, 2016)",32.747904,-97.092909,0.678904,2016-05-09,None,AT&T Stadium
+172,"San Diego, CA, US","Beyoncé at Qualcomm Stadium (May 12, 2016)",32.7840213,-117.1200295,0.679276,2016-05-12,None,Qualcomm Stadium
+173,"Pasadena, CA, US","Beyoncé at Rose Bowl (May 14, 2016)",34.1609679,-118.1674702,0.679513,2016-05-14,None,Rose Bowl
+174,"Santa Clara, CA, US","Beyoncé at Levi's Stadium (May 16, 2016)",37.4046362,-121.9692967,0.679786,2016-05-16,None,Levi's Stadium
+175,"Seattle, WA, US","Beyoncé at CenturyLink Field (May 18, 2016)",47.594181,-122.3332315,0.680167,2016-05-18,None,CenturyLink Field
+176,"Minneapolis, MN, US","Beyoncé at TCF Bank Stadium (May 23, 2016)",44.977032,-93.2296439,0.680914,2016-05-23,None,TCF Bank Stadium
+177,"Chicago, IL, US","Beyoncé at Soldier Field (May 27, 2016)",41.866113,-87.6172935,0.681501,2016-05-27,None,Soldier Field
+178,"Chicago, IL, US","Beyoncé at Soldier Field (May 28, 2016)",41.866113,-87.6172935,0.68163,2016-05-28,None,Soldier Field
+179,"Detroit, MI, US","Beyoncé at Ford Field (May 29, 2016)",42.3384845,-83.0459343,0.681749,2016-05-29,None,Ford Field
+180,"Pittsburgh, PA, US","Beyoncé at Heinz Field (May 31, 2016)",40.446093,-80.015942,0.682015,2016-05-31,None,Heinz Field
+181,"Foxborough, MA, US","Beyoncé at Gillette Stadium (June 3, 2016)",42.091188,-71.266889,0.700511,2016-06-03,None,Gillette Stadium
+182,"Philadelphia, PA, US","Beyoncé at Lincoln Financial Field (June 5, 2016)",39.9007654,-75.1675344,0.682656,2016-06-05,None,Lincoln Financial Field
+183,"Flushing, NY, US","Beyoncé at Citi Field (June 7, 2016)",40.7553744,-73.8432198,0.682998,2016-06-07,None,Citi Field
+184,"Flushing, NY, US","Beyoncé at Citi Field (June 8, 2016)",40.7553744,-73.8432198,0.683123,2016-06-08,None,Citi Field
+185,"Baltimore, MD, US","Beyoncé at M&T Bank Stadium (June 10, 2016)",39.279287,-76.622096,0.683387,2016-06-10,None,M&T Bank Stadium
+186,"Hershey, PA, US","Beyoncé at Hersheypark Stadium (June 12, 2016)",40.2926999,-76.6541182,0.683621,2016-06-12,None,Hersheypark Stadium
+187,"Detroit, MI, US","Beyoncé at Ford Field (June 14, 2016)",42.3384845,-83.0459343,0.683947,2016-06-14,None,Ford Field
+188,"Los Angeles, CA, US","Beyoncé, Young Thug, Fat Joe, Chloe and Halle, and 22 more… at Microsoft Theater (June 26, 2016)",34.04429,-118.2656,0.720208,2016-06-26,None,Microsoft Theater
+189,"East Rutherford, NJ, US","Beyoncé at MetLife Stadium (September 7, 2016)",40.8142092,-74.0736902,0.693741,2016-09-07,None,MetLife Stadium
+190,"Los Angeles, CA, US","Beyoncé at Dodger Stadium (September 14, 2016)",34.0732204,-118.2409737,0.694408,2016-09-14,None,Dodger Stadium
+191,"Santa Clara, CA, US","Beyoncé at Levi's Stadium (September 17, 2016)",37.4046362,-121.9692967,0.694649,2016-09-17,None,Levi's Stadium
+192,"Houston, TX, US","Beyoncé at NRG Stadium (September 22, 2016)",29.68593,-95.40334,0.695407,2016-09-22,None,NRG Stadium
+193,"New Orleans, LA, US","Beyoncé at Mercedes-Benz Superdome (September 24, 2016)",29.9516701,-90.0784038,0.699676,2016-09-24,None,Mercedes-Benz Superdome
+194,"Atlanta, GA, US","Beyoncé at Georgia Dome (September 26, 2016)",33.7561605,-84.3996192,0.699858,2016-09-26,None,Georgia Dome
+195,"Philadelphia, PA, US","Beyoncé at Lincoln Financial Field (September 29, 2016)",39.9007654,-75.1675344,0.700148,2016-09-29,None,Lincoln Financial Field
+196,"Nashville, TN, US","Beyoncé at Nissan Stadium (October 2, 2016)",36.1661644,-86.7717047,0.700427,2016-10-02,None,Nissan Stadium
+197,"Indio, CA, US",Coachella 2018,33.68233,-116.23892,0.895067,2018-04-13,None,Empire Polo Club
+198,"Indio, CA, US",Coachella 2018,33.68233,-116.23892,0.895067,2018-04-20,None,Empire Polo Club
+199,"Cleveland, OH, US","Beyoncé and Jay-Z at Firstenergy Stadium (July 25, 2018)",41.50522,-81.6985,0.719177,2018-07-25,None,Firstenergy Stadium
+200,"Landover, MD, US","Beyoncé and Jay-Z at FedEx Field (July 27, 2018)",38.90699,-76.86545,0.719347,2018-07-27,None,FedEx Field
+201,"Landover, MD, US","Beyoncé and Jay-Z at FedEx Field (July 28, 2018)",38.90699,-76.86545,0.719451,2018-07-28,None,FedEx Field
+202,"Philadelphia, PA, US","Beyoncé and Jay-Z at Lincoln Financial Field (July 30, 2018)",39.90077,-75.16753,0.719597,2018-07-30,None,Lincoln Financial Field
+203,"East Rutherford, NJ, US","Beyoncé and Jay-Z at MetLife Stadium (August 2, 2018)",40.81421,-74.07369,0.719839,2018-08-02,None,MetLife Stadium
+204,"East Rutherford, NJ, US","Beyoncé and Jay-Z at MetLife Stadium (August 3, 2018)",40.81421,-74.07369,0.71991,2018-08-03,None,MetLife Stadium
+205,"Foxborough, MA, US","Beyoncé and Jay-Z at Gillette Stadium (August 5, 2018)",42.09119,-71.26689,0.720049,2018-08-05,19:30:00,Gillette Stadium
+206,"Minneapolis, MN, US","Beyoncé and Jay-Z at U.S. Bank Stadium (August 8, 2018)",44.9714,-93.2545,0.720312,2018-08-08,19:30:00,U.S. Bank Stadium
+207,"Chicago, IL, US","Beyoncé and Jay-Z at Soldier Field (August 10, 2018)",41.86611,-87.61729,0.720474,2018-08-10,19:30:00,Soldier Field
+208,"Chicago, IL, US","Beyoncé and Jay-Z at Soldier Field (August 11, 2018)",41.86611,-87.61729,0.720537,2018-08-11,19:30:00,Soldier Field
+209,"Detroit, MI, US","Beyoncé and Jay-Z at Ford Field (August 13, 2018)",42.33848,-83.04593,0.720679,2018-08-13,19:30:00,Ford Field
+210,"Columbus, OH, US","Beyoncé and Jay-Z at Ohio Stadium (August 16, 2018)",40.00368,-83.01938,0.721009,2018-08-16,19:30:00,Ohio Stadium
+211,"Orchard Park, NY, US","Beyoncé and Jay-Z at New Era Field (August 18, 2018)",42.77327,-78.78586,0.721187,2018-08-18,19:30:00,New Era Field
+212,"Columbia, SC, US","Beyoncé and Jay-Z at Williams-Brice Stadium (August 21, 2018)",33.9736,-81.02091,0.721431,2018-08-21,19:30:00,Williams-Brice Stadium
+213,"Nashville, TN, US","Beyoncé and Jay-Z at Vanderbilt Stadium (August 23, 2018)",36.14876,-86.803,0.721573,2018-08-23,None,Vanderbilt Stadium
+214,"Atlanta, GA, US","Beyoncé and Jay-Z at Mercedes-benz Stadium (August 25, 2018)",33.75769,-84.40083,0.721726,2018-08-25,19:30:00,Mercedes-benz Stadium
+215,"Atlanta, GA, US","Beyoncé and Jay-Z at Mercedes-benz Stadium (August 26, 2018)",33.75769,-84.40083,0.72181,2018-08-26,19:30:00,Mercedes-benz Stadium
+216,"Orlando, FL, US","Jay-Z and Beyoncé at Camping World Stadium (August 29, 2018)",28.5389,-81.40334,0.722082,2018-08-29,19:30:00,Camping World Stadium
+217,"Miami, FL, US","Beyoncé and Jay-Z at Hard Rock Stadium (August 31, 2018)",25.68701,-80.35159,0.722258,2018-08-31,19:30:00,Hard Rock Stadium

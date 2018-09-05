@@ -1,0 +1,138 @@
+Event Number,City,Event Name,Latitude,Longitude,Popularity,Start Date,Start Time,Venue
+1,"New York, NY, US","Misun, Cheers Elephant, SZA, Bianca Raquel, and 1 more… at Drom (October 16, 2012)",40.7252014,-73.9841494,0.006355,2012-10-16,21:00:00,Drom
+2,"Manhattan, NY, US","Raw with Iman Omari, Rachel Brown, SZA, and 1 more… at S.O.B.'s (January 9, 2013)",40.7284492,-74.0051241,0.086669,2013-01-09,21:00:00,S.O.B.'s
+3,"Brooklyn, NY, US","Chad Valley with Rush Midnight, SZA, and Letting Up Despite Great Faults at Glasslands Gallery (April 12, 2013)",40.715135,-73.9664821,0.104766,2013-04-12,20:30:00,Glasslands Gallery
+4,"New York, NY, US","SZA with Child Actor, Ydimitu, and Young Magic at Pianos (April 13, 2013)",40.7211268,-73.9878164,0.00728,2013-04-13,20:00:00,Pianos
+5,"Washington, DC, US",Broccoli City Festival 2013,38.8746482,-77.0074739,0.085316,2013-04-21,None,Fairgrounds
+6,"Las Vegas, NV, US","Phoenix with SZA at Boulevard Pool, The Cosmopolitan of Las Vegas (October 8, 2013)",36.109622,-115.1732124,0.293133,2013-10-08,21:00:00,"Boulevard Pool, The Cosmopolitan of Las Vegas"
+7,"Los Angeles, CA, US","Little Dragon with SZA at El Rey Theatre (October 17, 2013)",34.062397,-118.3487992,0.114401,2013-10-17,20:00:00,El Rey Theatre
+8,"New York, NY, US","Travis Scott, SZA, and Calvin Love with Saul Williams and 6 more… at Eventi Hotel (October 19, 2013)",40.7472165,-73.9898959,0.029191,2013-10-19,13:00:00,Eventi Hotel
+9,"New York, NY, US","Little Dragon with SZA at The Bowery Ballroom (October 23, 2013)",40.7203623,-73.9935389,0.114401,2013-10-23,20:00:00,The Bowery Ballroom
+10,"Brooklyn, NY, US","Little Dragon and SZA at Music Hall of Williamsburg (October 24, 2013)",40.7192832,-73.9617103,0.114401,2013-10-24,20:00:00,Music Hall of Williamsburg
+11,"San Antonio, TX, US","The Psychedelic Furs, Phantogram, The Joy Formidable, Twin Shadow, and 6 more… at Villita Assembly Building (March 21, 2014)",29.4218758,-98.4893001,0.139154,2014-03-21,18:00:00,Villita Assembly Building
+12,"San Antonio, TX, US","Phantogram, The Psychedelic Furs, Washed Out, Twin Shadow, and 10 more… at Villita Assembly Building (March 22, 2014)",29.4218758,-98.4893001,0.139154,2014-03-22,16:30:00,Villita Assembly Building
+13,"New Orleans, LA, US","Common with MC Lyte, SZA, and DJ Jermaine at House of Blues (July 5, 2014)",29.9531604,-90.0661661,0.161109,2014-07-05,13:00:00,House of Blues
+14,"Saugerties, NY, US",The Hudson Project 2014,42.08764,-73.98827,0.581923,2014-07-11,00:00:00,Winston Farm
+15,"Brooklyn, NY, US","SZA with Cakes Da Killa, Denitia & Sene, Princess Nokia, and 1 more… at Rough Trade NYC (July 15, 2014)",40.7209863,-73.9598502,0.037003,2014-07-15,20:00:00,Rough Trade NYC
+16,"Chicago, IL, US",Pitchfork Music Festival 2014,41.8851191,-87.6660887,0.553525,2014-07-18,15:00:00,Union Park
+17,"Washington, DC, US",Trillectro Music Festival 2014,38.889563,-76.97279,0.385214,2014-08-23,None,RFK Stadium
+18,"Brooklyn, NY, US",AFROPUNK Festival 2014,40.6984282,-73.9830896,0.069593,2014-08-23,None,Commodore Barry Park
+19,"Los Angeles, CA, US",Made in America Festival 2014,34.0547,-118.24282,0.739801,2014-08-30,12:00:00,Grand Park
+20,"Minneapolis, MN, US","P.O.S, SZA, Poliça (DJ Set), Le1f, and 5 more… at Fine Line Music Cafe (September 13, 2014)",44.98139,-93.27249,0.122995,2014-09-13,04:00:00,Fine Line Music Cafe
+21,"Portland, OR, US","Shaprece and SZA with Magic Fades at Holocene (October 7, 2014)",45.5175739,-122.6553277,0.031564,2014-10-07,20:00:00,Holocene
+22,"Lawrence, KS, US","SZA at Liberty Hall (November 6, 2014)",38.9714784,-95.2356564,0.013403,2014-11-06,21:00:00,Liberty Hall
+23,"Austin, TX, US",FUN FUN FUN FEST 2014,30.26035,-97.74962,0.557685,2014-11-07,13:00:00,Auditorium Shores
+24,"Silver Spring, MD, US","Jhené Aiko with SZA and The Internet at The Fillmore Silver Spring (December 2, 2014)",38.997482,-77.027928,0.105426,2014-12-02,19:00:00,The Fillmore Silver Spring
+25,"New York, NY, US","Jhené Aiko with SZA and The Internet at PlayStation Theater (December 3, 2014)",40.7576068,-73.9861364,0.062922,2014-12-03,None,PlayStation Theater
+26,"Baltimore, MD, US","Jhené Aiko with SZA and The Internet at Baltimore Soundstage (December 4, 2014)",39.2876066,-76.6068397,0.057472,2014-12-04,19:00:00,Baltimore Soundstage
+27,"Philadelphia, PA, US","Jhené Aiko with SZA and The Internet at Electric Factory (December 5, 2014)",39.9589847,-75.1502809,0.063267,2014-12-05,20:30:00,Electric Factory
+28,"Los Angeles, CA, US","Jhené Aiko with SZA and The Internet at The Novo by Microsoft (December 7, 2014)",34.0449376,-118.2654979,0.098487,2014-12-07,None,The Novo by Microsoft
+29,"Sacramento, CA, US","SZA with J.sirus at Harlow's (December 8, 2014)",38.5739832,-121.4701755,0.007751,2014-12-08,20:00:00,Harlow's
+30,"San Francisco, CA, US","Jhené Aiko with SZA and The Internet at The Warfield (December 10, 2014)",37.7826598,-122.4101811,0.057472,2014-12-10,None,The Warfield
+31,"Santa Ana, CA, US","Jhené Aiko with SZA and The Internet at The Observatory (December 11, 2014)",33.6998449,-117.9194457,0.057472,2014-12-11,20:00:00,The Observatory
+32,"Los Angeles, CA, US","Jhené Aiko with SZA and The Internet at The Novo by Microsoft (December 12, 2014)",34.0449376,-118.2654979,0.098487,2014-12-12,20:00:00,The Novo by Microsoft
+33,"Phoenix, AZ, US","Jhené Aiko with SZA and The Internet at Celebrity Theatre (December 13, 2014)",33.4544202,-112.0145748,0.057472,2014-12-13,21:00:00,Celebrity Theatre
+34,"Royal Oak, MI, US","Jhené Aiko with SZA and The Internet at Royal Oak Music Theatre (December 19, 2014)",42.4873251,-83.1474339,0.057472,2014-12-19,None,Royal Oak Music Theatre
+35,"Chicago, IL, US","Jhené Aiko with SZA and The Internet at House of Blues (December 20, 2014)",41.8882037,-87.6292039,0.134085,2014-12-20,None,House of Blues
+36,"Minneapolis, MN, US","Jhené Aiko with SZA and The Internet at Skyway Theatre (December 21, 2014)",44.977412,-93.274927,0.057472,2014-12-21,None,Skyway Theatre
+37,"Atlanta, GA, US","SZA at Center Stage Theater (January 17, 2015)",33.7920851,-84.3880007,0.017675,2015-01-17,20:00:00,Center Stage Theater
+38,"Columbia, MD, US",Sweetlife Festival 2015,39.20877,-76.86278,0.638306,2015-05-30,12:00:00,Merriweather Post Pavilion
+39,"Manchester, TN, US",Bonnaroo Music & Arts Festival 2015,35.47811,-86.04642,0.583188,2015-06-11,12:00:00,Great Stage Park
+40,"Dallas, TX, US","SZA with Tut at South Side Music Hall (July 11, 2015)",32.768777,-96.797987,0.017214,2015-07-11,19:11:00,South Side Music Hall
+41,"Chicago, IL, US","SZA with Gabriel Garzón-Montano and Montano at Reggie's Rock Club (July 31, 2015)",41.8540522,-87.6269514,0.062026,2015-07-31,22:00:00,Reggie's Rock Club
+42,"San Francisco, CA, US",Outside Lands Music & Arts Festival 2015,37.78229,-122.46371,0.581923,2015-08-07,12:00:00,Golden Gate Park
+43,"Atlanta, GA, US","Ms. Lauryn Hill, A$AP Rocky, Wale, Janelle Monáe, and 5 more… at Cellairis Amphitheatre at Lakewood (September 12, 2015)",33.70427,-84.3961,0.37371,2015-09-12,12:00:00,Cellairis Amphitheatre at Lakewood
+44,"Madison, WI, US","SZA and Lizzo at Majestic Theatre (September 15, 2015)",43.074528,-89.3807714,0.018846,2015-09-15,None,Majestic Theatre
+45,"Champaign, IL, US","SZA and Lizzo at High Dive (September 16, 2015)",40.1177536,-88.2408818,0.01952,2015-09-16,None,High Dive
+46,"Bloomington, IN, US","SZA and Lizzo at Kilroy's Recess (September 17, 2015)",39.166247,-86.528507,0.063008,2015-09-17,None,Kilroy's Recess
+47,"Lansing, MI, US","SZA and Lizzo at The Loft (September 19, 2015)",42.7334153,-84.547514,0.018846,2015-09-19,None,The Loft
+48,"Las Vegas, NV, US",Life is Beautiful Festival 2015,36.16917,-115.14006,0.599864,2015-09-25,15:00:02,Downtown Las Vegas
+49,"Portland, OR, US","SZA with Risky Star and Joyya Marie at Wonder Ballroom (April 13, 2016)",45.5408474,-122.6634854,0.022767,2016-04-13,21:00:00,Wonder Ballroom
+50,"Indio, CA, US",Coachella (Weekend 1) 2016,33.68233,-116.23892,0.639334,2016-04-15,None,Empire Polo Club
+51,"Indio, CA, US",Coachella (Weekend 2) 2016,33.68233,-116.23892,0.639334,2016-04-22,None,Empire Polo Club
+52,"New York, NY, US",Panorama Festival 2016,40.78377,-73.92567,0.58421,2016-07-22,20:00:00,Randall's Island
+53,"Philadelphia, PA, US",Made in America Festival 2016,39.96021,-75.17355,1.0,2016-09-03,12:00:00,Benjamin Franklin Parkway
+54,"Los Angeles, CA, US",Camp Flog Gnaw Carnival 2016,34.0126,-118.28456,0.647064,2016-11-12,None,Exposition Park
+55,"New Haven, CT, US","SZA with Smino and Ravyn Lenae at Toad's Place (August 18, 2017)",41.31157,-72.92936,0.124348,2017-08-18,None,Toad's Place
+56,"Providence, RI, US","Ravyn Lenae, SZA, and Smino at Fête Music Hall (August 20, 2017)",41.81602,-71.44338,0.124348,2017-08-20,19:00:00,Fête Music Hall
+57,"Richmond, VA, US","SZA with Smino and Rayvn Lenae at The National (August 21, 2017)",37.5417961,-77.4353949,0.100742,2017-08-21,19:00:00,The National
+58,"Boston, MA, US","SZA with Smino and Ravyn Lenae at Royale (August 25, 2017)",42.35003,-71.06523,0.124348,2017-08-25,18:00:00,Royale
+59,"New York, NY, US",AFROPUNK Festival 2017,40.71278,-74.00594,0.124348,2017-08-26,None,Unknown venue
+60,"Detroit, MI, US","Smino, Ravyn Lenae, and SZA at The Fillmore Detroit (August 30, 2017)",42.3378,-83.05152,0.124348,2017-08-30,19:00:00,The Fillmore Detroit
+61,"Chicago, IL, US","SZA with Ravyn Lenae and Smino at Concord Music Hall (August 31, 2017)",41.91856,-87.69003,0.124348,2017-08-31,18:00:00,Concord Music Hall
+62,"Minneapolis, MN, US","SZA and Protohype with Smino at Cabooze (September 1, 2017)",44.963384,-93.246801,0.100742,2017-09-01,20:00:00,Cabooze
+63,"Minneapolis, MN, US","SZA with Smino and Ravyn Lenae at First Avenue Mainroom (September 1, 2017)",44.97827,-93.27608,0.125102,2017-09-01,18:00:00,First Avenue Mainroom
+64,"Lawrence, KS, US","SZA at Granada Theatre (September 3, 2017)",38.9647957,-95.2358532,0.046551,2017-09-03,20:00:00,Granada Theatre
+65,"Kansas City, MO, US","Ravyn Lenae, Smino, and SZA at Uptown Theater (September 3, 2017)",39.06115,-94.59053,0.124348,2017-09-03,20:00:00,Uptown Theater
+66,"Lincoln, NE, US","SZA at Bourbon Theatre (September 5, 2017)",40.813249,-96.700617,0.046784,2017-09-05,20:00:00,Bourbon Theatre
+67,"Englewood, CO, US","SZA with Smino and Ravyn Lenae at Gothic Theatre (September 6, 2017)",39.65763,-104.98802,0.124348,2017-09-06,19:00:00,Gothic Theatre
+68,"Anaheim, CA, US",Day n Night Festival 2017,33.80003,-117.883043,0.569913,2017-09-08,12:00:00,Angel Stadium of Anaheim
+69,"Las Vegas, NV, US","SZA with Ravyn Lenae at Vinyl, Hard Rock Hotel & Casino (September 8, 2017)",36.10901,-115.15385,0.124348,2017-09-08,19:00:00,"Vinyl, Hard Rock Hotel & Casino"
+70,"Sacramento, CA, US","SZA at Ace of Spades (September 10, 2017)",38.5699036,-121.490972,0.047387,2017-09-10,19:00:00,Ace of Spades
+71,"Santa Cruz, CA, US","SZA with Ravyn Lenae and Smino at The Catalyst (September 12, 2017)",36.97137,-122.02554,0.124348,2017-09-12,21:00:00,The Catalyst
+72,"Eugene, OR, US","Ravyn Lenae, SZA, and Smino at WOW Hall (September 13, 2017)",44.05121,-123.09706,0.124348,2017-09-13,21:00:00,WOW Hall
+73,"Portland, OR, US","SZA with Smino and Ravyn Lenae at Roseland Theater (September 16, 2017)",45.52331,-122.67644,0.124348,2017-09-16,None,Roseland Theater
+74,"Seattle, WA, US","Smino, Ravyn Lenae, and SZA at Neptune Theatre (September 17, 2017)",47.66128,-122.31365,0.124348,2017-09-17,20:00:00,Neptune Theatre
+75,"San Francisco, CA, US","SZA with Smino and Ravyn Lenae at The Regency Ballroom (September 19, 2017)",37.78787,-122.42143,0.124348,2017-09-19,19:00:00,The Regency Ballroom
+76,"Tempe, AZ, US","SZA and Ravyn Lenae at Marquee Theatre (September 21, 2017)",33.43689,-111.94373,0.124348,2017-09-21,18:30:00,Marquee Theatre
+77,"Los Angeles, CA, US","SZA with Smino and Ravyn Lenae at The Novo by Microsoft (September 25, 2017)",34.04494,-118.2655,0.124348,2017-09-25,19:00:00,The Novo by Microsoft
+78,"New Orleans, LA, US","Ravyn Lenae and SZA at House of Blues (September 28, 2017)",29.95316,-90.06617,0.124348,2017-09-28,19:00:00,House of Blues
+79,"Austin, TX, US","SZA with Smino and Ravyn Lenae at Emo's Austin (October 1, 2017)",30.2404,-97.7282,0.124348,2017-10-01,19:00:00,Emo's Austin
+80,"Houston, TX, US","SZA, Smino, and Ravyn Lanae at Warehouse Live (October 3, 2017)",29.7521221,-95.3546736,0.100742,2017-10-03,None,Warehouse Live
+81,"Nashville, TN, US","Commodore Quake, SZA, and Migos at Memorial Gymnasium, Vanderbilt University (October 5, 2017)",36.1448738,-86.8067804,0.129004,2017-10-05,20:00:00,"Memorial Gymnasium, Vanderbilt University"
+82,"Miami, FL, US","SZA with Ravyn Lenae at The Ground (October 7, 2017)",25.78448,-80.19314,0.124348,2017-10-07,21:00:00,The Ground
+83,"Ybor City, FL, US","SZA at Orpheum (October 8, 2017)",27.960041,-82.437391,0.051856,2017-10-08,19:00:00,Orpheum
+84,"Atlanta, GA, US","Smino, Ravyn Lenae, and SZA at The Tabernacle (October 9, 2017)",33.7587,-84.39146,0.124348,2017-10-09,20:00:00,The Tabernacle
+85,"Greensboro, NC, US","SZA at Cone Denim Entertainment Center (October 11, 2017)",36.071838,-79.789924,0.052262,2017-10-11,20:00:00,Cone Denim Entertainment Center
+86,"Charlotte, NC, US","Smino, Ravyn Lenae, and SZA at The Underground (October 12, 2017)",35.2403,-80.84531,0.124348,2017-10-12,20:00:00,The Underground
+87,"Los Angeles, CA, US","SZA at The Novo by Microsoft (November 14, 2017)",34.0449376,-118.2654979,0.057042,2017-11-14,19:00:00,The Novo by Microsoft
+88,"New York, NY, US","SZA, Post Malone, Ty Dolla $ign, and Cheat Codes at Pier 36 (December 5, 2017)",40.71063,-73.98518,0.224573,2017-12-05,None,Pier 36
+89,"Brooklyn, NY, US","SZA with Smino and Ravyn Lenae at Brooklyn Steel (December 10, 2017)",40.71936,-73.93878,0.124348,2017-12-10,19:00:00,Brooklyn Steel
+90,"New York, NY, US","SZA with Smino and Ravyn Lenae at Irving Plaza (December 11, 2017)",40.73492,-73.98845,0.124348,2017-12-11,19:00:00,Irving Plaza
+91,"Cleveland, OH, US","Smino, Ravyn Lenae, and SZA at House of Blues (December 13, 2017)",41.49982,-81.69086,0.124348,2017-12-13,19:00:00,House of Blues
+92,"Indianapolis, IN, US","Smino, Ravyn Lenae, and SZA at Egyptian Room, Old National Centre (December 15, 2017)",39.77465,-86.1515,0.124348,2017-12-15,19:30:00,"Egyptian Room, Old National Centre"
+93,"Louisville, KY, US","Smino, Ravyn Lenae, and SZA at Mercury Ballroom (December 16, 2017)",38.24851,-85.75794,0.124348,2017-12-16,20:00:00,Mercury Ballroom
+94,"St Louis, MO, US","SZA with Ravyn Lenae and Smino at The Ready Room (December 17, 2017)",38.62762,-90.25381,0.124348,2017-12-17,20:00:00,The Ready Room
+95,"St Louis, MO, US","SZA at The Ready Room (December 19, 2017)",38.627618,-90.253814,0.063424,2017-12-19,20:00:00,The Ready Room
+96,"Chicago, IL, US","SZA at Concord Music Hall (December 20, 2017)",41.9185623,-87.6900284,0.063699,2017-12-20,18:00:00,Concord Music Hall
+97,"Philadelphia, PA, US","Ravyn Lenae and SZA at Fillmore Philadelphia (December 22, 2017)",39.96609,-75.13663,0.124348,2017-12-22,20:00:00,Fillmore Philadelphia
+98,"Honolulu, HI, US","SZA at The Republik (January 15, 2018)",21.2941297,-157.8448445,0.068998,2018-01-15,20:00:00,The Republik
+99,"Honolulu, HI, US","SZA at The Republik (January 18, 2018)",21.2941297,-157.8448445,0.069875,2018-01-18,20:00:00,The Republik
+100,"Silver Spring, MD, US","Smino and SZA at The Fillmore Silver Spring (February 5, 2018)",38.997482,-77.027928,0.100742,2018-02-05,20:00:00,The Fillmore Silver Spring
+101,"New Orleans, LA, US",Buku Music and Art Project Festival 2018,29.95107,-90.07153,0.415981,2018-03-09,None,Unknown venue
+102,"Indio, CA, US",Coachella 2018,33.68233,-116.23892,0.895067,2018-04-13,None,Empire Polo Club
+103,"Indio, CA, US",Coachella 2018,33.68233,-116.23892,0.895067,2018-04-20,None,Empire Polo Club
+104,"Syracuse, NY, US","Gucci Mane and SZA at Carrier Dome, Syracuse University (April 27, 2018)",43.0376369,-76.1382483,0.186196,2018-04-27,19:20:00,"Carrier Dome, Syracuse University"
+105,"Auburn, WA, US","Isaiah Rashad, Jay Rock, Sir, Ab-Soul, and 4 more… at White River Amphitheatre (May 5, 2018)",47.2374581,-122.1120309,0.550764,2018-05-05,19:30:00,White River Amphitheatre
+106,"Ridgefield, WA, US","Isaiah Rashad, Sir, Ab-Soul, SZA, and 4 more… at Sunlight Supply Amphitheater (May 6, 2018)",45.746432,-122.666113,0.551031,2018-05-06,19:00:00,Sunlight Supply Amphitheater
+107,"Oakland, CA, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Oracle Arena (May 8, 2018)",37.7515541,-122.2015715,0.55162,2018-05-08,19:30:00,Oracle Arena
+108,"Inglewood, CA, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at The Forum (May 10, 2018)",33.9582047,-118.3405316,0.552375,2018-05-10,19:30:00,The Forum
+109,"Inglewood, CA, US","Jay Rock, Sir, Ab-Soul, SZA, and 2 more… at The Forum (May 11, 2018)",33.9582047,-118.3405316,0.210381,2018-05-11,19:30:00,The Forum
+110,"Oakland, CA, US",Blurry Vision Festival 2018,37.8063658,-122.3223968,0.184238,2018-05-12,None,Middle Harbor Shoreline Park
+111,"Chula Vista, CA, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Mattress Firm Amphitheatre (May 13, 2018)",32.5882959,-117.0060564,0.553028,2018-05-13,19:30:00,Mattress Firm Amphitheatre
+112,"Phoenix, AZ, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Ak-Chin Pavilion (May 14, 2018)",33.470823,-112.232875,0.553269,2018-05-14,19:30:00,Ak-Chin Pavilion
+113,"Albuquerque, NM, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Isleta Amphitheater (May 15, 2018)",34.993524,-106.63313,0.553525,2018-05-15,19:30:00,Isleta Amphitheater
+114,"Dallas, TX, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Starplex Pavilion (May 17, 2018)",32.7756926,-96.7534676,0.554159,2018-05-17,19:30:00,Starplex Pavilion
+115,"Austin, TX, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Austin360 Amphitheater (May 18, 2018)",30.13293,-97.6406811,0.554384,2018-05-18,19:30:00,Austin360 Amphitheater
+116,"The Woodlands, TX, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Cynthia Woods Mitchell Pavilion (May 19, 2018)",30.161593,-95.464029,0.554607,2018-05-19,19:30:00,Cynthia Woods Mitchell Pavilion
+117,"Tampa, FL, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Midflorida Credit Union Amphitheatre (May 22, 2018)",27.9896043,-82.3588746,0.555412,2018-05-22,19:30:00,Midflorida Credit Union Amphitheatre
+118,"West Palm Beach, FL, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Coral Sky Amphitheatre at the South Florida Fairgrounds (May 23, 2018)",26.685477,-80.186736,0.55571,2018-05-23,19:30:00,Coral Sky Amphitheatre at the South Florida Fairgrounds
+119,"Atlanta, GA, US","Jay Rock, Ab-Soul, SZA, ScHoolboy Q, and 2 more… at Cellairis Amphitheatre at Lakewood (May 25, 2018)",33.7042695,-84.396095,0.556298,2018-05-25,19:30:00,Cellairis Amphitheatre at Lakewood
+120,"Raleigh, NC, US","Ab-Soul, ScHoolboy Q, Sir, SZA, and 3 more… at Coastal Credit Union Music Park at Walnut Creek (May 26, 2018)",35.7493881,-78.5763028,0.556538,2018-05-26,19:30:00,Coastal Credit Union Music Park at Walnut Creek
+121,"Virginia Beach, VA, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Veterans United Home Loans Amphitheater (May 27, 2018)",36.7686679,-76.1019623,0.556748,2018-05-27,19:30:00,Veterans United Home Loans Amphitheater
+122,"New York, NY, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Madison Square Garden (May 29, 2018)",40.7497096,-73.991556,0.569659,2018-05-29,19:30:00,Madison Square Garden
+123,"Wantagh, NY, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Northwell Health at Jones Beach Theater (May 30, 2018)",40.6011406,-73.502518,0.557562,2018-05-30,19:30:00,Northwell Health at Jones Beach Theater
+124,"Bristow, VA, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Jiffy Lube Live (June 1, 2018)",38.786011,-77.587845,0.558163,2018-06-01,19:30:00,Jiffy Lube Live
+125,"Hershey, PA, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Hersheypark Stadium (June 2, 2018)",40.2926999,-76.6541182,0.55841,2018-06-02,19:30:00,Hersheypark Stadium
+126,"Darien Center, NY, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Darien Lake Amphitheater (June 3, 2018)",42.9282188,-78.3861121,0.558665,2018-06-03,19:30:00,Darien Lake Amphitheater
+127,"Mansfield, MA, US","Jay Rock, Sir, Ab-Soul, SZA, and 2 more… at Xfinity Center (June 5, 2018)",41.9944318,-71.2106493,0.212218,2018-06-05,19:30:00,Xfinity Center
+128,"Hartford, CT, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Xfinity Theatre (June 7, 2018)",41.7801718,-72.6693191,0.560029,2018-06-07,20:00:00,Xfinity Theatre
+129,"Camden, NJ, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at BB&T Pavilion (June 8, 2018)",40.0177386,-75.0004321,0.560304,2018-06-08,19:30:00,BB&T Pavilion
+130,"Saratoga Springs, NY, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Saratoga Performing Arts Center (SPAC) (June 9, 2018)",43.0553703,-73.8055707,0.560545,2018-06-09,19:30:00,Saratoga Performing Arts Center (SPAC)
+131,"Clarkston, MI, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at DTE Energy Music Theatre (June 13, 2018)",42.7510124,-83.380305,0.561743,2018-06-13,19:30:00,DTE Energy Music Theatre
+132,"Dover, DE, US",Firefly Music Festival 2018,39.15817,-75.52437,0.895067,2018-06-14,None,"The Woodlands, Dover International Speedway"
+133,"Tinley Park, IL, US","Kendrick Lamar with ScHoolboy Q, SZA, Jay Rock, and 3 more… at Hollywood Casino Amphitheatre (June 15, 2018)",41.5426102,-87.7711529,0.562366,2018-06-15,19:30:00,Hollywood Casino Amphitheatre
+134,"Burgettstown, PA, US","Jay Rock, Sir, Ab-Soul, SZA, and 3 more… at Keybank Pavilion (June 16, 2018)",40.4197818,-80.4342124,0.562637,2018-06-16,19:30:00,Keybank Pavilion
+135,"Los Angeles, CA, US","Chris Brown, SZA, and Ella Mai at Staples Center (June 22, 2018)",34.042984,-118.2668182,0.639535,2018-06-22,18:00:00,Staples Center
+136,"Cleveland, OH, US",InCuya Music Festival 2018,41.49932,-81.69436,0.19823,2018-08-25,None,Unknown venue
+137,"Seattle, WA, US",Bumbershoot 2018,47.62164,-122.3507,0.651402,2018-08-31,None,Seattle Center

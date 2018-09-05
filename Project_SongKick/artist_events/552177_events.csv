@@ -1,0 +1,240 @@
+Event Number,City,Event Name,Latitude,Longitude,Popularity,Start Date,Start Time,Venue
+1,"Lake Buena Vista, FL, US","Kanye West with John Legend at House of Blues (February 28, 2004)",28.3709021,-81.521728,0.715064,2004-02-28,None,House of Blues
+2,"West Hollywood, CA, US","Kanye West at House of Blues Sunset Strip (April 6, 2004)",34.0948759,-118.3736656,0.656803,2004-04-06,None,House of Blues Sunset Strip
+3,"Cincinnati, OH, US","Usher with Kanye West at US Bank Arena (August 17, 2004)",39.097929,-84.504088,0.656803,2004-08-17,None,US Bank Arena
+4,"Memphis, TN, US","Usher with Kanye West and Christina Milian at FedEx Forum (September 17, 2004)",35.1395093,-90.0517042,0.656803,2004-09-17,None,FedEx Forum
+5,"George, WA, US",Sasquatch! Music Festival 2005,47.0959471,-119.9826336,0.72753,2005-05-28,None,Gorge Amphitheatre
+6,"Philadelphia, PA, US",Live 8 2005,39.9525839,-75.1652215,0.818076,2005-07-02,None,Unknown venue
+7,"Philadelphia, PA, US",Live 8 Philadelphia 2005,39.9525839,-75.1652215,0.823665,2005-07-02,None,Unknown venue
+8,"Philadelphia, PA, US","Sharks With Wings with Kanye West and Heart2heart at Unknown venue (August 5, 2005)",39.9525839,-75.1652215,0.73657,2005-08-05,None,Unknown venue
+9,"Kingston, RI, US","Kanye West at Ryan Center, University of Rhode Island (October 26, 2005)",41.4877684,-71.5357485,0.656803,2005-10-26,None,"Ryan Center, University of Rhode Island"
+10,"Amherst, MA, US","Kanye West with Common, Fantasía, and Keyshia Cole at Mullins Center, U Mass (October 31, 2005)",42.3911245,-72.5331953,0.656803,2005-10-31,None,"Mullins Center, U Mass"
+11,"Murfreesboro, TN, US","Kanye West with Keyshia Cole at Murphy Center, MTSU (November 17, 2005)",35.8434555,-86.3706605,0.721479,2005-11-17,None,"Murphy Center, MTSU"
+12,"Omaha, NE, US","U2 with Kanye West at CenturyLink Center & Arena (December 15, 2005)",41.2637186,-95.9292658,0.977738,2005-12-15,None,CenturyLink Center & Arena
+13,"Portland, OR, US","U2 with Kanye West at Rose Garden Arena (December 19, 2005)",45.531608,-122.667285,0.906821,2005-12-19,None,Rose Garden Arena
+14,"Portland, OR, US","Kanye West at Unknown venue (December 19, 2005)",45.5230622,-122.6764816,0.73657,2005-12-19,None,Unknown venue
+15,"Indio, CA, US",Coachella 2006,33.72058,-116.21556,0.742714,2006-04-29,None,Unknown venue
+16,"Columbia, MD, US",HFStival 2006,39.20877,-76.86278,0.742175,2006-05-27,None,Merriweather Post Pavilion
+17,"Chicago, IL, US","John Legend with Kanye West and Common at House of Blues (July 20, 2006)",41.8882037,-87.6292039,0.733795,2006-07-20,None,House of Blues
+18,"Chicago, IL, US",Lollapalooza 2006,41.87811,-87.6298,0.743827,2006-08-04,None,Unknown venue
+19,"San Diego, CA, US",Street Scene 2006,32.71509,-117.1594,0.742714,2006-08-04,None,Unknown venue
+20,"New York, NY, US","Kanye West and John Legend at PlayStation Theater (August 29, 2006)",40.7576068,-73.9861364,0.728784,2006-08-29,None,PlayStation Theater
+21,"Seattle, WA, US",Bumbershoot 2006,47.60621,-122.33207,0.743827,2006-09-02,None,Unknown venue
+22,"Las Vegas, NV, US",Fusion Festival 2007,36.1699412,-115.1398296,0.73223,2007-02-13,None,Unknown venue
+23,"Camden, NJ, US","Kanye West with N.E.R.D. and Rihanna at BB&T Pavilion (May 17, 2007)",40.0177386,-75.0004321,0.904699,2007-05-17,None,BB&T Pavilion
+24,"East Rutherford, NJ, US","The Police with Fall Out Boy, John Mayer, Roger Waters, and 14 more… at Giants Stadium (July 7, 2007)",40.8116428,-74.0677452,0.728826,2007-07-07,None,Giants Stadium
+25,"Chicago, IL, US","Kanye West at House of Blues (August 24, 2007)",41.8882037,-87.6292039,0.733795,2007-08-24,17:30:00,House of Blues
+26,"Hollywood, CA, US","Kanye West at Jimmy Kimmel Live! (September 13, 2007)",34.101158,-118.340149,0.695646,2007-09-13,None,Jimmy Kimmel Live!
+27,"Nashville, TN, US","Kanye West at Memorial Gymnasium, Vanderbilt University (October 12, 2007)",36.1448738,-86.8067804,0.683988,2007-10-12,20:00:00,"Memorial Gymnasium, Vanderbilt University"
+28,"Philadelphia, PA, US","Kanye West with Rihanna, Akon, Ne-Yo, and 3 more… at Wachovia Spectrum Center (October 19, 2007)",39.9045537,-75.1736495,0.897226,2007-10-19,17:00:00,Wachovia Spectrum Center
+29,"Miami, FL, US","Kanye West with The Roots, Chromeo, and Kevens at Klipsch Amphitheater at Bayfront Park (November 10, 2007)",25.7774,-80.18787,0.742714,2007-11-10,11:11:11,Klipsch Amphitheater at Bayfront Park
+30,"Minneapolis, MN, US","Avril Lavigne and Good Charlotte with Kanye West, Timbaland, and 3 more… at Target Center (December 7, 2007)",44.979657,-93.274889,0.683988,2007-12-07,19:00:00,Target Center
+31,"Las Vegas, NV, US","Kanye West at Palms Casino Resort (December 31, 2007)",36.115378,-115.195341,0.683988,2007-12-31,21:30:00,Palms Casino Resort
+32,"New York, NY, US","A-Trak with Kanye West, The Cool Kids, and Kid Sister at American Museum of Natural History (January 25, 2008)",40.7820639,-73.9757465,0.701576,2008-01-25,None,American Museum of Natural History
+33,"Seattle, WA, US","Kanye West with N.E.R.D., E+, and R at KeyArena at Seattle Center (April 16, 2008)",47.6216358,-122.350699,0.732285,2008-04-16,19:00:00,KeyArena at Seattle Center
+34,"Sacramento, CA, US","Kanye West with N.E.R.D., E+, and R at Sleep Train Arena (April 18, 2008)",38.648005,-121.517077,0.685302,2008-04-18,19:00:00,Sleep Train Arena
+35,"San Jose, CA, US","Kanye West with Rihanna, N.E.R.D., and Lupe Fiasco at SAP Center at San Jose (April 19, 2008)",37.3325116,-121.9011855,0.906022,2008-04-19,19:00:00,SAP Center at San Jose
+36,"San Diego, CA, US","Kanye West with N.E.R.D., E+, and R at Valley View Casino Center (April 20, 2008)",32.7550767,-117.2117942,0.685302,2008-04-20,19:00:00,Valley View Casino Center
+37,"Los Angeles, CA, US","Kanye West with E+, R, Rihanna, and 2 more… at Microsoft Theater (April 21, 2008)",34.0442944,-118.2656014,0.893421,2008-04-21,19:30:00,Microsoft Theater
+38,"Los Angeles, CA, US","Kanye West with N.E.R.D., E+, and R at Microsoft Theater (April 22, 2008)",34.0442944,-118.2656014,0.720047,2008-04-22,19:30:00,Microsoft Theater
+39,"Tucson, AZ, US","Kanye West with Rihanna, Lupe Fiasco, and N.E.R.D. at University of Arizona (April 24, 2008)",32.2324638,-110.9517114,0.934769,2008-04-24,19:00:00,University of Arizona
+40,"Las Vegas, NV, US","Kanye West with N.E.R.D. at Red Rock Casino Resort & Spa (April 25, 2008)",36.1551327,-115.334816,0.685302,2008-04-25,19:30:00,Red Rock Casino Resort & Spa
+41,"Albuquerque, NM, US","Kanye West with N.E.R.D. and Lupe Fiasco at Hard Rock Pavilion (April 26, 2008)",34.9379864,-106.6623463,0.684506,2008-04-26,19:30:00,Hard Rock Pavilion
+42,"Denver, CO, US","Kanye West with Rihanna, N.E.R.D., Lupe Fiasco, and 2 more… at Pepsi Center (April 27, 2008)",39.745565,-105.010476,0.904676,2008-04-27,19:30:00,Pepsi Center
+43,"Oklahoma City, OK, US","Kanye West with N.E.R.D., E+, and R at Chesapeake Energy Arena (April 29, 2008)",35.463391,-97.514594,0.685302,2008-04-29,17:30:00,Chesapeake Energy Arena
+44,"Austin, TX, US","Kanye West with E+, R, Rihanna, and 2 more… at Frank Erwin Center, University of Texas (April 30, 2008)",30.276391,-97.732422,0.90017,2008-04-30,17:30:00,"Frank Erwin Center, University of Texas"
+45,"Dallas, TX, US","Kanye West with Rihanna, Lupe Fiasco, Pharrell Williams, and 3 more… at Gexa Energy Pavilion (May 1, 2008)",32.7740979,-96.7568521,0.90017,2008-05-01,19:00:00,Gexa Energy Pavilion
+46,"The Woodlands, TX, US","Kanye West with Rihanna, Lupe Fiasco, Pharrell Williams, and 3 more… at Cynthia Woods Mitchell Pavilion (May 2, 2008)",30.161593,-95.464029,0.90017,2008-05-02,19:00:00,Cynthia Woods Mitchell Pavilion
+47,"Duluth, GA, US","Kanye West with E+, R, Rihanna, and 2 more… at Infinite Energy Arena (May 4, 2008)",33.9914472,-84.0940303,0.904599,2008-05-04,19:30:00,Infinite Energy Arena
+48,"Tampa, FL, US","Kanye West with Rihanna, N.E.R.D., and Lupe Fiasco at Midflorida Credit Union Amphitheatre (May 5, 2008)",27.9896043,-82.3588746,0.900662,2008-05-05,16:30:00,Midflorida Credit Union Amphitheatre
+49,"Tampa, FL, US","Kanye West with N.E.R.D., E+, and R at Florida State Fairgrounds (May 5, 2008)",27.9896043,-82.3588746,0.685302,2008-05-05,19:00:00,Florida State Fairgrounds
+50,"West Palm Beach, FL, US","Kanye West at Coral Sky Amphitheatre at the South Florida Fairgrounds (May 6, 2008)",26.685477,-80.186736,0.731693,2008-05-06,16:30:00,Coral Sky Amphitheatre at the South Florida Fairgrounds
+51,"Miami, FL, US","Kanye West with Rihanna, Lupe Fiasco, E+, and 2 more… at AmericanAirlines Arena (May 6, 2008)",25.781232,-80.187805,0.906022,2008-05-06,19:00:00,AmericanAirlines Arena
+52,"Charlotte, NC, US","Kanye West at Verizon Wireless Amphitheatre (May 8, 2008)",35.327362,-80.7106699,0.684506,2008-05-08,16:30:00,Verizon Wireless Amphitheatre
+53,"Charlotte, NC, US","Kanye West with N.E.R.D., E+, and R at Time Warner Cable Arena (May 8, 2008)",35.2250606,-80.8393335,0.685302,2008-05-08,19:00:00,Time Warner Cable Arena
+54,"New York, NY, US","Kanye West with Lupe Fiasco and N.E.R.D. at Madison Square Garden (May 8, 2008)",40.7497096,-73.991556,0.736505,2008-05-08,19:30:00,Madison Square Garden
+55,"Raleigh, NC, US","Kanye West with Rihanna, N.E.R.D., Lupe Fiasco, and 2 more… at Time Warner Cable Music Pavilion at Walnut Creek (May 9, 2008)",35.7493881,-78.5763028,0.90017,2008-05-09,16:30:00,Time Warner Cable Music Pavilion at Walnut Creek
+56,"Bristow, VA, US","Kanye West with Rihanna, N.E.R.D., Lupe Fiasco, and 2 more… at Jiffy Lube Live (May 10, 2008)",38.786011,-77.587845,0.90017,2008-05-10,16:30:00,Jiffy Lube Live
+57,"Virginia Beach, VA, US","Kanye West with Rihanna, N.E.R.D., Lupe Fiasco, and 2 more… at Veterans United Home Loans Amphitheater (May 11, 2008)",36.7686679,-76.1019623,0.909892,2008-05-11,16:30:00,Veterans United Home Loans Amphitheater
+58,"New York, NY, US","Kanye West with Rihanna, Lupe Fiasco, N.E.R.D., and 2 more… at Madison Square Garden (May 13, 2008)",40.7497096,-73.991556,0.944995,2008-05-13,19:30:00,Madison Square Garden
+59,"Mansfield, MA, US","Kanye West with Rihanna, Lupe Fiasco, N.E.R.D., and 2 more… at Xfinity Center (May 15, 2008)",41.9944318,-71.2106493,0.90017,2008-05-15,17:30:00,Xfinity Center
+60,"Hartford, CT, US","Kanye West with Rihanna, N.E.R.D., and Lupe Fiasco at Xfinity Theatre (May 16, 2008)",41.7801718,-72.6693191,0.900662,2008-05-16,16:30:00,Xfinity Theatre
+61,"Camden, NJ, US","Kanye West with Rihanna, N.E.R.D., Lupe Fiasco, and 2 more… at BB&T Pavilion (May 17, 2008)",40.0177386,-75.0004321,0.904699,2008-05-17,19:00:00,BB&T Pavilion
+62,"Scranton, PA, US","Kanye West with Rihanna, N.E.R.D., Lupe Fiasco, and 2 more… at Pavilion at Montage Mountain (May 18, 2008)",41.3479758,-75.6638888,0.910337,2008-05-18,16:30:00,Pavilion at Montage Mountain
+63,"Camden, NJ, US","Kanye West with Rihanna, Lupe Fiasco, and N.E.R.D. at BB&T Pavilion (May 19, 2008)",40.0177386,-75.0004321,0.904699,2008-05-19,None,BB&T Pavilion
+64,"Auburn Hills, MI, US","Kanye West with Rihanna, N.E.R.D., Lupe Fiasco, and 2 more… at The Palace of Auburn Hills (May 22, 2008)",42.696511,-83.2437214,0.90017,2008-05-22,19:00:00,The Palace of Auburn Hills
+65,"Chicago, IL, US","Kanye West with Rihanna, N.E.R.D., Lupe Fiasco, and 2 more… at United Center (May 23, 2008)",41.8812601,-87.674145,0.90017,2008-05-23,19:00:00,United Center
+66,"Minneapolis, MN, US","Kanye West with Rihanna, N.E.R.D., Lupe Fiasco, and 1 more… at Target Center (May 24, 2008)",44.979657,-93.274889,0.90017,2008-05-24,17:30:00,Target Center
+67,"Chicago, IL, US","Kanye West with Rihanna, N.E.R.D., and Lupe Fiasco at United Center (May 24, 2008)",41.8812601,-87.674145,0.900662,2008-05-24,19:00:00,United Center
+68,"Fargo, ND, US","Kanye West with N.E.R.D. at Fargodome (May 25, 2008)",46.902928,-96.801762,0.685302,2008-05-25,19:30:00,Fargodome
+69,"East Rutherford, NJ, US","Kanye West at Giants Stadium (June 1, 2008)",40.8116428,-74.0677452,0.733637,2008-06-01,None,Giants Stadium
+70,"Portland, OR, US","Kanye West with Lupe Fiasco and N.E.R.D. at Rose Garden Arena (June 3, 2008)",45.531608,-122.667285,0.684506,2008-06-03,19:00:00,Rose Garden Arena
+71,"Portland, OR, US","Kanye West at Unknown venue (June 3, 2008)",45.5230622,-122.6764816,0.73657,2008-06-03,None,Unknown venue
+72,"Reno, NV, US","Kanye West with Rihanna, N.E.R.D., and Lupe Fiasco at Reno Events Center (June 5, 2008)",39.5309239,-119.8122604,0.90017,2008-06-05,20:00:00,Reno Events Center
+73,"San Jose, CA, US","Kanye West with Rihanna, Lupe Fiasco, and N.E.R.D. at SAP Center at San Jose (June 6, 2008)",37.3325116,-121.9011855,0.906022,2008-06-06,19:00:00,SAP Center at San Jose
+74,"Los Angeles, CA, US","Kanye West with Rihanna, Lupe Fiasco, and N.E.R.D. at Staples Center (June 7, 2008)",34.042984,-118.2668182,0.900662,2008-06-07,19:30:00,Staples Center
+75,"Glendale, AZ, US","Kanye West with N.E.R.D. at Gila River Arena (June 8, 2008)",33.5314673,-112.2609115,0.714034,2008-06-08,19:00:00,Gila River Arena
+76,"West Valley City, UT, US","Kanye West with N.E.R.D. at Maverik Center (June 9, 2008)",40.70285,-111.950616,0.685302,2008-06-09,19:00:00,Maverik Center
+77,"Minneapolis, MN, US","Kanye West with Rihanna, N.E.R.D., and Lupe Fiasco at Target Center (June 11, 2008)",44.979657,-93.274889,0.90017,2008-06-11,19:00:00,Target Center
+78,"Moline, IL, US","Kanye West with Rihanna, N.E.R.D., and Lupe Fiasco at iWireless Center (June 12, 2008)",41.5067817,-90.5214756,0.904568,2008-06-12,19:00:00,iWireless Center
+79,"Portland, OR, US","Kanye West at Rose Garden Arena (July 3, 2008)",45.531608,-122.667285,0.684506,2008-07-03,19:00:00,Rose Garden Arena
+80,"Cincinnati, OH, US","Kanye West with N.E.R.D. and Lupe Fiasco at US Bank Arena (August 1, 2008)",39.097929,-84.504088,0.656803,2008-08-01,None,US Bank Arena
+81,"Chicago, IL, US",Lollapalooza 2008,41.87811,-87.6298,0.742714,2008-08-01,23:59:20,Unknown venue
+82,"New York, NY, US","Kanye West with Lupe Fiasco and N.E.R.D. at Madison Square Garden (August 5, 2008)",40.7497096,-73.991556,0.736505,2008-08-05,23:59:20,Madison Square Garden
+83,"New York, NY, US","Kanye West with Lupe Fiasco and N.E.R.D. at Madison Square Garden (August 6, 2008)",40.7497096,-73.991556,0.736505,2008-08-06,19:30:00,Madison Square Garden
+84,"Mashantucket, CT, US","Kanye West with N.E.R.D. at Foxwoods Casino & Resort (August 7, 2008)",41.4741796,-71.9604722,0.732038,2008-08-07,20:00:00,Foxwoods Casino & Resort
+85,"Baltimore, MD, US",Virgin Mobile Festival 2008,39.29038,-76.61219,0.742714,2008-08-09,None,Unknown venue
+86,"Baltimore, MD, US",Virgin Mobile Festival 2008 2008,39.34917,-76.67596,0.742714,2008-08-09,None,Pimlico Race Course
+87,"Los Angeles, CA, US","Kanye West at Paramount Studios (September 7, 2008)",34.0834932,-118.3217417,0.656803,2008-09-07,None,Paramount Studios
+88,"San Francisco, CA, US","Kanye West with Mos Def at The Fillmore (October 21, 2008)",37.7842566,-122.4332961,0.656803,2008-10-21,None,The Fillmore
+89,"Universal City, CA, US","Kanye West with T.I. and Busta Rhymes at Universal CityWalk (December 9, 2008)",34.1380075,-118.3532429,0.7408,2008-12-09,19:15:00,Universal CityWalk
+90,"Universal City, CA, US","The Cure, Staind, and Stone Temple Pilots with Death Cab for Cutie and 7 more… at Gibson Amphitheatre, Universal Studios Hollywood (December 14, 2008)",34.1380075,-118.3532429,0.734404,2008-12-14,00:00:00,"Gibson Amphitheatre, Universal Studios Hollywood"
+91,"Los Angeles, CA, US",KROQ Almost Acoustic Christmas 2008,34.10885,-118.2234229,0.734404,2008-12-14,None,Unknown venue
+92,"Chicago, IL, US","Kanye West and Lady Gaga at United Center (January 16, 2009)",41.8812601,-87.674145,0.735016,2009-01-16,00:00:00,United Center
+93,"Austin, TX, US","Kanye West with Kid Cudi, Common, and Erykah Badu at Fader Fort (March 21, 2009)",30.263221,-97.73165,0.656803,2009-03-21,None,Fader Fort
+94,"Chicago, IL, US","Kanye West at Chicago Theatre (June 11, 2009)",41.88537,-87.627457,0.684506,2009-06-11,20:30:00,Chicago Theatre
+95,"Atlanta, GA, US","blast from the past and Lady Gaga with Dru Hill and Kanye West at Philips Arena (December 11, 2009)",33.7570952,-84.3971653,0.735016,2009-12-11,20:00:00,Philips Arena
+96,"Washington, DC, US","Lady Gaga and Kanye West at Verizon Center (December 30, 2009)",38.8975641,-77.0210577,0.735016,2009-12-30,20:00:00,Verizon Center
+97,"Houston, TX, US","Kanye West and Lady Gaga at Toyota Center (January 22, 2010)",29.7519787,-95.3621823,0.735016,2010-01-22,20:00:00,Toyota Center
+98,"New York, NY, US","Kanye West with Bon Iver, Rick Ross, Nicki Minaj, and 4 more… at The Bowery Ballroom (November 23, 2010)",40.7203623,-73.9935389,0.701576,2010-11-23,None,The Bowery Ballroom
+99,"Austin, TX, US",SXSW 2011,30.26715,-97.74306,0.743668,2011-03-11,12:00:00,Unknown venue
+100,"Indio, CA, US",Coachella 2011,33.72058,-116.21556,0.742714,2011-04-15,23:59:20,Unknown venue
+101,"Milwaukee, WI, US","Kanye West with Kid Cudi at American Family Insurance Amphitheater (June 30, 2011)",43.0344936,-87.8993557,0.737935,2011-06-30,19:30:00,American Family Insurance Amphitheater
+102,"Milwaukee, WI, US",SummerFest 2011,43.0824328,-87.879523,0.737047,2011-06-30,None,Unknown venue
+103,"New Orleans, LA, US",Essence Music Festival 2011,29.9516701,-90.0784038,0.727251,2011-07-01,19:00:00,Mercedes-Benz Superdome
+104,"Austin, TX, US",Austin City Limits Music Festival 2011,30.2679,-97.77218,1.0,2011-09-16,23:59:00,Zilker Park
+105,"Auburn Hills, MI, US","Jay-Z and Kanye West at The Palace of Auburn Hills (September 22, 2011)",42.696511,-83.2437214,0.719967,2011-09-22,18:30:00,The Palace of Auburn Hills
+106,"East Rutherford, NJ, US","Jay-Z and Kanye West at Izod Center (September 27, 2011)",40.8129701,-74.0701818,0.719967,2011-09-27,18:30:00,Izod Center
+107,"East Rutherford, NJ, US","Jay-Z and Kanye West at Izod Center (September 28, 2011)",40.8129701,-74.0701818,0.719967,2011-09-28,18:30:00,Izod Center
+108,"Washington, DC, US","Jay-Z and Kanye West at Verizon Center (September 29, 2011)",38.8975641,-77.0210577,0.719967,2011-09-29,18:00:00,Verizon Center
+109,"Philadelphia, PA, US","Jay-Z and Kanye West at Wells Fargo Center (October 4, 2011)",39.9042715,-75.1713324,0.719967,2011-10-04,18:30:00,Wells Fargo Center
+110,"Chicago, IL, US","Jay-Z and Kanye West at United Center (October 6, 2011)",41.8812601,-87.674145,0.719967,2011-10-06,18:30:00,United Center
+111,"San Jose, CA, US","Jay-Z and Kanye West at SAP Center at San Jose (October 16, 2011)",37.3325116,-121.9011855,0.732285,2011-10-16,18:30:00,SAP Center at San Jose
+112,"Sacramento, CA, US","Jay-Z and Kanye West at Sleep Train Arena (October 17, 2011)",38.648005,-121.517077,0.719967,2011-10-17,18:30:00,Sleep Train Arena
+113,"Los Angeles, CA, US","Jay-Z and Kanye West at Staples Center (October 19, 2011)",34.042984,-118.2668182,0.719967,2011-10-19,15:30:00,Staples Center
+114,"Las Vegas, NV, US","Jay-Z and Kanye West at MGM Grand Hotel & Casino (October 21, 2011)",36.1030179,-115.1676888,0.719967,2011-10-21,18:30:00,MGM Grand Hotel & Casino
+115,"Atlanta, GA, US","Jay-Z and Kanye West at Philips Arena (October 28, 2011)",33.7570952,-84.3971653,0.719967,2011-10-28,19:30:00,Philips Arena
+116,"Atlanta, GA, US","Jay-Z and Kanye West at Philips Arena (October 29, 2011)",33.7570952,-84.3971653,0.719967,2011-10-29,None,Philips Arena
+117,"Greensboro, NC, US","Kanye West and Jay-Z at Greensboro Coliseum Complex (October 30, 2011)",36.0597573,-79.8256684,0.719967,2011-10-30,None,Greensboro Coliseum Complex
+118,"Baltimore, MD, US","Jay-Z and Kanye West at Royal Farms Arena (November 1, 2011)",39.2884951,-76.6186943,0.719967,2011-11-01,19:30:00,Royal Farms Arena
+119,"Philadelphia, PA, US","Kanye West and Jay-Z at Wells Fargo Center (November 2, 2011)",39.9042715,-75.1713324,0.719967,2011-11-02,None,Wells Fargo Center
+120,"Washington, DC, US","Kanye West and Jay-Z at Verizon Center (November 3, 2011)",38.8975641,-77.0210577,0.719967,2011-11-03,None,Verizon Center
+121,"East Rutherford, NJ, US","Kanye West with Jay-Z at Izod Center (November 5, 2011)",40.8129701,-74.0701818,0.719967,2011-11-05,19:30:00,Izod Center
+122,"East Rutherford, NJ, US","Jay-Z and Kanye West at Izod Center (November 6, 2011)",40.8129701,-74.0701818,0.719967,2011-11-06,19:30:00,Izod Center
+123,"New York, NY, US","Jay-Z and Kanye West at Madison Square Garden (November 7, 2011)",40.7497096,-73.991556,0.736505,2011-11-07,03:30:00,Madison Square Garden
+124,"New York, NY, US","Jay-Z and Kanye West at Madison Square Garden (November 8, 2011)",40.7497096,-73.991556,0.736505,2011-11-08,None,Madison Square Garden
+125,"Sunrise, FL, US","Jay-Z and Kanye West at BB&T Center (November 14, 2011)",26.155362,-80.33023,0.719967,2011-11-14,19:30:00,BB&T Center
+126,"Miami, FL, US","Jay-Z and Kanye West at AmericanAirlines Arena (November 15, 2011)",25.781232,-80.187805,0.732285,2011-11-15,19:30:00,AmericanAirlines Arena
+127,"Uncasville, CT, US","Jay-Z and Kanye West at Mohegan Sun Arena (November 18, 2011)",41.4917338,-72.0909173,0.719967,2011-11-18,19:30:00,Mohegan Sun Arena
+128,"Atlantic City, NJ, US","Jay-Z and Kanye West at Boardwalk Hall (November 19, 2011)",39.354905,-74.438391,0.719967,2011-11-19,19:30:00,Boardwalk Hall
+129,"Boston, MA, US","Kanye West and Jay-Z at TD Garden (November 21, 2011)",42.3661881,-71.0621482,0.719967,2011-11-21,18:30:00,TD Garden
+130,"Auburn Hills, MI, US","Jay-Z and Kanye West at The Palace of Auburn Hills (November 26, 2011)",42.696511,-83.2437214,0.719967,2011-11-26,None,The Palace of Auburn Hills
+131,"Pittsburgh, PA, US","Jay-Z and Kanye West at PPG Paints Arena (November 27, 2011)",40.4395932,-79.9889352,0.744413,2011-11-27,03:30:00,PPG Paints Arena
+132,"Kansas City, MO, US","Jay-Z and Kanye West at Sprint Center (November 29, 2011)",39.0971547,-94.5810277,0.719967,2011-11-29,19:30:00,Sprint Center
+133,"Chicago, IL, US","Jay-Z and Kanye West at United Center (November 30, 2011)",41.8812601,-87.674145,0.719967,2011-11-30,03:30:00,United Center
+134,"Chicago, IL, US","Kanye West and Jay-Z at United Center (December 1, 2011)",41.8812601,-87.674145,0.719967,2011-12-01,19:30:00,United Center
+135,"New Orleans, LA, US","Jay-Z and Kanye West at New Orleans Arena (December 3, 2011)",29.9519059,-90.0795886,0.719967,2011-12-03,19:30:00,New Orleans Arena
+136,"Houston, TX, US","Jay-Z and Kanye West at Toyota Center (December 5, 2011)",29.7519787,-95.3621823,0.719967,2011-12-05,None,Toyota Center
+137,"Dallas, TX, US","Kanye West and Jay-Z at American Airlines Center (December 6, 2011)",32.790442,-96.810159,0.719967,2011-12-06,19:30:00,American Airlines Center
+138,"Las Vegas, NV, US","Kanye West and Jay-Z at Garden Arena - MGM Grand (December 9, 2011)",36.1022507,-115.1699679,0.734114,2011-12-09,19:30:00,Garden Arena - MGM Grand
+139,"Los Angeles, CA, US","Jay-Z and Kanye West at Staples Center (December 11, 2011)",34.042984,-118.2668182,0.719967,2011-12-11,19:30:00,Staples Center
+140,"Los Angeles, CA, US","Kanye West and Jay-Z at Staples Center (December 12, 2011)",34.042984,-118.2668182,0.719967,2011-12-12,None,Staples Center
+141,"Los Angeles, CA, US","Jay-Z and Kanye West at Staples Center (December 13, 2011)",34.042984,-118.2668182,0.719967,2011-12-13,03:30:00,Staples Center
+142,"San Jose, CA, US","Kanye West and Jay-Z at SAP Center at San Jose (December 14, 2011)",37.3325116,-121.9011855,0.732285,2011-12-14,19:30:00,SAP Center at San Jose
+143,"Tacoma, WA, US","Jay-Z and Kanye West at Tacoma Dome (December 16, 2011)",47.23634,-122.426834,0.719967,2011-12-16,19:30:00,Tacoma Dome
+144,"Atlantic City, NJ, US","Kanye West at Revel Ovation Hall (July 6, 2012)",39.3722269,-74.4497173,0.684506,2012-07-06,21:00:00,Revel Ovation Hall
+145,"Atlantic City, NJ, US","Kanye West at Revel Ovation Hall (July 7, 2012)",39.3722269,-74.4497173,0.684506,2012-07-07,21:00:00,Revel Ovation Hall
+146,"Philadelphia, PA, US",Budweiser Made in America Festival 2012,39.96021,-75.17355,0.844363,2012-09-01,12:00:00,Benjamin Franklin Parkway
+147,"New York, NY, US",12.12.12: The Concert For Sandy Relief 2012,40.7497096,-73.991556,0.736505,2012-12-12,19:30:00,Madison Square Garden
+148,"Atlantic City, NJ, US","Kanye West at Revel Ovation Hall (December 28, 2012)",39.3722269,-74.4497173,0.684506,2012-12-28,22:00:00,Revel Ovation Hall
+149,"Atlantic City, NJ, US","Kanye West with Alesso and Otto Knows at Revel Ovation Hall (December 29, 2012)",39.3722269,-74.4497173,0.724081,2012-12-29,22:00:00,Revel Ovation Hall
+150,"Atlantic City, NJ, US","Kanye West with Kaskade at Revel Ovation Hall (December 30, 2012)",39.3722269,-74.4497173,0.684506,2012-12-30,22:00:00,Revel Ovation Hall
+151,"New York, NY, US",The Governors Ball Music Festival 2013,40.78377,-73.92567,0.743827,2013-06-07,12:00:00,Randall's Island
+152,"Seattle, WA, US","Kanye West with Kendrick Lamar at KeyArena at Seattle Center (October 19, 2013)",47.6216358,-122.350699,0.732285,2013-10-19,None,KeyArena at Seattle Center
+153,"San Jose, CA, US","Kanye West with Kendrick Lamar at SAP Center at San Jose (October 22, 2013)",37.3325116,-121.9011855,0.732285,2013-10-22,None,SAP Center at San Jose
+154,"Oakland, CA, US","Kanye West with Kendrick Lamar at Oracle Arena (October 23, 2013)",37.7515541,-122.2015715,0.701576,2013-10-23,19:30:00,Oracle Arena
+155,"Las Vegas, NV, US","Kanye West at Garden Arena - MGM Grand (October 25, 2013)",36.1022507,-115.1699679,0.734114,2013-10-25,None,Garden Arena - MGM Grand
+156,"Los Angeles, CA, US","Kanye West with Kendrick Lamar at Staples Center (October 26, 2013)",34.042984,-118.2668182,0.701576,2013-10-26,20:00:00,Staples Center
+157,"Los Angeles, CA, US","Kanye West with Kendrick Lamar at Staples Center (October 28, 2013)",34.042984,-118.2668182,0.701576,2013-10-28,19:30:00,Staples Center
+158,"Salt Lake City, UT, US","Kanye West with Kendrick Lamar at Vivint Smart Home Arena (November 1, 2013)",40.7677204,-111.9011271,0.730942,2013-11-01,None,Vivint Smart Home Arena
+159,"Chicago, IL, US","Kanye West with Kendrick Lamar at United Center (November 7, 2013)",41.8812601,-87.674145,0.701576,2013-11-07,None,United Center
+160,"Auburn Hills, MI, US","Kanye West with Kendrick Lamar at The Palace of Auburn Hills (November 10, 2013)",42.696511,-83.2437214,0.701576,2013-11-10,None,The Palace of Auburn Hills
+161,"Philadelphia, PA, US","Kanye West at Wells Fargo Center (November 16, 2013)",39.9042715,-75.1713324,0.684506,2013-11-16,20:00:00,Wells Fargo Center
+162,"Boston, MA, US","Kanye West with Kendrick Lamar at TD Garden (November 17, 2013)",42.3661881,-71.0621482,0.701576,2013-11-17,None,TD Garden
+163,"Brooklyn, NY, US","Kanye West with Kendrick Lamar at Barclays Center (November 19, 2013)",40.6834879,-73.9760265,0.701576,2013-11-19,None,Barclays Center
+164,"Brooklyn, NY, US","Kanye West at Barclays Center (November 20, 2013)",40.6834879,-73.9760265,0.650923,2013-11-20,None,Barclays Center
+165,"Washington, DC, US","Kanye West with Kendrick Lamar at Verizon Center (November 21, 2013)",38.8975641,-77.0210577,0.701576,2013-11-21,None,Verizon Center
+166,"New York, NY, US","Kanye West at Madison Square Garden (November 23, 2013)",40.7497096,-73.991556,0.736505,2013-11-23,None,Madison Square Garden
+167,"New York, NY, US","Kanye West at Madison Square Garden (November 24, 2013)",40.7497096,-73.991556,0.736505,2013-11-24,None,Madison Square Garden
+168,"Nashville, TN, US","Kanye West with Kendrick Lamar at Bridgestone Arena (November 27, 2013)",36.159949,-86.77857,0.701576,2013-11-27,19:30:00,Bridgestone Arena
+169,"Miami, FL, US","Kanye West with Kendrick Lamar at AmericanAirlines Arena (November 29, 2013)",25.781232,-80.187805,0.732285,2013-11-29,None,AmericanAirlines Arena
+170,"Tampa, FL, US","Kanye West at Amalie Arena (November 30, 2013)",27.9425879,-82.4519634,0.702953,2013-11-30,None,Amalie Arena
+171,"Atlanta, GA, US","Kanye West with Kendrick Lamar at Philips Arena (December 1, 2013)",33.7570952,-84.3971653,0.701576,2013-12-01,None,Philips Arena
+172,"Kansas City, MO, US","Kanye West with Kendrick Lamar at Sprint Center (December 3, 2013)",39.0971547,-94.5810277,0.701576,2013-12-03,20:00:00,Sprint Center
+173,"New Orleans, LA, US","Kanye West with Kendrick Lamar at New Orleans Arena (December 5, 2013)",29.9519059,-90.0795886,0.701576,2013-12-05,19:00:00,New Orleans Arena
+174,"Dallas, TX, US","Kanye West with Kendrick Lamar at American Airlines Center (December 6, 2013)",32.790442,-96.810159,0.73431,2013-12-06,None,American Airlines Center
+175,"Houston, TX, US","Kanye West with Kendrick Lamar at Toyota Center (December 7, 2013)",29.7519787,-95.3621823,0.701576,2013-12-07,20:00:00,Toyota Center
+176,"San Antonio, TX, US","Kanye West with Kendrick Lamar at AT&T Center (December 8, 2013)",29.4270165,-98.4373167,0.701576,2013-12-08,19:00:00,AT&T Center
+177,"Phoenix, AZ, US","Kanye West and Kendrick Lamar at Talking Stick Resort Arena (December 10, 2013)",33.445899,-112.071313,0.713183,2013-12-10,19:00:00,Talking Stick Resort Arena
+178,"Anaheim, CA, US","Kanye West at Honda Center (December 13, 2013)",33.807723,-117.876522,0.684506,2013-12-13,20:00:00,Honda Center
+179,"Chicago, IL, US","Kanye West at United Center (December 17, 2013)",41.8812601,-87.674145,0.732362,2013-12-17,None,United Center
+180,"University Park, PA, US","Kanye West at Bryce Jordan Center (February 13, 2014)",40.8035111,-77.8666435,0.667945,2014-02-13,None,Bryce Jordan Center
+181,"Baltimore, MD, US","Kanye West at Royal Farms Arena (February 14, 2014)",39.2884951,-76.6186943,0.695237,2014-02-14,None,Royal Farms Arena
+182,"Newark, NJ, US","Kanye West at Prudential Center (February 15, 2014)",40.733747,-74.170268,0.74474,2014-02-15,None,Prudential Center
+183,"Albany, NY, US","Kanye West at Times Union Center (February 19, 2014)",42.64834,-73.753957,0.667945,2014-02-19,None,Times Union Center
+184,"Uncasville, CT, US","Kanye West at Mohegan Sun Arena (February 21, 2014)",41.4917338,-72.0909173,0.719725,2014-02-21,None,Mohegan Sun Arena
+185,"Atlantic City, NJ, US","Kanye West at Boardwalk Hall (February 22, 2014)",39.354905,-74.438391,0.669063,2014-02-22,None,Boardwalk Hall
+186,"Uniondale, NY, US","Kanye West at NYCB LIVE: Home of the Nassau Veterans Memorial Coliseum (February 23, 2014)",40.7228919,-73.5905136,0.735757,2014-02-23,20:00:00,NYCB LIVE: Home of the Nassau Veterans Memorial Coliseum
+187,"Austin, TX, US",X Games 2014,30.13293,-97.6406811,0.726813,2014-06-05,11:15:00,Austin360 Amphitheater
+188,"Manchester, TN, US",Bonnaroo Music & Arts Festival 2014,35.47811,-86.04642,0.743435,2014-06-12,12:00:00,Great Stage Park
+189,"San Francisco, CA, US",Outside Lands Music & Arts Festival 2014,37.78229,-122.46371,0.742714,2014-08-08,23:59:00,Golden Gate Park
+190,"Philadelphia, PA, US",Made in America Festival 2014,39.96021,-75.17355,0.742714,2014-08-30,12:00:00,Benjamin Franklin Parkway
+191,"Los Angeles, CA, US",Made in America Festival 2014,34.0547,-118.24282,0.739801,2014-08-30,12:00:00,Grand Park
+192,"Las Vegas, NV, US",Life is Beautiful Festival 2014,36.16994,-115.13983,0.742312,2014-10-24,13:00:00,Unknown venue
+193,"Carson, CA, US","Kanye West with Calvin Harris, David Guetta, Meghan Trainor, and 6 more… at StubHub Center (May 9, 2015)",33.86331,-118.266,0.738879,2015-05-09,15:00:00,StubHub Center
+194,"Anaheim, CA, US","Kanye West, Ludacris, Kid Ink, Tech N9ne, and 5 more… at Honda Center (May 16, 2015)",33.80772,-117.87652,0.739975,2015-05-16,19:00:00,Honda Center
+195,"Las Vegas, NV, US",Billboard Music Awards 2015,36.1022507,-115.1699679,0.734957,2015-05-17,15:30:00,Garden Arena - MGM Grand
+196,"Atlanta, GA, US","Ludacris, Wale, Rae Sremmurd, Migos, and 3 more… at Philips Arena (June 20, 2015)",33.7570952,-84.3971653,0.729834,2015-06-20,19:00:00,Philips Arena
+197,"Minneapolis, MN, US","Kanye West, Kesha, Ciara, Keke Palmer, and 4 more… at TCF Bank Stadium (July 3, 2015)",44.977032,-93.2296439,0.724575,2015-07-03,None,TCF Bank Stadium
+198,"Los Angeles, CA, US",FYF Festival 2015,34.0126,-118.28456,0.74287,2015-08-22,None,Exposition Park
+199,"Las Vegas, NV, US",iHeartRadio Music Festival 2015,36.10225,-115.16997,1.0,2015-09-18,11:00:00,Garden Arena - MGM Grand
+200,"Tempe, AZ, US",Summer Ends Music Festival 2015,33.431585,-111.943034,0.731634,2015-09-24,20:00:00,Tempe Beach Park
+201,"Los Angeles, CA, US","Kanye West at Hollywood Bowl (September 25, 2015)",34.113088,-118.339373,0.728007,2015-09-25,20:00:00,Hollywood Bowl
+202,"Los Angeles, CA, US","Kanye West at Hollywood Bowl (September 26, 2015)",34.113088,-118.339373,0.728095,2015-09-26,20:00:00,Hollywood Bowl
+203,"New York, NY, US","Kanye West at Madison Square Garden (February 11, 2016)",40.7497096,-73.991556,0.736505,2016-02-11,16:00:00,Madison Square Garden
+204,"New York, NY, US",The Governors Ball Music Festival 2016,40.78377,-73.92567,0.743169,2016-06-03,None,Randall's Island
+205,"Indianapolis, IN, US","Kanye West at Bankers Life Fieldhouse (August 25, 2016)",39.7640468,-86.1554765,0.742325,2016-08-25,None,Bankers Life Fieldhouse
+206,"Buffalo, NY, US","Kanye West at KeyBank Center (August 27, 2016)",42.8749473,-78.8762459,0.74334,2016-08-27,None,KeyBank Center
+207,"Boston, MA, US","Kanye West at TD Garden (September 3, 2016)",42.3661881,-71.0621482,0.742608,2016-09-03,None,TD Garden
+208,"New York, NY, US","Kanye West at Madison Square Garden (September 5, 2016)",40.7497096,-73.991556,0.736505,2016-09-05,None,Madison Square Garden
+209,"New York, NY, US","Kanye West at Madison Square Garden (September 6, 2016)",40.7497096,-73.991556,0.736505,2016-09-06,None,Madison Square Garden
+210,"Washington, DC, US","Kanye West at Verizon Center (September 8, 2016)",38.8975641,-77.0210577,0.742771,2016-09-08,None,Verizon Center
+211,"Atlanta, GA, US","Kanye West at Philips Arena (September 12, 2016)",33.7570952,-84.3971653,0.742928,2016-09-12,None,Philips Arena
+212,"Tampa, FL, US","Kanye West at Amalie Arena (September 14, 2016)",27.9425879,-82.4519634,0.743082,2016-09-14,None,Amalie Arena
+213,"Miami, FL, US","Kanye West at AmericanAirlines Arena (September 16, 2016)",25.781232,-80.187805,0.743229,2016-09-16,None,AmericanAirlines Arena
+214,"Miami, FL, US","Kanye West at AmericanAirlines Arena (September 17, 2016)",25.781232,-80.187805,0.743223,2016-09-17,None,AmericanAirlines Arena
+215,"Houston, TX, US","Kanye West at Toyota Center (September 20, 2016)",29.7519787,-95.3621823,0.74334,2016-09-20,None,Toyota Center
+216,"Austin, TX, US","Kanye West at Frank Erwin Center, University of Texas (September 21, 2016)",30.276391,-97.732422,0.743439,2016-09-21,None,"Frank Erwin Center, University of Texas"
+217,"Dallas, TX, US","Kanye West at American Airlines Center (September 22, 2016)",32.790442,-96.810159,0.743511,2016-09-22,None,American Airlines Center
+218,"Nashville, TN, US","Kanye West at Bridgestone Arena (September 24, 2016)",36.159949,-86.77857,0.74366,2016-09-24,None,Bridgestone Arena
+219,"Columbus, OH, US","Kanye West at Value City Arena, Schottenstein Center (September 25, 2016)",40.0080079,-83.0249081,0.743704,2016-09-25,None,"Value City Arena, Schottenstein Center"
+220,"Detroit, MI, US","Kanye West at Joe Louis Arena (September 28, 2016)",42.3251899,-83.051362,0.743928,2016-09-28,None,Joe Louis Arena
+221,"University Park, PA, US","Kanye West at Bryce Jordan Center (September 30, 2016)",40.8035111,-77.8666435,0.744118,2016-09-30,None,Bryce Jordan Center
+222,"Cleveland, OH, US","Kanye West at Quicken Loans Arena (October 1, 2016)",41.4967035,-81.6894825,0.744154,2016-10-01,None,Quicken Loans Arena
+223,"Flushing, NY, US",The Meadows Music Festival 2016,40.75537,-73.84322,0.742714,2016-10-01,None,Citi Field
+224,"Chicago, IL, US","Kanye West at United Center (October 7, 2016)",41.8812601,-87.674145,0.744489,2016-10-07,None,United Center
+225,"Rosemont, IL, US","Kanye West at Allstate Arena (October 8, 2016)",42.0047854,-87.8878325,0.744493,2016-10-08,None,Allstate Arena
+226,"St. Paul, MN, US","Kanye West at Xcel Energy Center (October 10, 2016)",44.9434383,-93.1001467,0.744577,2016-10-10,None,Xcel Energy Center
+227,"Seattle, WA, US","Kanye West at KeyArena at Seattle Center (October 19, 2016)",47.6216358,-122.350699,0.744933,2016-10-19,None,KeyArena at Seattle Center
+228,"Oakland, CA, US","Kanye West at Oracle Arena (October 22, 2016)",37.7515541,-122.2015715,0.74504,2016-10-22,None,Oracle Arena
+229,"Oakland, CA, US","Kanye West at Oracle Arena (October 23, 2016)",37.7515541,-122.2015715,0.745039,2016-10-23,None,Oracle Arena
+230,"Inglewood, CA, US","Kanye West at The Forum (October 25, 2016)",33.9582047,-118.3405316,0.745127,2016-10-25,None,The Forum
+231,"Inglewood, CA, US","Kanye West at The Forum (October 26, 2016)",33.9582047,-118.3405316,0.745175,2016-10-26,None,The Forum
+232,"Inglewood, CA, US","Kanye West at The Forum (October 27, 2016)",33.9582047,-118.3405316,0.745279,2016-10-27,None,The Forum
+233,"Las Vegas, NV, US","Kanye West at T-Mobile Arena (October 29, 2016)",36.103518,-115.173592,0.745318,2016-10-29,None,T-Mobile Arena
+234,"Inglewood, CA, US","Kanye West at The Forum (November 1, 2016)",33.9582047,-118.3405316,0.745456,2016-11-01,20:00:00,The Forum
+235,"Inglewood, CA, US","Kanye West at The Forum (November 2, 2016)",33.9582047,-118.3405316,0.745579,2016-11-02,20:00:00,The Forum
+236,"Inglewood, CA, US","Kanye West at The Forum (November 3, 2016)",33.9582047,-118.3405316,0.745638,2016-11-03,20:00:00,The Forum
+237,"San Jose, CA, US","Kanye West at SAP Center at San Jose (November 17, 2016)",37.3325116,-121.9011855,0.746702,2016-11-17,21:00:00,SAP Center at San Jose
+238,"Sacramento, CA, US","Kanye West at Golden 1 Center (November 19, 2016)",38.580335,-121.500384,0.746731,2016-11-19,21:00:00,Golden 1 Center
+239,"Inglewood, CA, US","Kanye West at The Forum (November 20, 2016)",33.9582047,-118.3405316,0.746663,2016-11-20,20:00:00,The Forum
