@@ -2,18 +2,24 @@
 var tableData = data;
 
 // YOUR CODE HERE!
-var filterButton = d3.select('#filter-btn')
+var filterButton = d3.selectAll('#filter-btn')
+var table = d3.select("tbody");
+
+function createData(data){
+    table.html("")
+    data.forEach(function(info){
+        var row = table.append("tr");
+        Object.entries(info).forEach(function ([key, value]) {
+            var cell = row.append("td");
+            cell.text(value);
+    })
+})}
 
 filterButton.on("click", function(){
-    let filterDate = d3.select('#datetime').property('value');
-    let filteredData = tableData.filter(dates => dates.datetime === filterDate);
-    var tbody = tbody.append("tr");
-    filteredData.forEach(function(info){
-        var row = tbody.append("tr");
-        Object.entries(info).forEach(function ([key, value]) {
-            //     // Append a cell to the row for each value
-            var cell = tbody.append("td");
-            cell.text(value);
-          });
-    })
+    d3.event.preventDefault();
+    let filteredData = tableData;
+    var dateFilter = d3.select("#datetime").property("value")
+    filteredData = filteredData.filter(row => row.datetime === dateFilter);
+    createData(filteredData);
 })
+createData(tableData)
