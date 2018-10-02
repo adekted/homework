@@ -2,8 +2,8 @@
 var width = parseInt(d3.select("#scatter").style("width"));
 var height = width - width/2.5
 var margin = 25;
-var paddingB = 50;
-var paddingL = 50;
+var paddingB =  10;
+var paddingL = 10;
 var labelArea = 75;
 var circleRadius = 10;
 
@@ -95,8 +95,66 @@ function visualization(Data){
     var yScale = d3.scaleLinear().domain([yMin, yMax]).range([height - margin - labelArea, margin])
     var xAxis = d3.axisBottom(xScale);
     var yAxis = d3.axisLeft(yScale);
+    
+    xAxis.ticks(10);
+    yAxis.ticks(10);
+    svg.append('g').call(xAxis).attr("class", "xAxis").attr("transform", "translate(0," + (height - margin - labelArea) + ")");
+    svg.append('g').call(yAxis).attr("class", "yAxis").attr("transform", "translate(" + (margin + labelArea) + ", 0)");
+
+    var circleGroup = svg.selectAll("g circleGroup").data(Data).enter();
+
+    circleGroup.append("circle")
+    .attr("cx", function(d) {return xScale(d[actX]);})
+    .attr("cy", function(d) {return yScale(d[actY]);})
+    .attr("r", circleRadius)
+    .attr("class", function(d) {return "stateCircle " + d.abbr;})
+    .on("mouseover", function(d) {toolTip.show(d, this); d3.select(this).style("stroke", "#323232")})
+    .on("mouseout", function(d) {toolTip.hide(d); d3.select(this).style("stroke", "e3e3e3")})
+
+    circleGroup.append('text').text(function(d){return d.abbr;})
+    .attr("dx", function(d){return xScale(d[actX]);})
+    .attr("dy", function(d){return yScale(d[actY]) + circleRadius/2.5;})
+    .attr("font-size", circleRadius)
+    .attr("class", "stateText")
+    .on("mouseover", function(d){toolTip.show(d); d3.select("." + d.abbr).style("stroke", "#323232")})
+    .on("mouseout", function(d){toolTip.hide(d); d3.select("." + d.abbr).style("stroke", "#e3e3e3")})
+
+    d3.selectAll(".aText").on("click", function(){
+        var atext_self = d3.select(this)
+        if (self.classed("inactive")){
+            var atext_axis = self.attr("data-axis")
+            var atext_name = self.attr("data-name")
+
+            if (atext_axis === "x") {
+                actX = atext_name
+                xMinMax();
+                xScale.domain([xMin, xMax]);
+                svg.select(".xAxis").transition.duration(500).call(xAxis);
+                d3.selectAll("circle").each(function(){
+                    d3.select(this).transition().attr("cx", function(d){return xScale(d[actX]).duration(500);})
+                });
+                d3.selectAll(".stateText").each(function(){
+                    d3.select(this).transition().attr("dx", function(d){return xScale(d[actX]).duration(500);})
+                });
+                labelChange(axis, self);
+            }
+            else {
+                actY = atext_name
+                yMinMax();
+                yScale.domain([yMin, yMax]);
+                svg.select(".yAxis").transition.duration(500).call(yAxis);
+                d3.selectAll("circle").each(function(){
+                    d3.select(this).transition().attr("cy", function(d){return yScale(d[actY]).duration(500);})
+                });
+                d3.selectAll(".stateText").each(function(){
+                    d3.select(this).transition().attr("dy", function(d){return yScale(d[actY]).duration(500);})
+                });
+                labelChange(axis, self);
+            }
+        }
+    })
 }
 
-d3.csv("assets/data/data.csv").then(function(data){
-    visualize(data);
+d3.csv("assets/data/data.csv", function(data){
+    visualization(data);
 })
